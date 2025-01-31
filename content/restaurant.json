@@ -39,7 +39,7 @@
         "uk": "Ось меню. Я дам вам час вибрати."
       },
       "start": 10,
-      "end": 14
+      "end": 15
     },
     {
       "french": "Qu'est-ce que vous recommandez?",
@@ -47,8 +47,8 @@
         "en": "What do you recommend?",
         "uk": "Що ви рекомендуєте?"
       },
-      "start": 14,
-      "end": 17
+      "start": 15,
+      "end": 18
     },
     {
       "french": "Le plat du jour est un steak avec des légumes grillés.",
@@ -56,8 +56,8 @@
         "en": "Today's special is steak with grilled vegetables.",
         "uk": "Стравою дня є стейк з гриль-овочами."
       },
-      "start": 17,
-      "end": 21
+      "start": 18,
+      "end": 22
     },
     {
       "french": "Très bien, je vais prendre ça.",
@@ -65,8 +65,8 @@
         "en": "Very well, I'll have that.",
         "uk": "Дуже добре, я візьму це."
       },
-      "start": 21,
-      "end": 24
+      "start": 22,
+      "end": 25
     },
     {
       "french": "Et pour vous, madame?",
@@ -74,8 +74,8 @@
         "en": "And for you, madam?",
         "uk": "А для вас, мадам?"
       },
-      "start": 24,
-      "end": 26
+      "start": 25,
+      "end": 27
     },
     {
       "french": "Je prendrai une salade niçoise, s'il vous plaît.",
@@ -83,8 +83,8 @@
         "en": "I'll have a Niçoise salad, please.",
         "uk": "Я візьму салат Нісуаз, будь ласка."
       },
-      "start": 26,
-      "end": 29
+      "start": 27,
+      "end": 32
     },
     {
       "french": "Et comme boisson?",
@@ -92,8 +92,8 @@
         "en": "And for drinks?",
         "uk": "А що будете пити?"
       },
-      "start": 29,
-      "end": 31
+      "start": 32,
+      "end": 34
     },
     {
       "french": "Une bouteille d'eau minérale et un verre de vin rouge.",
@@ -101,8 +101,8 @@
         "en": "A bottle of mineral water and a glass of red wine.",
         "uk": "Пляшку мінеральної води та келих червоного вина."
       },
-      "start": 31,
-      "end": 34
+      "start": 34,
+      "end": 38
     },
     {
       "french": "Très bien. Vous voulez du pain avec votre repas?",
@@ -110,8 +110,8 @@
         "en": "Very well. Would you like some bread with your meal?",
         "uk": "Дуже добре. Бажаєте хліб до вашої страви?"
       },
-      "start": 34,
-      "end": 37
+      "start": 38,
+      "end": 43
     },
     {
       "french": "Oui, merci.",
@@ -119,8 +119,8 @@
         "en": "Yes, thank you.",
         "uk": "Так, дякую."
       },
-      "start": 37,
-      "end": 38
+      "start": 43,
+      "end": 45
     },
     {
       "french": "Voici votre repas. Bon appétit!",
@@ -128,8 +128,8 @@
         "en": "Here is your meal. Enjoy your meal!",
         "uk": "Ось ваша страва. Смачного!"
       },
-      "start": 38,
-      "end": 41
+      "start": 45,
+      "end": 49
     },
     {
       "french": "Merci beaucoup!",
@@ -137,8 +137,8 @@
         "en": "Thank you very much!",
         "uk": "Дякую дуже!"
       },
-      "start": 41,
-      "end": 42
+      "start": 49,
+      "end": 52
     },
     {
       "french": "Tout se passe bien?",
@@ -146,8 +146,8 @@
         "en": "Is everything going well?",
         "uk": "Все добре?"
       },
-      "start": 42,
-      "end": 44
+      "start": 52,
+      "end": 54
     },
     {
       "french": "Oui, c'est délicieux!",
@@ -155,8 +155,8 @@
         "en": "Yes, it's delicious!",
         "uk": "Так, це дуже смачно!"
       },
-      "start": 44,
-      "end": 46
+      "start": 54,
+      "end": 57
     },
     {
       "french": "Souhaitez-vous un dessert?",
@@ -164,8 +164,8 @@
         "en": "Would you like a dessert?",
         "uk": "Бажаєте десерт?"
       },
-      "start": 46,
-      "end": 48
+      "start": 57,
+      "end": 60
     },
     {
       "french": "Oui, une tarte aux pommes pour moi, s'il vous plaît.",
@@ -173,8 +173,8 @@
         "en": "Yes, an apple tart for me, please.",
         "uk": "Так, яблучний пиріг для мене, будь ласка."
       },
-      "start": 48,
-      "end": 50
+      "start": 60,
+      "end": 64
     },
     {
       "french": "Et pour vous, madame?",
@@ -182,8 +182,8 @@
         "en": "And for you, madam?",
         "uk": "А для вас, мадам?"
       },
-      "start": 50,
-      "end": 51
+      "start": 64,
+      "end": 66
     },
     {
       "french": "Un café et une crème brûlée, s'il vous plaît.",
@@ -191,8 +191,8 @@
         "en": "A coffee and a crème brûlée, please.",
         "uk": "Каву та крем-брюле, будь ласка."
       },
-      "start": 51,
-      "end": 54
+      "start": 66,
+      "end": 70
     },
     {
       "french": "D'accord. Je vous apporte ça tout de suite.",
@@ -200,8 +200,8 @@
         "en": "Alright. I'll bring that right away.",
         "uk": "Гаразд. Я зараз принесу."
       },
-      "start": 54,
-      "end": 56
+      "start": 70,
+      "end": 75
     },
     {
       "french": "L'addition, s'il vous plaît.",
@@ -209,8 +209,8 @@
         "en": "The check, please.",
         "uk": "Рахунок, будь ласка."
       },
-      "start": 56,
-      "end": 57
+      "start": 75,
+      "end": 78
     },
     {
       "french": "Voici votre addition. Cela fait 42 euros.",
@@ -218,8 +218,8 @@
         "en": "Here is your bill. That will be 42 euros.",
         "uk": "Ось ваш рахунок. З вас 42 євро."
       },
-      "start": 57,
-      "end": 60
+      "start": 78,
+      "end": 83
     },
     {
       "french": "Je paie par carte.",
@@ -227,8 +227,8 @@
         "en": "I’ll pay by card.",
         "uk": "Я оплачую карткою."
       },
-      "start": 60,
-      "end": 61
+      "start": 83,
+      "end": 86
     },
     {
       "french": "Merci beaucoup et bonne soirée!",
@@ -236,8 +236,8 @@
         "en": "Thank you very much and have a nice evening!",
         "uk": "Дуже дякую і гарного вечора!"
       },
-      "start": 61,
-      "end": 63
+      "start": 86,
+      "end": 89
     }
   ]
 }

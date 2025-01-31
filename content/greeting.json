@@ -30,7 +30,7 @@
         "uk": "А ви?"
       },
       "start": 6,
-      "end": 9
+      "end": 8
     },
     {
       "french": "Moi aussi, merci.",
@@ -38,8 +38,8 @@
         "en": "Me too, thank you.",
         "uk": "Я теж, дякую."
       },
-      "start": 9,
-      "end": 12
+      "start": 8,
+      "end": 11
     },
     {
       "french": "Quel est votre nom?",
@@ -47,8 +47,8 @@
         "en": "What is your name?",
         "uk": "Як вас звати?"
       },
-      "start": 12,
-      "end": 15
+      "start": 11,
+      "end": 14
     },
     {
       "french": "Je m'appelle Pierre. Et vous?",
@@ -56,7 +56,7 @@
         "en": "My name is Pierre. And you?",
         "uk": "Мене звати П'єр. А вас?"
       },
-      "start": 15,
+      "start": 14,
       "end": 18
     },
     {
@@ -66,7 +66,7 @@
         "uk": "Мене звати Софі."
       },
       "start": 18,
-      "end": 21
+      "end": 20
     },
     {
       "french": "Enchanté!",
@@ -74,8 +74,8 @@
         "en": "Nice to meet you!",
         "uk": "Приємно познайомитися!"
       },
-      "start": 21,
-      "end": 24
+      "start": 20,
+      "end": 22
     },
     {
       "french": "Enchantée!",
@@ -83,8 +83,8 @@
         "en": "Nice to meet you!",
         "uk": "Приємно познайомитися!"
       },
-      "start": 24,
-      "end": 27
+      "start": 22,
+      "end": 24
     },
     {
       "french": "D'où venez-vous?",
@@ -92,8 +92,8 @@
         "en": "Where are you from?",
         "uk": "Звідки ви?"
       },
-      "start": 27,
-      "end": 30
+      "start": 24,
+      "end": 26
     },
     {
       "french": "Je viens de France. Et vous?",
@@ -101,8 +101,8 @@
         "en": "I am from France. And you?",
         "uk": "Я з Франції. А ви?"
       },
-      "start": 30,
-      "end": 33
+      "start": 26,
+      "end": 30
     },
     {
       "french": "Je viens d'Ukraine.",
@@ -110,8 +110,8 @@
         "en": "I am from Ukraine.",
         "uk": "Я з України."
       },
-      "start": 33,
-      "end": 36
+      "start": 30,
+      "end": 33
     },
     {
       "french": "Bienvenue en France!",
@@ -119,8 +119,8 @@
         "en": "Welcome to France!",
         "uk": "Ласкаво просимо до Франції!"
       },
-      "start": 36,
-      "end": 39
+      "start": 33,
+      "end": 36
     }
   ]
 }

@@ -13,7 +13,7 @@
         "uk": "Прокидайся, мій любий, час вставати!"
       },
       "start": 0,
-      "end": 3
+      "end": 4
     },
     {
       "french": "Maman... encore cinq minutes...",
@@ -21,8 +21,8 @@
         "en": "Mom... five more minutes...",
         "uk": "Мамо... ще п’ять хвилин..."
       },
-      "start": 3,
-      "end": 6
+      "start": 4,
+      "end": 7
     },
     {
       "french": "Non, non! Tu vas être en retard. Allez, debout!",
@@ -30,8 +30,8 @@
         "en": "No, no! You’re going to be late. Come on, get up!",
         "uk": "Ні, ні! Ти запізнишся. Давай, вставай!"
       },
-      "start": 6,
-      "end": 9
+      "start": 7,
+      "end": 14
     },
     {
       "french": "D'accord... je me lève...",
@@ -39,8 +39,8 @@
         "en": "Okay... I'm getting up...",
         "uk": "Гаразд... я встаю..."
       },
-      "start": 9,
-      "end": 12
+      "start": 14,
+      "end": 16
     },
     {
       "french": "N'oublie pas de te laver le visage et de te brosser les dents!",
@@ -48,8 +48,8 @@
         "en": "Don't forget to wash your face and brush your teeth!",
         "uk": "Не забудь вмитися і почистити зуби!"
       },
-      "start": 12,
-      "end": 16
+      "start": 16,
+      "end": 20
     },
     {
       "french": "Viens à table! Le petit déjeuner est prêt.",
@@ -57,8 +57,8 @@
         "en": "Come to the table! Breakfast is ready.",
         "uk": "Йди до столу! Сніданок готовий."
       },
-      "start": 16,
-      "end": 19
+      "start": 20,
+      "end": 25
     },
     {
       "french": "Qu’est-ce qu’on mange?",
@@ -66,8 +66,8 @@
         "en": "What are we eating?",
         "uk": "Що ми їмо?"
       },
-      "start": 19,
-      "end": 21
+      "start": 25,
+      "end": 27
     },
     {
       "french": "Du pain avec du beurre et de la confiture, et un verre de lait.",
@@ -75,8 +75,8 @@
         "en": "Bread with butter and jam, and a glass of milk.",
         "uk": "Хліб з маслом і варенням, і склянка молока."
       },
-      "start": 21,
-      "end": 25
+      "start": 27,
+      "end": 31
     },
     {
       "french": "Miam! J’adore la confiture.",
@@ -85,7 +85,7 @@
         "uk": "Смакота! Я люблю варення."
       },
       "start": 25,
-      "end": 27
+      "end": 36
     },
     {
       "french": "Prêt pour l’école? Mets tes chaussures et prends ton cartable.",
@@ -93,8 +93,8 @@
         "en": "Ready for school? Put on your shoes and take your schoolbag.",
         "uk": "Готовий до школи? Взувайся і бери рюкзак."
       },
-      "start": 27,
-      "end": 31
+      "start": 36,
+      "end": 41
     },
     {
       "french": "Oui, papa!",
@@ -102,8 +102,8 @@
         "en": "Yes, Dad!",
         "uk": "Так, тату!"
       },
-      "start": 31,
-      "end": 32
+      "start": 41,
+      "end": 43
     },
     {
       "french": "À ce soir, maman!",
@@ -111,8 +111,8 @@
         "en": "See you this evening, Mom!",
         "uk": "До вечора, мамо!"
       },
-      "start": 32,
-      "end": 34
+      "start": 43,
+      "end": 46
     },
     {
       "french": "Bonne journée, mon chéri!",
@@ -120,8 +120,8 @@
         "en": "Have a great day, my dear!",
         "uk": "Гарного дня, мій любий!"
       },
-      "start": 34,
-      "end": 36
+      "start": 46,
+      "end": 49
     },
     {
       "french": "As-tu tout pris? Ton cartable, ton cahier?",
@@ -129,8 +129,8 @@
         "en": "Did you take everything? Your schoolbag, your notebook?",
         "uk": "Ти все взяв? Рюкзак, зошит?"
       },
-      "start": 36,
-      "end": 39
+      "start": 49,
+      "end": 54
     },
     {
       "french": "Oui, tout est là!",
@@ -138,8 +138,8 @@
         "en": "Yes, everything is here!",
         "uk": "Так, все тут!"
       },
-      "start": 39,
-      "end": 41
+      "start": 54,
+      "end": 57
     },
     {
       "french": "Alors, allons-y. L’école nous attend!",
@@ -147,8 +147,8 @@
         "en": "Then let's go. School is waiting for us!",
         "uk": "Тоді ходімо. Школа чекає на нас!"
       },
-      "start": 41,
-      "end": 44
+      "start": 57,
+      "end": 61
     },
     {
       "french": "Papa, pourquoi il y a tant de voitures ce matin?",
@@ -156,8 +156,8 @@
         "en": "Dad, why are there so many cars this morning?",
         "uk": "Тату, чому сьогодні так багато машин?"
       },
-      "start": 44,
-      "end": 47
+      "start": 61,
+      "end": 65
     },
     {
       "french": "C’est l’heure de pointe. Tout le monde va au travail ou à l’école.",
@@ -165,8 +165,8 @@
         "en": "It’s rush hour. Everyone is going to work or school.",
         "uk": "Це година пік. Усі їдуть на роботу або до школи."
       },
-      "start": 47,
-      "end": 51
+      "start": 65,
+      "end": 70
     },
     {
       "french": "Ah d’accord… On arrive bientôt?",
@@ -174,8 +174,8 @@
         "en": "Oh, okay… Are we arriving soon?",
         "uk": "О, гаразд… Ми скоро приїдемо?"
       },
-      "start": 51,
-      "end": 54
+      "start": 70,
+      "end": 74
     },
     {
       "french": "Oui, regarde, l’école est juste là.",
@@ -183,8 +183,8 @@
         "en": "Yes, look, the school is right there.",
         "uk": "Так, дивись, школа прямо там."
       },
-      "start": 54,
-      "end": 57
+      "start": 74,
+      "end": 78
     },
     {
       "french": "Merci de m’avoir emmené, papa!",
@@ -192,8 +192,8 @@
         "en": "Thanks for taking me, Dad!",
         "uk": "Дякую, що відвіз мене, тату!"
       },
-      "start": 57,
-      "end": 59
+      "start": 78,
+      "end": 81
     },
     {
       "french": "De rien, passe une bonne journée! À ce soir!",
@@ -201,8 +201,8 @@
         "en": "You're welcome, have a great day! See you this evening!",
         "uk": "Будь ласка, гарного дня! До вечора!"
       },
-      "start": 59,
-      "end": 62
+      "start": 81,
+      "end": 86
     }
   ]
 }

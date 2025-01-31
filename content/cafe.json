@@ -12,7 +12,7 @@
         "uk": "Добрий день, я би хотів каву, будь ласка."
       },
       "start": 0,
-      "end": 4
+      "end": 3
     },
     {
       "french": "Bien sûr. Vous le voulez comment?",
@@ -20,7 +20,7 @@
         "en": "Of course. How would you like it?",
         "uk": "Звичайно. Яку саме ви бажаєте?"
       },
-      "start": 4,
+      "start": 3,
       "end": 7
     },
     {
@@ -30,7 +30,7 @@
         "uk": "Каву з молоком, будь ласка."
       },
       "start": 7,
-      "end": 10
+      "end": 11
     },
     {
       "french": "Vous désirez autre chose?",
@@ -38,7 +38,7 @@
         "en": "Would you like anything else?",
         "uk": "Бажаєте ще щось?"
       },
-      "start": 10,
+      "start": 11,
       "end": 13
     },
     {
@@ -57,7 +57,7 @@
         "uk": "Добре, це все?"
       },
       "start": 16,
-      "end": 19
+      "end": 20
     },
     {
       "french": "Oui, c'est tout. C'est combien?",
@@ -65,8 +65,8 @@
         "en": "Yes, that's all. How much is it?",
         "uk": "Так, це все. Скільки це коштує?"
       },
-      "start": 19,
-      "end": 22
+      "start": 20,
+      "end": 24
     },
     {
       "french": "Ça fait 7 euros 50.",
@@ -74,8 +74,8 @@
         "en": "That's 7 euros 50.",
         "uk": "Це 7 євро 50 центів."
       },
-      "start": 22,
-      "end": 25
+      "start": 24,
+      "end": 27
     },
     {
       "french": "Puis-je payer par carte?",
@@ -83,8 +83,8 @@
         "en": "Can I pay by card?",
         "uk": "Можна оплатити карткою?"
       },
-      "start": 25,
-      "end": 28
+      "start": 27,
+      "end": 30
     },
     {
       "french": "Oui, bien sûr.",
@@ -92,8 +92,8 @@
         "en": "Yes, of course.",
         "uk": "Так, звичайно."
       },
-      "start": 28,
-      "end": 30
+      "start": 30,
+      "end": 32
     },
     {
       "french": "Merci beaucoup!",
@@ -101,8 +101,8 @@
         "en": "Thank you very much!",
         "uk": "Дякую дуже!"
       },
-      "start": 30,
-      "end": 32
+      "start": 32,
+      "end": 35
     },
     {
       "french": "Je vous en prie. Bonne journée!",
@@ -110,8 +110,8 @@
         "en": "You're welcome. Have a nice day!",
         "uk": "Будь ласка. Гарного дня!"
       },
-      "start": 32,
-      "end": 35
+      "start": 35,
+      "end": 39
     },
     {
       "french": "À vous aussi!",
@@ -119,8 +119,8 @@
         "en": "You too!",
         "uk": "Вам також!"
       },
-      "start": 35,
-      "end": 37
+      "start": 39,
+      "end": 41
     }
   ]
 }

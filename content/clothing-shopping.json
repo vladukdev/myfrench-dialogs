@@ -12,7 +12,7 @@
         "uk": "Добрий день, можу вам допомогти?"
       },
       "start": 0,
-      "end": 3
+      "end": 2
     },
     {
       "french": "Oui, je cherche une chemise bleue.",
@@ -20,7 +20,7 @@
         "en": "Yes, I'm looking for a blue shirt.",
         "uk": "Так, я шукаю блакитну сорочку."
       },
-      "start": 3,
+      "start": 2,
       "end": 6
     },
     {
@@ -39,7 +39,7 @@
         "uk": "Я ношу розмір M."
       },
       "start": 9,
-      "end": 12
+      "end": 11
     },
     {
       "french": "Voilà une chemise bleue en taille M. Vous voulez l'essayer?",
@@ -47,8 +47,8 @@
         "en": "Here's a blue shirt in size M. Would you like to try it on?",
         "uk": "Ось блакитна сорочка розміру M. Хочете її приміряти?"
       },
-      "start": 12,
-      "end": 16
+      "start": 11,
+      "end": 15
     },
     {
       "french": "Oui, où sont les cabines d'essayage?",
@@ -56,7 +56,7 @@
         "en": "Yes, where are the fitting rooms?",
         "uk": "Так, де знаходяться примірочні?"
       },
-      "start": 16,
+      "start": 15,
       "end": 19
     },
     {
@@ -84,7 +84,7 @@
         "uk": "Бажаєте подивитися інші товари?"
       },
       "start": 27,
-      "end": 30
+      "end": 31
     },
     {
       "french": "Avez-vous des pantalons assortis?",
@@ -92,8 +92,8 @@
         "en": "Do you have matching pants?",
         "uk": "У вас є відповідні штани?"
       },
-      "start": 30,
-      "end": 33
+      "start": 31,
+      "end": 34
     },
     {
       "french": "Oui, nous avons plusieurs modèles. Suivez-moi.",
@@ -101,8 +101,8 @@
         "en": "Yes, we have several models. Follow me.",
         "uk": "Так, у нас є кілька моделей. Слідуйте за мною."
       },
-      "start": 33,
-      "end": 37
+      "start": 34,
+      "end": 40
     },
     {
       "french": "Ce pantalon noir irait bien avec votre chemise.",
@@ -110,8 +110,8 @@
         "en": "These black pants would go well with your shirt.",
         "uk": "Ці чорні штани добре пасуватимуть до вашої сорочки."
       },
-      "start": 37,
-      "end": 40
+      "start": 40,
+      "end": 43
     },
     {
       "french": "D'accord, je vais aussi l'essayer.",
@@ -119,8 +119,8 @@
         "en": "Alright, I'll try them on as well.",
         "uk": "Добре, я також їх приміряю."
       },
-      "start": 40,
-      "end": 43
+      "start": 43,
+      "end": 46
     },
     {
       "french": "Ils me vont bien. Je les prends aussi.",
@@ -128,8 +128,8 @@
         "en": "They fit me well. I'll take them too.",
         "uk": "Вони мені добре пасують. Я їх теж візьму."
       },
-      "start": 43,
-      "end": 46
+      "start": 46,
+      "end": 50
     },
     {
       "french": "Très bien. Vous payez par carte ou en espèces?",
@@ -137,8 +137,8 @@
         "en": "Very well. Will you pay by card or in cash?",
         "uk": "Дуже добре. Ви будете платити карткою чи готівкою?"
       },
-      "start": 46,
-      "end": 49
+      "start": 50,
+      "end": 55
     },
     {
       "french": "Par carte, s'il vous plaît.",
@@ -146,8 +146,8 @@
         "en": "By card, please.",
         "uk": "Карткою, будь ласка."
       },
-      "start": 49,
-      "end": 51
+      "start": 55,
+      "end": 58
     },
     {
       "french": "Merci pour votre achat! Bonne journée!",
@@ -155,8 +155,8 @@
         "en": "Thank you for your purchase! Have a nice day!",
         "uk": "Дякуємо за покупку! Гарного дня!"
       },
-      "start": 51,
-      "end": 54
+      "start": 58,
+      "end": 62
     },
     {
       "french": "Merci, à vous aussi!",
@@ -164,8 +164,8 @@
         "en": "Thank you, you too!",
         "uk": "Дякую, вам також!"
       },
-      "start": 54,
-      "end": 56
+      "start": 62,
+      "end": 65
     }
   ]
 }
