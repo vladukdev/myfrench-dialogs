@@ -263,6 +263,20 @@ async function loadDialog(dialogFile) {
     }
 }
 
+function setupSynchronizedScrolling() {
+    const frenchPanel = document.getElementById('french-panel');
+    const translationPanel = document.getElementById('translation-panel');
+
+    // Synchronize scrolling
+    frenchPanel.addEventListener('scroll', () => {
+        translationPanel.scrollTop = frenchPanel.scrollTop;
+    });
+
+    translationPanel.addEventListener('scroll', () => {
+        frenchPanel.scrollTop = translationPanel.scrollTop;
+    });
+}
+
 // Render the dialog content
 function renderDialog(dialog) {
     const frenchText = document.getElementById('french-text');
@@ -281,6 +295,8 @@ function renderDialog(dialog) {
     `).join('');
 
     setupSentenceHandlers();
+    // Add synchronized scrolling
+    setupSynchronizedScrolling();
 }
 
 // Initialize when DOM is ready

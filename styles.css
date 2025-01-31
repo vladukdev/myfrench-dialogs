@@ -243,3 +243,23 @@ body {
 .text-panel::-webkit-scrollbar-thumb:hover {
     background: var(--accent-color);
 }
+
+.split-view {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+    height: calc(100vh - 200px);
+}
+
+.text-panel {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    overflow-y: auto;
+    background-color: white;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+
+    /* Ensure smooth scrolling */
+    scroll-behavior: smooth;
+}
