@@ -1,0 +1,44 @@
+{
+  "languages": {
+    "en": "English",
+    "uk": "Українська"
+  },
+  "dialogs": [
+    {
+      "id": "greeting",
+      "title": "Basic Greetings",
+      "file": "content/greeting.json",
+      "description": {
+        "en": "Learn basic French greetings",
+        "uk": "Вивчіть базові французькі привітання"
+      }
+    },
+    {
+      "id": "cafe",
+      "title": "At the Café",
+      "file": "content/cafe.json",
+      "description": {
+        "en": "Common phrases used in a café",
+        "uk": "Поширені фрази, які використовуються в кафе"
+      }
+    },
+    {
+      "id": "shopping",
+      "title": "Shopping",
+      "file": "content/clothing-shopping.json",
+      "description": {
+        "en": "Useful phrases for shopping",
+        "uk": "Корисні фрази для покупок"
+      }
+    },
+    {
+      "id": "restaurant",
+      "title": "Restaturant",
+      "file": "content/restaurant.json",
+      "description": {
+        "en": "at the restaurant",
+        "uk": "в ресторані"
+      }
+    }
+  ]
+}

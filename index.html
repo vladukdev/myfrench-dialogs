@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>French Learning App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="app">
+    <!-- Language Selection -->
+    <div class="language-selector">
+        <label for="language-select">Interface Language:</label>
+        <select id="language-select"></select>
+    </div>
+
+    <!-- Main Menu View -->
+    <div id="menu-container" class="container">
+        <h1 data-i18n="title">French Learning Dialogs</h1>
+        <div id="dialog-list" class="dialog-grid">
+            <!-- Dialogs will be loaded here -->
+        </div>
+    </div>
+
+    <!-- Dialog View -->
+    <div id="study-container" class="container hidden">
+        <button id="back-button" class="back-button" data-i18n="back">← Back to Menu</button>
+        <div class="split-view">
+            <div class="text-panel" id="french-panel">
+                <h2>French Text</h2>
+                <div id="french-text"></div>
+            </div>
+            <div class="text-panel" id="translation-panel">
+                <h2 data-i18n="translation">Translation</h2>
+                <div id="translation-text"></div>
+            </div>
+        </div>
+        <div class="audio-controls">
+            <audio id="audio-player">
+                Your browser does not support the audio element.
+            </audio>
+            <input type="range" id="progress-bar" min="0" max="100" value="0">
+            <button id="play-pause" data-i18n="play">Play</button>
+            <button id="restart" data-i18n="restart">Restart</button>
+        </div>
+    </div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+{
+  "title": {
+    "en": "Basic Greetings",
+    "uk": "Базові привітання"
+  },
+  "audio": "content/audio/greeting.mp3",
+  "sentences": [
+    {
+      "french": "Bonjour! Comment allez-vous?",
+      "translation": {
+        "en": "Hello! How are you?",
+        "uk": "Привіт! Як справи?"
+      },
+      "start": 0,
+      "end": 3
+    },
+    {
+      "french": "Je vais très bien, merci.",
+      "translation": {
+        "en": "I am very well, thank you.",
+        "uk": "У мене все добре, дякую."
+      },
+      "start": 3,
+      "end": 6
+    },
+    {
+      "french": "Et vous?",
+      "translation": {
+        "en": "And you?",
+        "uk": "А ви?"
+      },
+      "start": 6,
+      "end": 9
+    }
+  ]
+}

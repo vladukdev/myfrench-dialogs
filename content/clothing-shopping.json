@@ -1,0 +1,81 @@
+{
+  "title": {
+    "en": "Shopping for Clothes",
+    "uk": "Купівля одягу"
+  },
+  "audio": "content/audio/shopping.mp3",
+  "sentences": [
+    {
+      "french": "Bonjour, je peux vous aider?",
+      "translation": {
+        "en": "Hello, can I help you?",
+        "uk": "Добрий день, можу вам допомогти?"
+      },
+      "start": 0,
+      "end": 3
+    },
+    {
+      "french": "Oui, je cherche une chemise bleue.",
+      "translation": {
+        "en": "Yes, I'm looking for a blue shirt.",
+        "uk": "Так, я шукаю блакитну сорочку."
+      },
+      "start": 3,
+      "end": 6
+    },
+    {
+      "french": "Quelle est votre taille?",
+      "translation": {
+        "en": "What's your size?",
+        "uk": "Який у вас розмір?"
+      },
+      "start": 6,
+      "end": 9
+    },
+    {
+      "french": "Je fais du M.",
+      "translation": {
+        "en": "I wear size M.",
+        "uk": "Я ношу розмір M."
+      },
+      "start": 9,
+      "end": 12
+    },
+    {
+      "french": "Voilà une chemise bleue en taille M. Vous voulez l'essayer?",
+      "translation": {
+        "en": "Here's a blue shirt in size M. Would you like to try it on?",
+        "uk": "Ось блакитна сорочка розміру M. Хочете її приміряти?"
+      },
+      "start": 12,
+      "end": 16
+    },
+    {
+      "french": "Oui, où sont les cabines d'essayage?",
+      "translation": {
+        "en": "Yes, where are the fitting rooms?",
+        "uk": "Так, де знаходяться примірочні?"
+      },
+      "start": 16,
+      "end": 19
+    },
+    {
+      "french": "Les cabines sont au fond du magasin, à droite.",
+      "translation": {
+        "en": "The fitting rooms are at the back of the store, on the right.",
+        "uk": "Примірочні в кінці магазину, праворуч."
+      },
+      "start": 19,
+      "end": 23
+    },
+    {
+      "french": "Elle me va très bien. Je vais la prendre.",
+      "translation": {
+        "en": "It fits me very well. I'll take it.",
+        "uk": "Вона мені дуже пасує. Я її візьму."
+      },
+      "start": 23,
+      "end": 27
+    }
+  ]
+}

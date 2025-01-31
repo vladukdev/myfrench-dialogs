@@ -1,0 +1,81 @@
+{
+  "title": {
+    "en": "At the Café",
+    "uk": "У кафе"
+  },
+  "audio": "content/audio/cafe.mp3",
+  "sentences": [
+    {
+      "french": "Bonjour, je voudrais un café s'il vous plaît.",
+      "translation": {
+        "en": "Hello, I would like a coffee please.",
+        "uk": "Добрий день, я би хотів каву, будь ласка."
+      },
+      "start": 0,
+      "end": 4
+    },
+    {
+      "french": "Bien sûr. Vous le voulez comment?",
+      "translation": {
+        "en": "Of course. How would you like it?",
+        "uk": "Звичайно. Яку саме ви бажаєте?"
+      },
+      "start": 4,
+      "end": 7
+    },
+    {
+      "french": "Un café au lait, s'il vous plaît.",
+      "translation": {
+        "en": "A coffee with milk, please.",
+        "uk": "Каву з молоком, будь ласка."
+      },
+      "start": 7,
+      "end": 10
+    },
+    {
+      "french": "Vous désirez autre chose?",
+      "translation": {
+        "en": "Would you like anything else?",
+        "uk": "Бажаєте ще щось?"
+      },
+      "start": 10,
+      "end": 13
+    },
+    {
+      "french": "Oui, un croissant aussi.",
+      "translation": {
+        "en": "Yes, a croissant as well.",
+        "uk": "Так, ще круасан."
+      },
+      "start": 13,
+      "end": 16
+    },
+    {
+      "french": "D'accord, ce sera tout?",
+      "translation": {
+        "en": "Alright, will that be all?",
+        "uk": "Добре, це все?"
+      },
+      "start": 16,
+      "end": 19
+    },
+    {
+      "french": "Oui, c'est tout. C'est combien?",
+      "translation": {
+        "en": "Yes, that's all. How much is it?",
+        "uk": "Так, це все. Скільки це коштує?"
+      },
+      "start": 19,
+      "end": 22
+    },
+    {
+      "french": "Ça fait 7 euros 50.",
+      "translation": {
+        "en": "That's 7 euros 50.",
+        "uk": "Це 7 євро 50 центів."
+      },
+      "start": 22,
+      "end": 25
+    }
+  ]
+}
