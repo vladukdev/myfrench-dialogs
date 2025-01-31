@@ -39,6 +39,15 @@
         "en": "at the restaurant",
         "uk": "в ресторані"
       }
+    },
+    {
+      "id": "morning-routing",
+      "title": "Morning Routine",
+      "file": "content/morning-routine.json",
+      "description": {
+        "en": "Morning routine",
+        "uk": "Ранкова рутина"
+      }
     }
   ]
 }
