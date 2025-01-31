@@ -263,3 +263,13 @@ body {
     /* Ensure smooth scrolling */
     scroll-behavior: smooth;
 }
+
+.text-panel {
+    overflow-y: auto;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+}
+
+.text-panel::-webkit-scrollbar {
+    display: none; /* WebKit browsers (Chrome, Safari) */
+}
