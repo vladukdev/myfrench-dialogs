@@ -76,6 +76,96 @@
       },
       "start": 23,
       "end": 27
+    },
+    {
+      "french": "Voulez-vous voir d'autres articles?",
+      "translation": {
+        "en": "Would you like to see other items?",
+        "uk": "Бажаєте подивитися інші товари?"
+      },
+      "start": 27,
+      "end": 30
+    },
+    {
+      "french": "Avez-vous des pantalons assortis?",
+      "translation": {
+        "en": "Do you have matching pants?",
+        "uk": "У вас є відповідні штани?"
+      },
+      "start": 30,
+      "end": 33
+    },
+    {
+      "french": "Oui, nous avons plusieurs modèles. Suivez-moi.",
+      "translation": {
+        "en": "Yes, we have several models. Follow me.",
+        "uk": "Так, у нас є кілька моделей. Слідуйте за мною."
+      },
+      "start": 33,
+      "end": 37
+    },
+    {
+      "french": "Ce pantalon noir irait bien avec votre chemise.",
+      "translation": {
+        "en": "These black pants would go well with your shirt.",
+        "uk": "Ці чорні штани добре пасуватимуть до вашої сорочки."
+      },
+      "start": 37,
+      "end": 40
+    },
+    {
+      "french": "D'accord, je vais aussi l'essayer.",
+      "translation": {
+        "en": "Alright, I'll try them on as well.",
+        "uk": "Добре, я також їх приміряю."
+      },
+      "start": 40,
+      "end": 43
+    },
+    {
+      "french": "Ils me vont bien. Je les prends aussi.",
+      "translation": {
+        "en": "They fit me well. I'll take them too.",
+        "uk": "Вони мені добре пасують. Я їх теж візьму."
+      },
+      "start": 43,
+      "end": 46
+    },
+    {
+      "french": "Très bien. Vous payez par carte ou en espèces?",
+      "translation": {
+        "en": "Very well. Will you pay by card or in cash?",
+        "uk": "Дуже добре. Ви будете платити карткою чи готівкою?"
+      },
+      "start": 46,
+      "end": 49
+    },
+    {
+      "french": "Par carte, s'il vous plaît.",
+      "translation": {
+        "en": "By card, please.",
+        "uk": "Карткою, будь ласка."
+      },
+      "start": 49,
+      "end": 51
+    },
+    {
+      "french": "Merci pour votre achat! Bonne journée!",
+      "translation": {
+        "en": "Thank you for your purchase! Have a nice day!",
+        "uk": "Дякуємо за покупку! Гарного дня!"
+      },
+      "start": 51,
+      "end": 54
+    },
+    {
+      "french": "Merci, à vous aussi!",
+      "translation": {
+        "en": "Thank you, you too!",
+        "uk": "Дякую, вам також!"
+      },
+      "start": 54,
+      "end": 56
     }
   ]
 }

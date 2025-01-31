@@ -76,6 +76,51 @@
       },
       "start": 22,
       "end": 25
+    },
+    {
+      "french": "Puis-je payer par carte?",
+      "translation": {
+        "en": "Can I pay by card?",
+        "uk": "Можна оплатити карткою?"
+      },
+      "start": 25,
+      "end": 28
+    },
+    {
+      "french": "Oui, bien sûr.",
+      "translation": {
+        "en": "Yes, of course.",
+        "uk": "Так, звичайно."
+      },
+      "start": 28,
+      "end": 30
+    },
+    {
+      "french": "Merci beaucoup!",
+      "translation": {
+        "en": "Thank you very much!",
+        "uk": "Дякую дуже!"
+      },
+      "start": 30,
+      "end": 32
+    },
+    {
+      "french": "Je vous en prie. Bonne journée!",
+      "translation": {
+        "en": "You're welcome. Have a nice day!",
+        "uk": "Будь ласка. Гарного дня!"
+      },
+      "start": 32,
+      "end": 35
+    },
+    {
+      "french": "À vous aussi!",
+      "translation": {
+        "en": "You too!",
+        "uk": "Вам також!"
+      },
+      "start": 35,
+      "end": 37
     }
   ]
 }

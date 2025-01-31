@@ -3,7 +3,7 @@
     "en": "At the Restaurant",
     "uk": "У ресторані"
   },
-  "audio": "content/audio/restaurant.mp3",
+  "audio": "content/audio/restaurant_extended.mp3",
   "sentences": [
     {
       "french": "Bonsoir, vous avez réservé?",
@@ -69,22 +69,175 @@
       "end": 24
     },
     {
+      "french": "Et pour vous, madame?",
+      "translation": {
+        "en": "And for you, madam?",
+        "uk": "А для вас, мадам?"
+      },
+      "start": 24,
+      "end": 26
+    },
+    {
+      "french": "Je prendrai une salade niçoise, s'il vous plaît.",
+      "translation": {
+        "en": "I'll have a Niçoise salad, please.",
+        "uk": "Я візьму салат Нісуаз, будь ласка."
+      },
+      "start": 26,
+      "end": 29
+    },
+    {
       "french": "Et comme boisson?",
       "translation": {
         "en": "And for drinks?",
         "uk": "А що будете пити?"
       },
-      "start": 24,
-      "end": 27
+      "start": 29,
+      "end": 31
     },
     {
-      "french": "Une bouteille d'eau minérale, s'il vous plaît.",
+      "french": "Une bouteille d'eau minérale et un verre de vin rouge.",
       "translation": {
-        "en": "A bottle of mineral water, please.",
-        "uk": "Пляшку мінеральної води, будь ласка."
+        "en": "A bottle of mineral water and a glass of red wine.",
+        "uk": "Пляшку мінеральної води та келих червоного вина."
       },
-      "start": 27,
-      "end": 30
+      "start": 31,
+      "end": 34
+    },
+    {
+      "french": "Très bien. Vous voulez du pain avec votre repas?",
+      "translation": {
+        "en": "Very well. Would you like some bread with your meal?",
+        "uk": "Дуже добре. Бажаєте хліб до вашої страви?"
+      },
+      "start": 34,
+      "end": 37
+    },
+    {
+      "french": "Oui, merci.",
+      "translation": {
+        "en": "Yes, thank you.",
+        "uk": "Так, дякую."
+      },
+      "start": 37,
+      "end": 38
+    },
+    {
+      "french": "Voici votre repas. Bon appétit!",
+      "translation": {
+        "en": "Here is your meal. Enjoy your meal!",
+        "uk": "Ось ваша страва. Смачного!"
+      },
+      "start": 38,
+      "end": 41
+    },
+    {
+      "french": "Merci beaucoup!",
+      "translation": {
+        "en": "Thank you very much!",
+        "uk": "Дякую дуже!"
+      },
+      "start": 41,
+      "end": 42
+    },
+    {
+      "french": "Tout se passe bien?",
+      "translation": {
+        "en": "Is everything going well?",
+        "uk": "Все добре?"
+      },
+      "start": 42,
+      "end": 44
+    },
+    {
+      "french": "Oui, c'est délicieux!",
+      "translation": {
+        "en": "Yes, it's delicious!",
+        "uk": "Так, це дуже смачно!"
+      },
+      "start": 44,
+      "end": 46
+    },
+    {
+      "french": "Souhaitez-vous un dessert?",
+      "translation": {
+        "en": "Would you like a dessert?",
+        "uk": "Бажаєте десерт?"
+      },
+      "start": 46,
+      "end": 48
+    },
+    {
+      "french": "Oui, une tarte aux pommes pour moi, s'il vous plaît.",
+      "translation": {
+        "en": "Yes, an apple tart for me, please.",
+        "uk": "Так, яблучний пиріг для мене, будь ласка."
+      },
+      "start": 48,
+      "end": 50
+    },
+    {
+      "french": "Et pour vous, madame?",
+      "translation": {
+        "en": "And for you, madam?",
+        "uk": "А для вас, мадам?"
+      },
+      "start": 50,
+      "end": 51
+    },
+    {
+      "french": "Un café et une crème brûlée, s'il vous plaît.",
+      "translation": {
+        "en": "A coffee and a crème brûlée, please.",
+        "uk": "Каву та крем-брюле, будь ласка."
+      },
+      "start": 51,
+      "end": 54
+    },
+    {
+      "french": "D'accord. Je vous apporte ça tout de suite.",
+      "translation": {
+        "en": "Alright. I'll bring that right away.",
+        "uk": "Гаразд. Я зараз принесу."
+      },
+      "start": 54,
+      "end": 56
+    },
+    {
+      "french": "L'addition, s'il vous plaît.",
+      "translation": {
+        "en": "The check, please.",
+        "uk": "Рахунок, будь ласка."
+      },
+      "start": 56,
+      "end": 57
+    },
+    {
+      "french": "Voici votre addition. Cela fait 42 euros.",
+      "translation": {
+        "en": "Here is your bill. That will be 42 euros.",
+        "uk": "Ось ваш рахунок. З вас 42 євро."
+      },
+      "start": 57,
+      "end": 60
+    },
+    {
+      "french": "Je paie par carte.",
+      "translation": {
+        "en": "I’ll pay by card.",
+        "uk": "Я оплачую карткою."
+      },
+      "start": 60,
+      "end": 61
+    },
+    {
+      "french": "Merci beaucoup et bonne soirée!",
+      "translation": {
+        "en": "Thank you very much and have a nice evening!",
+        "uk": "Дуже дякую і гарного вечора!"
+      },
+      "start": 61,
+      "end": 63
     }
   ]
 }

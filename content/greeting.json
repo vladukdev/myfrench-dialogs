@@ -31,6 +31,96 @@
       },
       "start": 6,
       "end": 9
+    },
+    {
+      "french": "Moi aussi, merci.",
+      "translation": {
+        "en": "Me too, thank you.",
+        "uk": "Я теж, дякую."
+      },
+      "start": 9,
+      "end": 12
+    },
+    {
+      "french": "Quel est votre nom?",
+      "translation": {
+        "en": "What is your name?",
+        "uk": "Як вас звати?"
+      },
+      "start": 12,
+      "end": 15
+    },
+    {
+      "french": "Je m'appelle Pierre. Et vous?",
+      "translation": {
+        "en": "My name is Pierre. And you?",
+        "uk": "Мене звати П'єр. А вас?"
+      },
+      "start": 15,
+      "end": 18
+    },
+    {
+      "french": "Je m'appelle Sophie.",
+      "translation": {
+        "en": "My name is Sophie.",
+        "uk": "Мене звати Софі."
+      },
+      "start": 18,
+      "end": 21
+    },
+    {
+      "french": "Enchanté!",
+      "translation": {
+        "en": "Nice to meet you!",
+        "uk": "Приємно познайомитися!"
+      },
+      "start": 21,
+      "end": 24
+    },
+    {
+      "french": "Enchantée!",
+      "translation": {
+        "en": "Nice to meet you!",
+        "uk": "Приємно познайомитися!"
+      },
+      "start": 24,
+      "end": 27
+    },
+    {
+      "french": "D'où venez-vous?",
+      "translation": {
+        "en": "Where are you from?",
+        "uk": "Звідки ви?"
+      },
+      "start": 27,
+      "end": 30
+    },
+    {
+      "french": "Je viens de France. Et vous?",
+      "translation": {
+        "en": "I am from France. And you?",
+        "uk": "Я з Франції. А ви?"
+      },
+      "start": 30,
+      "end": 33
+    },
+    {
+      "french": "Je viens d'Ukraine.",
+      "translation": {
+        "en": "I am from Ukraine.",
+        "uk": "Я з України."
+      },
+      "start": 33,
+      "end": 36
+    },
+    {
+      "french": "Bienvenue en France!",
+      "translation": {
+        "en": "Welcome to France!",
+        "uk": "Ласкаво просимо до Франції!"
+      },
+      "start": 36,
+      "end": 39
     }
   ]
 }

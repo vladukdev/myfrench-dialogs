@@ -1,0 +1,208 @@
+{
+  "title": {
+    "en": "Morning Routine",
+    "fr": "Routine du matin",
+    "uk": "Ранковий розпорядок"
+  },
+  "audio": "content/audio/morning_routine.mp3",
+  "sentences": [
+    {
+      "french": "Réveille-toi, mon chéri, il est l’heure de se lever!",
+      "translation": {
+        "en": "Wake up, my darling, it's time to get up!",
+        "uk": "Прокидайся, мій любий, час вставати!"
+      },
+      "start": 0,
+      "end": 3
+    },
+    {
+      "french": "Maman... encore cinq minutes...",
+      "translation": {
+        "en": "Mom... five more minutes...",
+        "uk": "Мамо... ще п’ять хвилин..."
+      },
+      "start": 3,
+      "end": 6
+    },
+    {
+      "french": "Non, non! Tu vas être en retard. Allez, debout!",
+      "translation": {
+        "en": "No, no! You’re going to be late. Come on, get up!",
+        "uk": "Ні, ні! Ти запізнишся. Давай, вставай!"
+      },
+      "start": 6,
+      "end": 9
+    },
+    {
+      "french": "D'accord... je me lève...",
+      "translation": {
+        "en": "Okay... I'm getting up...",
+        "uk": "Гаразд... я встаю..."
+      },
+      "start": 9,
+      "end": 12
+    },
+    {
+      "french": "N'oublie pas de te laver le visage et de te brosser les dents!",
+      "translation": {
+        "en": "Don't forget to wash your face and brush your teeth!",
+        "uk": "Не забудь вмитися і почистити зуби!"
+      },
+      "start": 12,
+      "end": 16
+    },
+    {
+      "french": "Viens à table! Le petit déjeuner est prêt.",
+      "translation": {
+        "en": "Come to the table! Breakfast is ready.",
+        "uk": "Йди до столу! Сніданок готовий."
+      },
+      "start": 16,
+      "end": 19
+    },
+    {
+      "french": "Qu’est-ce qu’on mange?",
+      "translation": {
+        "en": "What are we eating?",
+        "uk": "Що ми їмо?"
+      },
+      "start": 19,
+      "end": 21
+    },
+    {
+      "french": "Du pain avec du beurre et de la confiture, et un verre de lait.",
+      "translation": {
+        "en": "Bread with butter and jam, and a glass of milk.",
+        "uk": "Хліб з маслом і варенням, і склянка молока."
+      },
+      "start": 21,
+      "end": 25
+    },
+    {
+      "french": "Miam! J’adore la confiture.",
+      "translation": {
+        "en": "Yum! I love jam.",
+        "uk": "Смакота! Я люблю варення."
+      },
+      "start": 25,
+      "end": 27
+    },
+    {
+      "french": "Prêt pour l’école? Mets tes chaussures et prends ton cartable.",
+      "translation": {
+        "en": "Ready for school? Put on your shoes and take your schoolbag.",
+        "uk": "Готовий до школи? Взувайся і бери рюкзак."
+      },
+      "start": 27,
+      "end": 31
+    },
+    {
+      "french": "Oui, papa!",
+      "translation": {
+        "en": "Yes, Dad!",
+        "uk": "Так, тату!"
+      },
+      "start": 31,
+      "end": 32
+    },
+    {
+      "french": "À ce soir, maman!",
+      "translation": {
+        "en": "See you this evening, Mom!",
+        "uk": "До вечора, мамо!"
+      },
+      "start": 32,
+      "end": 34
+    },
+    {
+      "french": "Bonne journée, mon chéri!",
+      "translation": {
+        "en": "Have a great day, my dear!",
+        "uk": "Гарного дня, мій любий!"
+      },
+      "start": 34,
+      "end": 36
+    },
+    {
+      "french": "As-tu tout pris? Ton cartable, ton cahier?",
+      "translation": {
+        "en": "Did you take everything? Your schoolbag, your notebook?",
+        "uk": "Ти все взяв? Рюкзак, зошит?"
+      },
+      "start": 36,
+      "end": 39
+    },
+    {
+      "french": "Oui, tout est là!",
+      "translation": {
+        "en": "Yes, everything is here!",
+        "uk": "Так, все тут!"
+      },
+      "start": 39,
+      "end": 41
+    },
+    {
+      "french": "Alors, allons-y. L’école nous attend!",
+      "translation": {
+        "en": "Then let's go. School is waiting for us!",
+        "uk": "Тоді ходімо. Школа чекає на нас!"
+      },
+      "start": 41,
+      "end": 44
+    },
+    {
+      "french": "Papa, pourquoi il y a tant de voitures ce matin?",
+      "translation": {
+        "en": "Dad, why are there so many cars this morning?",
+        "uk": "Тату, чому сьогодні так багато машин?"
+      },
+      "start": 44,
+      "end": 47
+    },
+    {
+      "french": "C’est l’heure de pointe. Tout le monde va au travail ou à l’école.",
+      "translation": {
+        "en": "It’s rush hour. Everyone is going to work or school.",
+        "uk": "Це година пік. Усі їдуть на роботу або до школи."
+      },
+      "start": 47,
+      "end": 51
+    },
+    {
+      "french": "Ah d’accord… On arrive bientôt?",
+      "translation": {
+        "en": "Oh, okay… Are we arriving soon?",
+        "uk": "О, гаразд… Ми скоро приїдемо?"
+      },
+      "start": 51,
+      "end": 54
+    },
+    {
+      "french": "Oui, regarde, l’école est juste là.",
+      "translation": {
+        "en": "Yes, look, the school is right there.",
+        "uk": "Так, дивись, школа прямо там."
+      },
+      "start": 54,
+      "end": 57
+    },
+    {
+      "french": "Merci de m’avoir emmené, papa!",
+      "translation": {
+        "en": "Thanks for taking me, Dad!",
+        "uk": "Дякую, що відвіз мене, тату!"
+      },
+      "start": 57,
+      "end": 59
+    },
+    {
+      "french": "De rien, passe une bonne journée! À ce soir!",
+      "translation": {
+        "en": "You're welcome, have a great day! See you this evening!",
+        "uk": "Будь ласка, гарного дня! До вечора!"
+      },
+      "start": 59,
+      "end": 62
+    }
+  ]
+}
