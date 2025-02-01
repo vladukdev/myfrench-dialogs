@@ -15,22 +15,22 @@
       "end": 4
     },
     {
-      "french": "Bien sûr ! Vous êtes loin d’ici ?",
+      "french": "Bien sûr ! Vous cherchez la gare de Perrache ou Part-Dieu ?",
       "translation": {
-        "en": "Of course! Are you far from here?",
-        "uk": "Звичайно! Ви далеко звідси?"
+        "en": "Of course! Are you looking for Perrache or Part-Dieu station?",
+        "uk": "Звичайно! Ви шукаєте вокзал Перраш чи Парт-Дьє?"
       },
       "start": 4,
-      "end": 7
+      "end": 8
     },
     {
-      "french": "Non, je suis au centre-ville, près de la mairie.",
+      "french": "Je vais à Part-Dieu.",
       "translation": {
-        "en": "No, I’m in the city center, near the town hall.",
-        "uk": "Ні, я в центрі міста, біля мерії."
+        "en": "I'm going to Part-Dieu.",
+        "uk": "Я йду на Парт-Дьє."
       },
-      "start": 7,
-      "end": 11
+      "start": 8,
+      "end": 10
     },
     {
       "french": "D’accord ! Prenez cette rue, la rue de la République, tout droit jusqu’au carrefour.",
@@ -38,26 +38,26 @@
         "en": "Alright! Take this street, the Rue de la République, straight ahead until the intersection.",
         "uk": "Добре! Йдіть цією вулицею, вулицею Республіки, прямо до перехрестя."
       },
-      "start": 11,
-      "end": 16
+      "start": 10,
+      "end": 14
     },
     {
-      "french": "Ensuite, tournez à gauche sur la rue Victor Hugo et continuez jusqu’à l’avenue de la Liberté.",
+      "french": "Ensuite, tournez à gauche sur la rue Garibaldi et continuez jusqu’à l’avenue Thiers.",
       "translation": {
-        "en": "Then, turn left onto Rue Victor Hugo and continue until Avenue de la Liberté.",
-        "uk": "Потім поверніть ліворуч на вулицю Віктора Гюго і йдіть до вулиці Свободи."
+        "en": "Then, turn left onto Rue Garibaldi and continue until Avenue Thiers.",
+        "uk": "Потім поверніть ліворуч на вулицю Гарібальді і йдіть до авеню Тієр."
       },
-      "start": 16,
-      "end": 21
+      "start": 14,
+      "end": 18
     },
     {
-      "french": "Vous devrez traverser la place Bellecour. La gare est juste après le pont.",
+      "french": "Vous verrez une grande place avec une fontaine. La gare Part-Dieu est juste après le centre commercial.",
       "translation": {
-        "en": "You’ll have to cross Place Bellecour. The train station is just after the bridge.",
-        "uk": "Вам потрібно буде перетнути площу Белькур. Вокзал буде прямо після мосту."
+        "en": "You’ll see a large square with a fountain. The Part-Dieu station is just after the shopping center.",
+        "uk": "Ви побачите велику площу з фонтаном. Вокзал Парт-Дьє знаходиться відразу після торгового центру."
       },
-      "start": 21,
-      "end": 26
+      "start": 18,
+      "end": 23
     },
     {
       "french": "C’est loin d’ici ?",
@@ -65,8 +65,8 @@
         "en": "Is it far from here?",
         "uk": "Це далеко звідси?"
       },
-      "start": 26,
-      "end": 29
+      "start": 23,
+      "end": 25
     },
     {
       "french": "Non, environ quinze minutes à pied.",
@@ -74,17 +74,17 @@
         "en": "No, about fifteen minutes on foot.",
         "uk": "Ні, це приблизно п’ятнадцять хвилин пішки."
       },
-      "start": 29,
-      "end": 32
+      "start": 25,
+      "end": 28
     },
     {
-      "french": "Si vous préférez, vous pouvez aussi prendre le bus numéro 4.",
+      "french": "Vous pouvez aussi prendre le tramway T1, l’arrêt est juste là.",
       "translation": {
-        "en": "If you prefer, you can also take bus number 4.",
-        "uk": "Якщо хочете, ви також можете сісти на автобус номер 4."
+        "en": "You can also take tram T1, the stop is just there.",
+        "uk": "Ви також можете сісти на трамвай Т1, зупинка ось там."
       },
-      "start": 32,
-      "end": 36
+      "start": 28,
+      "end": 31
     },
     {
       "french": "Merci beaucoup ! Bonne journée !",
@@ -92,8 +92,8 @@
         "en": "Thank you very much! Have a nice day!",
         "uk": "Дуже дякую! Гарного дня!"
       },
-      "start": 36,
-      "end": 40
+      "start": 31,
+      "end": 34
     },
     {
       "french": "Je vous en prie ! Bonne journée à vous aussi !",
@@ -101,44 +101,8 @@
         "en": "You're welcome! Have a nice day too!",
         "uk": "Будь ласка! Вам також гарного дня!"
       },
-      "start": 40,
-      "end": 44
-    },
-    {
-      "french": "Excusez-moi, pourriez-vous me dire comment aller au musée des beaux-arts ?",
-      "translation": {
-        "en": "Excuse me, could you tell me how to get to the Fine Arts Museum?",
-        "uk": "Вибачте, ви могли б сказати, як дістатися до музею образотворчих мистецтв?"
-      },
-      "start": 44,
-      "end": 48
-    },
-    {
-      "french": "Bien sûr ! Allez tout droit jusqu’au rond-point, puis prenez la deuxième à droite, la rue des Arts.",
-      "translation": {
-        "en": "Of course! Go straight until the roundabout, then take the second street on the right, Rue des Arts.",
-        "uk": "Звичайно! Йдіть прямо до кругового перехрестя, потім поверніть на другій вулиці праворуч, вулиця Мистецтв."
-      },
-      "start": 48,
-      "end": 54
-    },
-    {
-      "french": "Le musée des beaux-arts est juste à gauche après la place des Jacobins.",
-      "translation": {
-        "en": "The Fine Arts Museum is just to the left after Place des Jacobins.",
-        "uk": "Музей образотворчих мистецтв буде зліва після площі Жакобен."
-      },
-      "start": 54,
-      "end": 59
-    },
-    {
-      "french": "Merci beaucoup, je vais essayer de le trouver.",
-      "translation": {
-        "en": "Thank you very much, I will try to find it.",
-        "uk": "Дуже дякую, я спробую знайти його."
-      },
-      "start": 59,
-      "end": 63
+      "start": 34,
+      "end": 37
     }
   ]
 }
