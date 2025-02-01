@@ -48,6 +48,60 @@
         "en": "Morning routine",
         "uk": "Ранкова рутина"
       }
+    },
+    {
+      "id": "pharmacy",
+      "title": "At the Pharmacy",
+      "file": "content/pharmacy.json",
+      "description": {
+        "en": "Buying medicine at the pharmacy",
+        "uk": "Покупка ліків у аптеці"
+      }
+    },
+    {
+      "id": "bank",
+      "title": "At the Bank",
+      "file": "content/bank.json",
+      "description": {
+        "en": "Opening a bank account and checking credit eligibility",
+        "uk": "Відкриття банківського рахунку та перевірка кредитоспроможності"
+      }
+    },
+    {
+      "id": "train",
+      "title": "At the Train Station",
+      "file": "content/train.json",
+      "description": {
+        "en": "Buying a train ticket and checking schedule",
+        "uk": "Придбання квитка на потяг і перевірка розкладу"
+      }
+    },
+    {
+      "id": "hotel",
+      "title": "At the Hotel",
+      "file": "content/hotel.json",
+      "description": {
+        "en": "Booking a hotel room and asking about services",
+        "uk": "Бронювання номера в готелі та запит про послуги"
+      }
+    },
+    {
+      "id": "directions",
+      "title": "Asking for Directions",
+      "file": "content/directions.json",
+      "description": {
+        "en": "Asking for directions and understanding the way",
+        "uk": "Запит про напрямок і розуміння маршруту"
+      }
+    },
+    {
+      "id": "post-office",
+      "title": "At the Post Office",
+      "file": "content/post-office.json",
+      "description": {
+        "en": "Buying a postcard and sending a greeting to a friend",
+        "uk": "Придбання листівки та надсилання привітання другу"
+      }
     }
   ]
 }

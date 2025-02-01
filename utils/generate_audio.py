@@ -23,27 +23,37 @@ async def generate_speech(text, voice, output_file):
 async def process_dialog_files():
     """Process all JSON dialog files and generate a single audio file per dialog."""
     for filename in os.listdir(DIALOGS_DIR):
-        if filename.endswith(".json"):
-            filepath = os.path.join(DIALOGS_DIR, filename)
-            with open(filepath, "r", encoding="utf-8") as file:
-                data = json.load(file)
+        if not filename.endswith(".json"):
+            continue
 
-            audio_path = data.get("audio")
-            if not audio_path:
-                continue
+        filepath = os.path.join(DIALOGS_DIR, filename)
+        with open(filepath, "r", encoding="utf-8") as file:
+            data = json.load(file)
 
-            full_audio_path = get_audio_dir(audio_path)
+        audio_path = data.get("audio")
+        if not audio_path:
+            print(f"Skipping {filename}: No audio path specified")
+            continue
 
-            french_texts = [sentence["french"] for sentence in data.get("sentences", []) if "french" in sentence]
-            if not french_texts:
-                continue
+        full_audio_path = get_audio_dir(audio_path)
 
-            # Create a list to store generated audio segments
-            final_audio = AudioSegment.empty()
+        # Check if the audio file already exists
+        if os.path.exists(full_audio_path):
+            print(f"Skipping {filename}: Audio file already exists at {full_audio_path}")
+            continue
 
-            # Add initial silence
-            silence = AudioSegment.silent(duration=500)  # 0.5 second silence
+        french_texts = [sentence["french"] for sentence in data.get("sentences", []) if "french" in sentence]
+        if not french_texts:
+            print(f"Skipping {filename}: No French texts found")
+            continue
 
+        # Create a list to store generated audio segments
+        final_audio = AudioSegment.empty()
+
+        # Add initial silence
+        silence = AudioSegment.silent(duration=500)  # 0.5 second silence
+
+        try:
             for index, sentence in enumerate(french_texts):
                 print(f"Processing sentence {index + 1}/{len(french_texts)}: {sentence}")
 
@@ -77,6 +87,14 @@ async def process_dialog_files():
                 print(f"Generated audio for: {filename} → {full_audio_path}")
             else:
                 print(f"No audio segments generated for: {filename}")
+
+        except Exception as e:
+            print(f"Error processing {filename}: {str(e)}")
+            # Clean up any temporary files if they exist
+            for i in range(len(french_texts)):
+                temp_file = f"temp_audio_{i}.mp3"
+                if os.path.exists(temp_file):
+                    os.remove(temp_file)
 
 def main():
     asyncio.run(process_dialog_files())

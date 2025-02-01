@@ -1,0 +1,144 @@
+{
+  "title": {
+    "en": "Asking for Directions",
+    "uk": "Запит про напрямок"
+  },
+  "audio": "content/audio/directions_extended.mp3",
+  "sentences": [
+    {
+      "french": "Excusez-moi, pourriez-vous m’aider ? Je cherche la gare.",
+      "translation": {
+        "en": "Excuse me, could you help me? I’m looking for the train station.",
+        "uk": "Вибачте, ви могли б мені допомогти? Я шукаю вокзал."
+      },
+      "start": 0,
+      "end": 4
+    },
+    {
+      "french": "Bien sûr ! Vous êtes loin d’ici ?",
+      "translation": {
+        "en": "Of course! Are you far from here?",
+        "uk": "Звичайно! Ви далеко звідси?"
+      },
+      "start": 4,
+      "end": 7
+    },
+    {
+      "french": "Non, je suis au centre-ville, près de la mairie.",
+      "translation": {
+        "en": "No, I’m in the city center, near the town hall.",
+        "uk": "Ні, я в центрі міста, біля мерії."
+      },
+      "start": 7,
+      "end": 11
+    },
+    {
+      "french": "D’accord ! Prenez cette rue, la rue de la République, tout droit jusqu’au carrefour.",
+      "translation": {
+        "en": "Alright! Take this street, the Rue de la République, straight ahead until the intersection.",
+        "uk": "Добре! Йдіть цією вулицею, вулицею Республіки, прямо до перехрестя."
+      },
+      "start": 11,
+      "end": 16
+    },
+    {
+      "french": "Ensuite, tournez à gauche sur la rue Victor Hugo et continuez jusqu’à l’avenue de la Liberté.",
+      "translation": {
+        "en": "Then, turn left onto Rue Victor Hugo and continue until Avenue de la Liberté.",
+        "uk": "Потім поверніть ліворуч на вулицю Віктора Гюго і йдіть до вулиці Свободи."
+      },
+      "start": 16,
+      "end": 21
+    },
+    {
+      "french": "Vous devrez traverser la place Bellecour. La gare est juste après le pont.",
+      "translation": {
+        "en": "You’ll have to cross Place Bellecour. The train station is just after the bridge.",
+        "uk": "Вам потрібно буде перетнути площу Белькур. Вокзал буде прямо після мосту."
+      },
+      "start": 21,
+      "end": 26
+    },
+    {
+      "french": "C’est loin d’ici ?",
+      "translation": {
+        "en": "Is it far from here?",
+        "uk": "Це далеко звідси?"
+      },
+      "start": 26,
+      "end": 29
+    },
+    {
+      "french": "Non, environ quinze minutes à pied.",
+      "translation": {
+        "en": "No, about fifteen minutes on foot.",
+        "uk": "Ні, це приблизно п’ятнадцять хвилин пішки."
+      },
+      "start": 29,
+      "end": 32
+    },
+    {
+      "french": "Si vous préférez, vous pouvez aussi prendre le bus numéro 4.",
+      "translation": {
+        "en": "If you prefer, you can also take bus number 4.",
+        "uk": "Якщо хочете, ви також можете сісти на автобус номер 4."
+      },
+      "start": 32,
+      "end": 36
+    },
+    {
+      "french": "Merci beaucoup ! Bonne journée !",
+      "translation": {
+        "en": "Thank you very much! Have a nice day!",
+        "uk": "Дуже дякую! Гарного дня!"
+      },
+      "start": 36,
+      "end": 40
+    },
+    {
+      "french": "Je vous en prie ! Bonne journée à vous aussi !",
+      "translation": {
+        "en": "You're welcome! Have a nice day too!",
+        "uk": "Будь ласка! Вам також гарного дня!"
+      },
+      "start": 40,
+      "end": 44
+    },
+    {
+      "french": "Excusez-moi, pourriez-vous me dire comment aller au musée des beaux-arts ?",
+      "translation": {
+        "en": "Excuse me, could you tell me how to get to the Fine Arts Museum?",
+        "uk": "Вибачте, ви могли б сказати, як дістатися до музею образотворчих мистецтв?"
+      },
+      "start": 44,
+      "end": 48
+    },
+    {
+      "french": "Bien sûr ! Allez tout droit jusqu’au rond-point, puis prenez la deuxième à droite, la rue des Arts.",
+      "translation": {
+        "en": "Of course! Go straight until the roundabout, then take the second street on the right, Rue des Arts.",
+        "uk": "Звичайно! Йдіть прямо до кругового перехрестя, потім поверніть на другій вулиці праворуч, вулиця Мистецтв."
+      },
+      "start": 48,
+      "end": 54
+    },
+    {
+      "french": "Le musée des beaux-arts est juste à gauche après la place des Jacobins.",
+      "translation": {
+        "en": "The Fine Arts Museum is just to the left after Place des Jacobins.",
+        "uk": "Музей образотворчих мистецтв буде зліва після площі Жакобен."
+      },
+      "start": 54,
+      "end": 59
+    },
+    {
+      "french": "Merci beaucoup, je vais essayer de le trouver.",
+      "translation": {
+        "en": "Thank you very much, I will try to find it.",
+        "uk": "Дуже дякую, я спробую знайти його."
+      },
+      "start": 59,
+      "end": 63
+    }
+  ]
+}

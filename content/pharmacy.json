@@ -1,0 +1,144 @@
+{
+  "title": {
+    "en": "At the Pharmacy",
+    "uk": "У аптеці"
+  },
+  "audio": "content/audio/pharmacy.mp3",
+  "sentences": [
+    {
+      "french": "Bonjour, j'aimerais acheter un médicament prescrit par mon médecin.",
+      "translation": {
+        "en": "Hello, I would like to buy a medicine prescribed by my doctor.",
+        "uk": "Добрий день, я хотів би купити ліки за рецептом від лікаря."
+      },
+      "start": 0,
+      "end": 4
+    },
+    {
+      "french": "Bien sûr, avez-vous l'ordonnance?",
+      "translation": {
+        "en": "Of course, do you have the prescription?",
+        "uk": "Звичайно, у вас є рецепт?"
+      },
+      "start": 4,
+      "end": 7
+    },
+    {
+      "french": "Oui, la voici.",
+      "translation": {
+        "en": "Yes, here it is.",
+        "uk": "Так, ось він."
+      },
+      "start": 7,
+      "end": 9
+    },
+    {
+      "french": "D'accord, je vais chercher ça... Voilà, c'est votre médicament pour l'hypertension.",
+      "translation": {
+        "en": "Alright, let me get it... Here, this is your medication for high blood pressure.",
+        "uk": "Добре, зараз знайду... Ось ваші ліки від гіпертонії."
+      },
+      "start": 9,
+      "end": 13
+    },
+    {
+      "french": "Comment dois-je le prendre?",
+      "translation": {
+        "en": "How should I take it?",
+        "uk": "Як мені його приймати?"
+      },
+      "start": 13,
+      "end": 15
+    },
+    {
+      "french": "Prenez un comprimé par jour, de préférence le matin, avec un verre d’eau.",
+      "translation": {
+        "en": "Take one tablet per day, preferably in the morning, with a glass of water.",
+        "uk": "Приймайте одну таблетку на день, бажано вранці, запиваючи склянкою води."
+      },
+      "start": 15,
+      "end": 19
+    },
+    {
+      "french": "Y a-t-il des effets secondaires?",
+      "translation": {
+        "en": "Are there any side effects?",
+        "uk": "Чи є якісь побічні ефекти?"
+      },
+      "start": 19,
+      "end": 21
+    },
+    {
+      "french": "Cela peut provoquer des vertiges au début. Évitez de vous lever trop vite.",
+      "translation": {
+        "en": "It may cause dizziness at first. Avoid standing up too quickly.",
+        "uk": "Це може викликати запаморочення на початку. Уникайте різких підйомів."
+      },
+      "start": 21,
+      "end": 25
+    },
+    {
+      "french": "D'accord. C'est combien?",
+      "translation": {
+        "en": "Alright. How much is it?",
+        "uk": "Добре. Скільки це коштує?"
+      },
+      "start": 25,
+      "end": 27
+    },
+    {
+      "french": "Cela fait 18 euros.",
+      "translation": {
+        "en": "That’s 18 euros.",
+        "uk": "Це 18 євро."
+      },
+      "start": 27,
+      "end": 29
+    },
+    {
+      "french": "Puis-je payer par carte?",
+      "translation": {
+        "en": "Can I pay by card?",
+        "uk": "Можна оплатити карткою?"
+      },
+      "start": 29,
+      "end": 31
+    },
+    {
+      "french": "Oui, bien sûr.",
+      "translation": {
+        "en": "Yes, of course.",
+        "uk": "Так, звичайно."
+      },
+      "start": 31,
+      "end": 33
+    },
+    {
+      "french": "Merci beaucoup!",
+      "translation": {
+        "en": "Thank you very much!",
+        "uk": "Дякую дуже!"
+      },
+      "start": 33,
+      "end": 35
+    },
+    {
+      "french": "Je vous en prie. Bonne journée!",
+      "translation": {
+        "en": "You're welcome. Have a nice day!",
+        "uk": "Будь ласка. Гарного дня!"
+      },
+      "start": 35,
+      "end": 38
+    },
+    {
+      "french": "À vous aussi!",
+      "translation": {
+        "en": "You too!",
+        "uk": "Вам також!"
+      },
+      "start": 38,
+      "end": 40
+    }
+  ]
+}

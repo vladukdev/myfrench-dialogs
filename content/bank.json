@@ -1,0 +1,180 @@
+{
+  "title": {
+    "en": "At the Bank",
+    "uk": "У банку"
+  },
+  "audio": "content/audio/bank.mp3",
+  "sentences": [
+    {
+      "french": "Bonjour, je voudrais ouvrir un compte bancaire.",
+      "translation": {
+        "en": "Hello, I would like to open a bank account.",
+        "uk": "Добрий день, я хотів би відкрити банківський рахунок."
+      },
+      "start": 0,
+      "end": 4
+    },
+    {
+      "french": "Bien sûr. Avez-vous une pièce d’identité et un justificatif de domicile?",
+      "translation": {
+        "en": "Of course. Do you have an ID and proof of address?",
+        "uk": "Звичайно. У вас є посвідчення особи та підтвердження адреси?"
+      },
+      "start": 4,
+      "end": 8
+    },
+    {
+      "french": "Oui, voici mes documents.",
+      "translation": {
+        "en": "Yes, here are my documents.",
+        "uk": "Так, ось мої документи."
+      },
+      "start": 8,
+      "end": 10
+    },
+    {
+      "french": "Merci. Quel type de compte souhaitez-vous ouvrir?",
+      "translation": {
+        "en": "Thank you. What type of account would you like to open?",
+        "uk": "Дякую. Який тип рахунку ви хочете відкрити?"
+      },
+      "start": 10,
+      "end": 13
+    },
+    {
+      "french": "Un compte courant, s'il vous plaît.",
+      "translation": {
+        "en": "A checking account, please.",
+        "uk": "Розрахунковий рахунок, будь ласка."
+      },
+      "start": 13,
+      "end": 16
+    },
+    {
+      "french": "Très bien. Voulez-vous aussi une carte bancaire?",
+      "translation": {
+        "en": "Very well. Would you also like a bank card?",
+        "uk": "Дуже добре. Вам потрібна банківська картка?"
+      },
+      "start": 16,
+      "end": 19
+    },
+    {
+      "french": "Oui, s'il vous plaît.",
+      "translation": {
+        "en": "Yes, please.",
+        "uk": "Так, будь ласка."
+      },
+      "start": 19,
+      "end": 21
+    },
+    {
+      "french": "D'accord. Nous allons finaliser l’ouverture du compte. Avez-vous besoin d’autre chose?",
+      "translation": {
+        "en": "Alright. We will finalize the account opening. Do you need anything else?",
+        "uk": "Добре. Ми завершимо відкриття рахунку. Вам ще щось потрібно?"
+      },
+      "start": 21,
+      "end": 26
+    },
+    {
+      "french": "Oui, je voudrais savoir si je peux obtenir un crédit pour acheter un appartement.",
+      "translation": {
+        "en": "Yes, I would like to know if I can get a loan to buy an apartment.",
+        "uk": "Так, я хотів би дізнатися, чи можу я отримати кредит на купівлю квартири."
+      },
+      "start": 26,
+      "end": 31
+    },
+    {
+      "french": "Bien sûr. Quel est le montant que vous souhaitez emprunter?",
+      "translation": {
+        "en": "Of course. How much would you like to borrow?",
+        "uk": "Звичайно. Яку суму ви хочете позичити?"
+      },
+      "start": 31,
+      "end": 34
+    },
+    {
+      "french": "Environ 200 000 euros.",
+      "translation": {
+        "en": "Around 200,000 euros.",
+        "uk": "Приблизно 200 000 євро."
+      },
+      "start": 34,
+      "end": 36
+    },
+    {
+      "french": "Très bien. Avez-vous un apport personnel?",
+      "translation": {
+        "en": "Very well. Do you have a personal contribution?",
+        "uk": "Дуже добре. У вас є власний внесок?"
+      },
+      "start": 36,
+      "end": 39
+    },
+    {
+      "french": "Oui, environ 30 000 euros.",
+      "translation": {
+        "en": "Yes, around 30,000 euros.",
+        "uk": "Так, приблизно 30 000 євро."
+      },
+      "start": 39,
+      "end": 41
+    },
+    {
+      "french": "D'accord. Nous allons examiner votre situation financière et voir si vous êtes éligible.",
+      "translation": {
+        "en": "Alright. We will review your financial situation and see if you are eligible.",
+        "uk": "Добре. Ми розглянемо вашу фінансову ситуацію і визначимо, чи маєте ви право на кредит."
+      },
+      "start": 41,
+      "end": 46
+    },
+    {
+      "french": "Merci. Quand aurai-je une réponse?",
+      "translation": {
+        "en": "Thank you. When will I get an answer?",
+        "uk": "Дякую. Коли я отримаю відповідь?"
+      },
+      "start": 46,
+      "end": 48
+    },
+    {
+      "french": "Sous quelques jours. Nous vous contacterons dès que possible.",
+      "translation": {
+        "en": "Within a few days. We will contact you as soon as possible.",
+        "uk": "Протягом кількох днів. Ми зв’яжемося з вами якомога швидше."
+      },
+      "start": 48,
+      "end": 51
+    },
+    {
+      "french": "Très bien. Merci beaucoup!",
+      "translation": {
+        "en": "Very well. Thank you very much!",
+        "uk": "Дуже добре. Велике дякую!"
+      },
+      "start": 51,
+      "end": 53
+    },
+    {
+      "french": "Je vous en prie. Bonne journée!",
+      "translation": {
+        "en": "You're welcome. Have a nice day!",
+        "uk": "Будь ласка. Гарного дня!"
+      },
+      "start": 53,
+      "end": 56
+    },
+    {
+      "french": "À vous aussi!",
+      "translation": {
+        "en": "You too!",
+        "uk": "Вам також!"
+      },
+      "start": 56,
+      "end": 58
+    }
+  ]
+}

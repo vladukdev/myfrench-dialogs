@@ -1,0 +1,108 @@
+{
+  "title": {
+    "en": "At the Train Station",
+    "uk": "На вокзалі"
+  },
+  "audio": "content/audio/train.mp3",
+  "sentences": [
+    {
+      "french": "Bonjour, je voudrais un billet pour Paris.",
+      "translation": {
+        "en": "Hello, I would like a ticket to Paris.",
+        "uk": "Добрий день, я би хотів квиток до Парижа."
+      },
+      "start": 0,
+      "end": 4
+    },
+    {
+      "french": "Aller simple ou aller-retour?",
+      "translation": {
+        "en": "One-way or round trip?",
+        "uk": "В один бік чи туди й назад?"
+      },
+      "start": 4,
+      "end": 7
+    },
+    {
+      "french": "Aller simple, s'il vous plaît.",
+      "translation": {
+        "en": "One-way, please.",
+        "uk": "В один бік, будь ласка."
+      },
+      "start": 7,
+      "end": 10
+    },
+    {
+      "french": "À quelle heure souhaitez-vous partir?",
+      "translation": {
+        "en": "At what time would you like to leave?",
+        "uk": "О котрій годині ви хочете виїхати?"
+      },
+      "start": 10,
+      "end": 14
+    },
+    {
+      "french": "Quel est le prochain train?",
+      "translation": {
+        "en": "When is the next train?",
+        "uk": "Коли наступний потяг?"
+      },
+      "start": 14,
+      "end": 17
+    },
+    {
+      "french": "Le prochain train part à 14h30 et arrive à 17h.",
+      "translation": {
+        "en": "The next train leaves at 2:30 PM and arrives at 5 PM.",
+        "uk": "Наступний потяг відправляється о 14:30 і прибуває о 17:00."
+      },
+      "start": 17,
+      "end": 22
+    },
+    {
+      "french": "Combien coûte le billet?",
+      "translation": {
+        "en": "How much is the ticket?",
+        "uk": "Скільки коштує квиток?"
+      },
+      "start": 22,
+      "end": 25
+    },
+    {
+      "french": "C'est 45 euros en seconde classe.",
+      "translation": {
+        "en": "It's 45 euros in second class.",
+        "uk": "45 євро у другому класі."
+      },
+      "start": 25,
+      "end": 28
+    },
+    {
+      "french": "Je peux payer par carte?",
+      "translation": {
+        "en": "Can I pay by card?",
+        "uk": "Можна оплатити карткою?"
+      },
+      "start": 28,
+      "end": 31
+    },
+    {
+      "french": "Oui, bien sûr.",
+      "translation": {
+        "en": "Yes, of course.",
+        "uk": "Так, звичайно."
+      },
+      "start": 31,
+      "end": 33
+    },
+    {
+      "french": "Merci beaucoup!",
+      "translation": {
+        "en": "Thank you very much!",
+        "uk": "Дякую дуже!"
+      },
+      "start": 33,
+      "end": 35
+    }
+  ]
+}

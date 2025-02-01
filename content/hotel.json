@@ -1,0 +1,126 @@
+{
+  "title": {
+    "en": "At the Hotel",
+    "uk": "У готелі"
+  },
+  "audio": "content/audio/hotel.mp3",
+  "sentences": [
+    {
+      "french": "Bonjour, avez-vous une chambre disponible?",
+      "translation": {
+        "en": "Hello, do you have a room available?",
+        "uk": "Добрий день, у вас є вільний номер?"
+      },
+      "start": 0,
+      "end": 3
+    },
+    {
+      "french": "Oui, pour combien de nuits?",
+      "translation": {
+        "en": "Yes, for how many nights?",
+        "uk": "Так, на скільки ночей?"
+      },
+      "start": 3,
+      "end": 6
+    },
+    {
+      "french": "Deux nuits, s'il vous plaît.",
+      "translation": {
+        "en": "Two nights, please.",
+        "uk": "Дві ночі, будь ласка."
+      },
+      "start": 6,
+      "end": 9
+    },
+    {
+      "french": "Préférez-vous une chambre simple ou double?",
+      "translation": {
+        "en": "Do you prefer a single or double room?",
+        "uk": "Ви бажаєте одномісний чи двомісний номер?"
+      },
+      "start": 9,
+      "end": 13
+    },
+    {
+      "french": "Une chambre double, s'il vous plaît.",
+      "translation": {
+        "en": "A double room, please.",
+        "uk": "Двомісний номер, будь ласка."
+      },
+      "start": 13,
+      "end": 16
+    },
+    {
+      "french": "D'accord. Votre passeport, s'il vous plaît.",
+      "translation": {
+        "en": "Alright. Your passport, please.",
+        "uk": "Добре. Ваш паспорт, будь ласка."
+      },
+      "start": 16,
+      "end": 20
+    },
+    {
+      "french": "Le petit déjeuner est-il inclus?",
+      "translation": {
+        "en": "Is breakfast included?",
+        "uk": "Чи включено сніданок?"
+      },
+      "start": 20,
+      "end": 23
+    },
+    {
+      "french": "Oui, il est servi de 7h à 10h.",
+      "translation": {
+        "en": "Yes, it is served from 7 AM to 10 AM.",
+        "uk": "Так, його подають з 7:00 до 10:00."
+      },
+      "start": 23,
+      "end": 27
+    },
+    {
+      "french": "C'est combien par nuit?",
+      "translation": {
+        "en": "How much is it per night?",
+        "uk": "Скільки це коштує за ніч?"
+      },
+      "start": 27,
+      "end": 30
+    },
+    {
+      "french": "C'est 80 euros par nuit.",
+      "translation": {
+        "en": "It's 80 euros per night.",
+        "uk": "80 євро за ніч."
+      },
+      "start": 30,
+      "end": 33
+    },
+    {
+      "french": "Je peux payer par carte?",
+      "translation": {
+        "en": "Can I pay by card?",
+        "uk": "Можна оплатити карткою?"
+      },
+      "start": 33,
+      "end": 36
+    },
+    {
+      "french": "Oui, bien sûr.",
+      "translation": {
+        "en": "Yes, of course.",
+        "uk": "Так, звичайно."
+      },
+      "start": 36,
+      "end": 38
+    },
+    {
+      "french": "Merci beaucoup!",
+      "translation": {
+        "en": "Thank you very much!",
+        "uk": "Дякую дуже!"
+      },
+      "start": 38,
+      "end": 40
+    }
+  ]
+}
