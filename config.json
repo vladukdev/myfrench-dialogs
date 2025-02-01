@@ -33,15 +33,15 @@
     },
     {
       "id": "restaurant",
-      "title": "Restaturant",
+      "title": "At the Restaurant",
       "file": "content/restaurant.json",
       "description": {
-        "en": "at the restaurant",
-        "uk": "в ресторані"
+        "en": "At the restaurant",
+        "uk": "В ресторані"
       }
     },
     {
-      "id": "morning-routing",
+      "id": "morning-routine",
       "title": "Morning Routine",
       "file": "content/morning-routine.json",
       "description": {
