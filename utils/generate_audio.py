@@ -13,7 +13,7 @@ VOICES = {
     "male2": "fr-FR-RemyMultilingualNeural",
     "female": "fr-FR-DeniseNeural",
     "female2": "fr-FR-EloiseNeural",
-    "child": "fr-FR-RemyMultilingualNeural"
+    "child": "fr-CA-ThierryNeural"
 }
 
 # Default fallback voice

@@ -104,7 +104,7 @@
       },
       "start": 36,
       "end": 41,
-      "voice_type": "male"
+      "voice_type": "male2"
     },
     {
       "french": "Oui, papa!",
@@ -144,7 +144,7 @@
       },
       "start": 49,
       "end": 54,
-      "voice_type": "male"
+      "voice_type": "male2"
     },
     {
       "french": "Oui, tout est là!",
@@ -164,7 +164,7 @@
       },
       "start": 57,
       "end": 61,
-      "voice_type": "male"
+      "voice_type": "male2"
     },
     {
       "french": "Papa, pourquoi il y a tant de voitures ce matin?",
@@ -184,7 +184,7 @@
       },
       "start": 65,
       "end": 70,
-      "voice_type": "male"
+      "voice_type": "male2"
     },
     {
       "french": "Ah d'accord… On arrive bientôt?",
@@ -204,7 +204,7 @@
       },
       "start": 74,
       "end": 78,
-      "voice_type": "male"
+      "voice_type": "male2"
     },
     {
       "french": "Merci de m'avoir emmené, papa!",
@@ -224,7 +224,7 @@
       },
       "start": 81,
       "end": 86,
-      "voice_type": "male"
+      "voice_type": "male2"
     }
   ]
 }
