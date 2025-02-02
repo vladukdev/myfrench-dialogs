@@ -12,7 +12,8 @@
         "uk": "Добрий день, у вас є вільний номер?"
       },
       "start": 0,
-      "end": 3
+      "end": 3,
+      "voice_type": "male"
     },
     {
       "french": "Oui, pour combien de nuits?",
@@ -21,7 +22,8 @@
         "uk": "Так, на скільки ночей?"
       },
       "start": 3,
-      "end": 6
+      "end": 6,
+      "voice_type": "female"
     },
     {
       "french": "Deux nuits, s'il vous plaît.",
@@ -30,7 +32,8 @@
         "uk": "Дві ночі, будь ласка."
       },
       "start": 6,
-      "end": 9
+      "end": 9,
+      "voice_type": "male"
     },
     {
       "french": "Préférez-vous une chambre simple ou double?",
@@ -39,7 +42,8 @@
         "uk": "Ви бажаєте одномісний чи двомісний номер?"
       },
       "start": 9,
-      "end": 13
+      "end": 13,
+      "voice_type": "female"
     },
     {
       "french": "Une chambre double, s'il vous plaît.",
@@ -48,7 +52,8 @@
         "uk": "Двомісний номер, будь ласка."
       },
       "start": 13,
-      "end": 16
+      "end": 16,
+      "voice_type": "male"
     },
     {
       "french": "D'accord. Votre passeport, s'il vous plaît.",
@@ -57,7 +62,8 @@
         "uk": "Добре. Ваш паспорт, будь ласка."
       },
       "start": 16,
-      "end": 20
+      "end": 20,
+      "voice_type": "female"
     },
     {
       "french": "Le petit déjeuner est-il inclus?",
@@ -66,7 +72,8 @@
         "uk": "Чи включено сніданок?"
       },
       "start": 20,
-      "end": 23
+      "end": 23,
+      "voice_type": "male"
     },
     {
       "french": "Oui, il est servi de 7h à 10h.",
@@ -75,7 +82,8 @@
         "uk": "Так, його подають з 7:00 до 10:00."
       },
       "start": 23,
-      "end": 27
+      "end": 27,
+      "voice_type": "female"
     },
     {
       "french": "C'est combien par nuit?",
@@ -84,7 +92,8 @@
         "uk": "Скільки це коштує за ніч?"
       },
       "start": 27,
-      "end": 30
+      "end": 30,
+      "voice_type": "male"
     },
     {
       "french": "C'est 80 euros par nuit.",
@@ -93,7 +102,8 @@
         "uk": "80 євро за ніч."
       },
       "start": 30,
-      "end": 33
+      "end": 33,
+      "voice_type": "female"
     },
     {
       "french": "Je peux payer par carte?",
@@ -102,7 +112,8 @@
         "uk": "Можна оплатити карткою?"
       },
       "start": 33,
-      "end": 36
+      "end": 36,
+      "voice_type": "male"
     },
     {
       "french": "Oui, bien sûr.",
@@ -111,7 +122,8 @@
         "uk": "Так, звичайно."
       },
       "start": 36,
-      "end": 38
+      "end": 38,
+      "voice_type": "female"
     },
     {
       "french": "Merci beaucoup!",
@@ -120,7 +132,8 @@
         "uk": "Дякую дуже!"
       },
       "start": 38,
-      "end": 40
+      "end": 40,
+      "voice_type": "male"
     }
   ]
 }

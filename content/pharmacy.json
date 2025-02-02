@@ -12,7 +12,8 @@
         "uk": "Добрий день, я хотів би купити ліки за рецептом від лікаря."
       },
       "start": 0,
-      "end": 4
+      "end": 4,
+      "voice_type": "male"
     },
     {
       "french": "Bien sûr, avez-vous l'ordonnance?",
@@ -21,7 +22,8 @@
         "uk": "Звичайно, у вас є рецепт?"
       },
       "start": 4,
-      "end": 7
+      "end": 7,
+      "voice_type": "female2"
     },
     {
       "french": "Oui, la voici.",
@@ -30,7 +32,8 @@
         "uk": "Так, ось він."
       },
       "start": 7,
-      "end": 9
+      "end": 9,
+      "voice_type": "male"
     },
     {
       "french": "D'accord, je vais chercher ça... Voilà, c'est votre médicament pour l'hypertension.",
@@ -39,7 +42,8 @@
         "uk": "Добре, зараз знайду... Ось ваші ліки від гіпертонії."
       },
       "start": 9,
-      "end": 13
+      "end": 13,
+      "voice_type": "female2"
     },
     {
       "french": "Comment dois-je le prendre?",
@@ -48,16 +52,18 @@
         "uk": "Як мені його приймати?"
       },
       "start": 13,
-      "end": 15
+      "end": 15,
+      "voice_type": "male"
     },
     {
-      "french": "Prenez un comprimé par jour, de préférence le matin, avec un verre d’eau.",
+      "french": "Prenez un comprimé par jour, de préférence le matin, avec un verre d'eau.",
       "translation": {
         "en": "Take one tablet per day, preferably in the morning, with a glass of water.",
         "uk": "Приймайте одну таблетку на день, бажано вранці, запиваючи склянкою води."
       },
       "start": 15,
-      "end": 19
+      "end": 19,
+      "voice_type": "female2"
     },
     {
       "french": "Y a-t-il des effets secondaires?",
@@ -66,7 +72,8 @@
         "uk": "Чи є якісь побічні ефекти?"
       },
       "start": 19,
-      "end": 21
+      "end": 21,
+      "voice_type": "male"
     },
     {
       "french": "Cela peut provoquer des vertiges au début. Évitez de vous lever trop vite.",
@@ -75,7 +82,8 @@
         "uk": "Це може викликати запаморочення на початку. Уникайте різких підйомів."
       },
       "start": 21,
-      "end": 25
+      "end": 25,
+      "voice_type": "female2"
     },
     {
       "french": "D'accord. C'est combien?",
@@ -84,16 +92,18 @@
         "uk": "Добре. Скільки це коштує?"
       },
       "start": 25,
-      "end": 27
+      "end": 27,
+      "voice_type": "male"
     },
     {
       "french": "Cela fait 18 euros.",
       "translation": {
-        "en": "That’s 18 euros.",
+        "en": "That's 18 euros.",
         "uk": "Це 18 євро."
       },
       "start": 27,
-      "end": 29
+      "end": 29,
+      "voice_type": "female2"
     },
     {
       "french": "Puis-je payer par carte?",
@@ -102,7 +112,8 @@
         "uk": "Можна оплатити карткою?"
       },
       "start": 29,
-      "end": 31
+      "end": 31,
+      "voice_type": "male"
     },
     {
       "french": "Oui, bien sûr.",
@@ -111,7 +122,8 @@
         "uk": "Так, звичайно."
       },
       "start": 31,
-      "end": 33
+      "end": 33,
+      "voice_type": "female2"
     },
     {
       "french": "Merci beaucoup!",
@@ -120,7 +132,8 @@
         "uk": "Дякую дуже!"
       },
       "start": 33,
-      "end": 35
+      "end": 35,
+      "voice_type": "male"
     },
     {
       "french": "Je vous en prie. Bonne journée!",
@@ -129,7 +142,8 @@
         "uk": "Будь ласка. Гарного дня!"
       },
       "start": 35,
-      "end": 38
+      "end": 38,
+      "voice_type": "female2"
     },
     {
       "french": "À vous aussi!",
@@ -138,7 +152,8 @@
         "uk": "Вам також!"
       },
       "start": 38,
-      "end": 40
+      "end": 40,
+      "voice_type": "male"
     }
   ]
 }

@@ -12,7 +12,8 @@
         "uk": "Привіт! Як справи?"
       },
       "start": 0,
-      "end": 3
+      "end": 3,
+      "voice_type": "female"
     },
     {
       "french": "Je vais très bien, merci.",
@@ -21,7 +22,8 @@
         "uk": "У мене все добре, дякую."
       },
       "start": 3,
-      "end": 6
+      "end": 6,
+      "voice_type": "male"
     },
     {
       "french": "Et vous?",
@@ -30,7 +32,8 @@
         "uk": "А ви?"
       },
       "start": 6,
-      "end": 8
+      "end": 8,
+      "voice_type": "male"
     },
     {
       "french": "Moi aussi, merci.",
@@ -39,7 +42,8 @@
         "uk": "Я теж, дякую."
       },
       "start": 8,
-      "end": 11
+      "end": 11,
+      "voice_type": "female"
     },
     {
       "french": "Quel est votre nom?",
@@ -48,7 +52,8 @@
         "uk": "Як вас звати?"
       },
       "start": 11,
-      "end": 14
+      "end": 14,
+      "voice_type": "female"
     },
     {
       "french": "Je m'appelle Pierre. Et vous?",
@@ -57,7 +62,8 @@
         "uk": "Мене звати П'єр. А вас?"
       },
       "start": 14,
-      "end": 18
+      "end": 18,
+      "voice_type": "male"
     },
     {
       "french": "Je m'appelle Sophie.",
@@ -66,7 +72,8 @@
         "uk": "Мене звати Софі."
       },
       "start": 18,
-      "end": 20
+      "end": 20,
+      "voice_type": "female"
     },
     {
       "french": "Enchanté!",
@@ -75,7 +82,8 @@
         "uk": "Приємно познайомитися!"
       },
       "start": 20,
-      "end": 22
+      "end": 22,
+      "voice_type": "male"
     },
     {
       "french": "Enchantée!",
@@ -84,7 +92,8 @@
         "uk": "Приємно познайомитися!"
       },
       "start": 22,
-      "end": 24
+      "end": 24,
+      "voice_type": "female"
     },
     {
       "french": "D'où venez-vous?",
@@ -93,7 +102,8 @@
         "uk": "Звідки ви?"
       },
       "start": 24,
-      "end": 26
+      "end": 26,
+      "voice_type": "female"
     },
     {
       "french": "Je viens de France. Et vous?",
@@ -102,7 +112,8 @@
         "uk": "Я з Франції. А ви?"
       },
       "start": 26,
-      "end": 30
+      "end": 30,
+      "voice_type": "male"
     },
     {
       "french": "Je viens d'Ukraine.",
@@ -111,7 +122,8 @@
         "uk": "Я з України."
       },
       "start": 30,
-      "end": 33
+      "end": 33,
+      "voice_type": "female"
     },
     {
       "french": "Bienvenue en France!",
@@ -120,7 +132,8 @@
         "uk": "Ласкаво просимо до Франції!"
       },
       "start": 33,
-      "end": 36
+      "end": 36,
+      "voice_type": "male"
     }
   ]
 }

@@ -8,8 +8,22 @@ from pydub import AudioSegment
 DIALOGS_DIR = "/Users/vladyslav/proteantecs/git/myfrench-dialogs/content"
 
 # Define French voices
-VOICE_FEMALE = "fr-FR-DeniseNeural"
-VOICE_MALE = "fr-FR-HenriNeural"
+VOICES = {
+    "male": "fr-FR-HenriNeural",
+    "male2": "fr-FR-RemyMultilingualNeural",
+    "female": "fr-FR-DeniseNeural",
+    "female2": "fr-FR-EloiseNeural",
+    "child": "fr-FR-RemyMultilingualNeural"
+}
+
+# Default fallback voice
+DEFAULT_VOICE = "fr-FR-DeniseNeural"
+
+async def list_voices():
+    voices = await edge_tts.list_voices()
+    french_voices = [voice for voice in voices if voice["Locale"].startswith("fr")]
+    for voice in french_voices:
+        print(f"Name: {voice['Name']}, Short Name: {voice['ShortName']}")
 
 def get_audio_dir(audio_path):
     audio_dir = os.path.join(DIALOGS_DIR, os.path.dirname(audio_path.lstrip("content/")))
@@ -17,8 +31,15 @@ def get_audio_dir(audio_path):
     return os.path.join(audio_dir, os.path.basename(audio_path))
 
 async def generate_speech(text, voice, output_file):
-    communicate = edge_tts.Communicate(text, voice)
-    await communicate.save(output_file)
+    try:
+        # Ensure text is properly encoded
+        text = text.encode('utf-8').decode('utf-8')
+        communicate = edge_tts.Communicate(text, voice)
+        await communicate.save(output_file)
+    except Exception as e:
+        print(f"Error generating speech for text: {text}")
+        print(f"Error details: {str(e)}")
+        raise
 
 async def process_dialog_files():
     """Process all JSON dialog files and generate a single audio file per dialog."""
@@ -37,51 +58,45 @@ async def process_dialog_files():
 
         full_audio_path = get_audio_dir(audio_path)
 
-        # Check if the audio file already exists
         if os.path.exists(full_audio_path):
             print(f"Skipping {filename}: Audio file already exists at {full_audio_path}")
             continue
 
-        french_texts = [sentence["french"] for sentence in data.get("sentences", []) if "french" in sentence]
-        if not french_texts:
-            print(f"Skipping {filename}: No French texts found")
+        sentences = data.get("sentences", [])
+        if not sentences:
+            print(f"Skipping {filename}: No sentences found")
             continue
 
-        # Create a list to store generated audio segments
         final_audio = AudioSegment.empty()
-
-        # Add initial silence
         silence = AudioSegment.silent(duration=500)  # 0.5 second silence
 
         try:
-            for index, sentence in enumerate(french_texts):
-                print(f"Processing sentence {index + 1}/{len(french_texts)}: {sentence}")
+            for index, sentence in enumerate(sentences):
+                if "french" not in sentence:
+                    continue
+
+                print(f"Processing sentence {index + 1}/{len(sentences)}: {sentence['french']}")
+
+                # Get voice type from the sentence, fallback to default if not specified
+                voice_type = sentence.get("voice_type", "female")
+                voice = VOICES.get(voice_type, DEFAULT_VOICE)
 
                 temp_audio_path = f"temp_audio_{index}.mp3"
-                voice = VOICE_FEMALE if index % 2 == 0 else VOICE_MALE
 
                 # Generate speech
-                await generate_speech(sentence, voice, temp_audio_path)
+                await generate_speech(sentence["french"], voice, temp_audio_path)
 
-                # Load the audio
+                # Load and process audio
                 audio = AudioSegment.from_mp3(temp_audio_path)
-
-                # Add small fade in/out to prevent clipping
                 audio = audio.fade_in(50).fade_out(50)
 
-                # Add silence before the segment (except for first segment)
                 if index > 0:
                     final_audio = final_audio + silence
 
-                # Add the audio segment
                 final_audio = final_audio + audio
-
-                # Clean up temporary file
                 os.remove(temp_audio_path)
 
-            # Export the final audio
             if len(final_audio) > 0:
-                # Add final silence
                 final_audio = final_audio + silence
                 final_audio.export(full_audio_path, format="mp3")
                 print(f"Generated audio for: {filename} → {full_audio_path}")
@@ -90,8 +105,7 @@ async def process_dialog_files():
 
         except Exception as e:
             print(f"Error processing {filename}: {str(e)}")
-            # Clean up any temporary files if they exist
-            for i in range(len(french_texts)):
+            for i in range(len(sentences)):
                 temp_file = f"temp_audio_{i}.mp3"
                 if os.path.exists(temp_file):
                     os.remove(temp_file)

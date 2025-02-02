@@ -12,7 +12,8 @@
         "uk": "Добрий день, я би хотів каву, будь ласка."
       },
       "start": 0,
-      "end": 3
+      "end": 3,
+      "voice_type": "female"
     },
     {
       "french": "Bien sûr. Vous le voulez comment?",
@@ -21,7 +22,8 @@
         "uk": "Звичайно. Яку саме ви бажаєте?"
       },
       "start": 3,
-      "end": 7
+      "end": 7,
+      "voice_type": "male"
     },
     {
       "french": "Un café au lait, s'il vous plaît.",
@@ -30,7 +32,8 @@
         "uk": "Каву з молоком, будь ласка."
       },
       "start": 7,
-      "end": 11
+      "end": 11,
+      "voice_type": "female"
     },
     {
       "french": "Vous désirez autre chose?",
@@ -39,7 +42,8 @@
         "uk": "Бажаєте ще щось?"
       },
       "start": 11,
-      "end": 13
+      "end": 13,
+      "voice_type": "male"
     },
     {
       "french": "Oui, un croissant aussi.",
@@ -48,7 +52,8 @@
         "uk": "Так, ще круасан."
       },
       "start": 13,
-      "end": 16
+      "end": 16,
+      "voice_type": "female"
     },
     {
       "french": "D'accord, ce sera tout?",
@@ -57,7 +62,8 @@
         "uk": "Добре, це все?"
       },
       "start": 16,
-      "end": 20
+      "end": 20,
+      "voice_type": "male"
     },
     {
       "french": "Oui, c'est tout. C'est combien?",
@@ -66,7 +72,8 @@
         "uk": "Так, це все. Скільки це коштує?"
       },
       "start": 20,
-      "end": 24
+      "end": 24,
+      "voice_type": "female"
     },
     {
       "french": "Ça fait 7 euros 50.",
@@ -75,7 +82,8 @@
         "uk": "Це 7 євро 50 центів."
       },
       "start": 24,
-      "end": 27
+      "end": 27,
+      "voice_type": "male"
     },
     {
       "french": "Puis-je payer par carte?",
@@ -84,7 +92,8 @@
         "uk": "Можна оплатити карткою?"
       },
       "start": 27,
-      "end": 30
+      "end": 30,
+      "voice_type": "female"
     },
     {
       "french": "Oui, bien sûr.",
@@ -93,7 +102,8 @@
         "uk": "Так, звичайно."
       },
       "start": 30,
-      "end": 32
+      "end": 32,
+      "voice_type": "male"
     },
     {
       "french": "Merci beaucoup!",
@@ -102,7 +112,8 @@
         "uk": "Дякую дуже!"
       },
       "start": 32,
-      "end": 35
+      "end": 35,
+      "voice_type": "female"
     },
     {
       "french": "Je vous en prie. Bonne journée!",
@@ -111,7 +122,8 @@
         "uk": "Будь ласка. Гарного дня!"
       },
       "start": 35,
-      "end": 39
+      "end": 39,
+      "voice_type": "male"
     },
     {
       "french": "À vous aussi!",
@@ -120,7 +132,8 @@
         "uk": "Вам також!"
       },
       "start": 39,
-      "end": 41
+      "end": 41,
+      "voice_type": "female"
     }
   ]
 }

@@ -6,31 +6,34 @@
   "audio": "content/audio/post-office.mp3",
   "sentences": [
     {
-      "french": "Bonjour, je voudrais acheter une carte postale, s’il vous plaît.",
+      "french": "Bonjour, je voudrais acheter une carte postale, s'il vous plaît.",
       "translation": {
         "en": "Hello, I would like to buy a postcard, please.",
         "uk": "Добрий день, я хотів би купити листівку, будь ласка."
       },
       "start": 0,
-      "end": 4
+      "end": 4,
+      "voice_type": "female"
     },
     {
       "french": "Bien sûr ! Nous avons plusieurs modèles. Vous préférez une vue de la ville ou un monument ?",
       "translation": {
         "en": "Of course! We have several designs. Do you prefer a city view or a monument?",
-        "uk": "Звичайно! У нас є кілька варіантів. Вам більше подобається вид міста чи пам’ятка?"
+        "uk": "Звичайно! У нас є кілька варіантів. Вам більше подобається вид міста чи пам'ятка?"
       },
       "start": 4,
-      "end": 10
+      "end": 10,
+      "voice_type": "male"
     },
     {
       "french": "Je préfère une carte avec un monument célèbre.",
       "translation": {
         "en": "I prefer a postcard with a famous monument.",
-        "uk": "Я віддаю перевагу листівці з відомим пам’ятником."
+        "uk": "Я віддаю перевагу листівці з відомим пам'ятником."
       },
       "start": 10,
-      "end": 13
+      "end": 13,
+      "voice_type": "female"
     },
     {
       "french": "Très bien. Cela fait 1 euro 50.",
@@ -39,7 +42,8 @@
         "uk": "Дуже добре. Це буде 1 євро 50."
       },
       "start": 13,
-      "end": 16
+      "end": 16,
+      "voice_type": "male"
     },
     {
       "french": "Je voudrais aussi envoyer cette carte à mon ami en Ukraine.",
@@ -48,25 +52,28 @@
         "uk": "Я також хотів би відправити цю листівку своєму другові в Україну."
       },
       "start": 16,
-      "end": 20
+      "end": 20,
+      "voice_type": "female"
     },
     {
-      "french": "D’accord. Vous voulez un timbre normal ou un envoi prioritaire ?",
+      "french": "D'accord. Vous voulez un timbre normal ou un envoi prioritaire ?",
       "translation": {
         "en": "Alright. Do you want a regular stamp or priority mail?",
         "uk": "Добре. Ви хочете звичайну марку чи пріоритетне відправлення?"
       },
       "start": 20,
-      "end": 24
+      "end": 24,
+      "voice_type": "male"
     },
     {
-      "french": "Un envoi prioritaire, s’il vous plaît.",
+      "french": "Un envoi prioritaire, s'il vous plaît.",
       "translation": {
         "en": "Priority mail, please.",
         "uk": "Пріоритетне відправлення, будь ласка."
       },
       "start": 24,
-      "end": 27
+      "end": 27,
+      "voice_type": "female"
     },
     {
       "french": "Cela fera 3 euros 20 en tout.",
@@ -75,7 +82,8 @@
         "uk": "Загалом це буде 3 євро 20."
       },
       "start": 27,
-      "end": 30
+      "end": 30,
+      "voice_type": "male"
     },
     {
       "french": "Voilà. Merci beaucoup !",
@@ -84,7 +92,8 @@
         "uk": "Ось, будь ласка. Дуже дякую!"
       },
       "start": 30,
-      "end": 33
+      "end": 33,
+      "voice_type": "female"
     },
     {
       "french": "Merci à vous ! Bonne journée !",
@@ -93,7 +102,8 @@
         "uk": "Дякую! Гарного дня!"
       },
       "start": 33,
-      "end": 36
+      "end": 36,
+      "voice_type": "male"
     }
   ]
 }

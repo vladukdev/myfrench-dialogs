@@ -6,13 +6,14 @@
   "audio": "content/audio/directions_extended.mp3",
   "sentences": [
     {
-      "french": "Excusez-moi, pourriez-vous m’aider ? Je cherche la gare.",
+      "french": "Excusez-moi, pourriez-vous m'aider ? Je cherche la gare.",
       "translation": {
-        "en": "Excuse me, could you help me? I’m looking for the train station.",
+        "en": "Excuse me, could you help me? I'm looking for the train station.",
         "uk": "Вибачте, ви могли б мені допомогти? Я шукаю вокзал."
       },
       "start": 0,
-      "end": 4
+      "end": 4,
+      "voice_type": "male"
     },
     {
       "french": "Bien sûr ! Vous cherchez la gare de Perrache ou Part-Dieu ?",
@@ -21,7 +22,8 @@
         "uk": "Звичайно! Ви шукаєте вокзал Перраш чи Парт-Дьє?"
       },
       "start": 4,
-      "end": 8
+      "end": 8,
+      "voice_type": "female"
     },
     {
       "french": "Je vais à Part-Dieu.",
@@ -30,61 +32,68 @@
         "uk": "Я йду на Парт-Дьє."
       },
       "start": 8,
-      "end": 10
+      "end": 10,
+      "voice_type": "male"
     },
     {
-      "french": "D’accord ! Prenez cette rue, la rue de la République, tout droit jusqu’au carrefour.",
+      "french": "D'accord ! Prenez cette rue, la rue de la République, tout droit jusqu'au carrefour.",
       "translation": {
         "en": "Alright! Take this street, the Rue de la République, straight ahead until the intersection.",
         "uk": "Добре! Йдіть цією вулицею, вулицею Республіки, прямо до перехрестя."
       },
       "start": 10,
-      "end": 14
+      "end": 14,
+      "voice_type": "female"
     },
     {
-      "french": "Ensuite, tournez à gauche sur la rue Garibaldi et continuez jusqu’à l’avenue Thiers.",
+      "french": "Ensuite, tournez à gauche sur la rue Garibaldi et continuez jusqu'à l'avenue Thiers.",
       "translation": {
         "en": "Then, turn left onto Rue Garibaldi and continue until Avenue Thiers.",
         "uk": "Потім поверніть ліворуч на вулицю Гарібальді і йдіть до авеню Тієр."
       },
       "start": 14,
-      "end": 18
+      "end": 18,
+      "voice_type": "female"
     },
     {
       "french": "Vous verrez une grande place avec une fontaine. La gare Part-Dieu est juste après le centre commercial.",
       "translation": {
-        "en": "You’ll see a large square with a fountain. The Part-Dieu station is just after the shopping center.",
+        "en": "You'll see a large square with a fountain. The Part-Dieu station is just after the shopping center.",
         "uk": "Ви побачите велику площу з фонтаном. Вокзал Парт-Дьє знаходиться відразу після торгового центру."
       },
       "start": 18,
-      "end": 23
+      "end": 23,
+      "voice_type": "female"
     },
     {
-      "french": "C’est loin d’ici ?",
+      "french": "C'est loin d'ici ?",
       "translation": {
         "en": "Is it far from here?",
         "uk": "Це далеко звідси?"
       },
       "start": 23,
-      "end": 25
+      "end": 25,
+      "voice_type": "male"
     },
     {
       "french": "Non, environ quinze minutes à pied.",
       "translation": {
         "en": "No, about fifteen minutes on foot.",
-        "uk": "Ні, це приблизно п’ятнадцять хвилин пішки."
+        "uk": "Ні, це приблизно п'ятнадцять хвилин пішки."
       },
       "start": 25,
-      "end": 28
+      "end": 28,
+      "voice_type": "female"
     },
     {
-      "french": "Vous pouvez aussi prendre le tramway T1, l’arrêt est juste là.",
+      "french": "Vous pouvez aussi prendre le tramway T1, l'arrêt est juste là.",
       "translation": {
         "en": "You can also take tram T1, the stop is just there.",
         "uk": "Ви також можете сісти на трамвай Т1, зупинка ось там."
       },
       "start": 28,
-      "end": 31
+      "end": 31,
+      "voice_type": "female"
     },
     {
       "french": "Merci beaucoup ! Bonne journée !",
@@ -93,7 +102,8 @@
         "uk": "Дуже дякую! Гарного дня!"
       },
       "start": 31,
-      "end": 34
+      "end": 34,
+      "voice_type": "male"
     },
     {
       "french": "Je vous en prie ! Bonne journée à vous aussi !",
@@ -102,7 +112,8 @@
         "uk": "Будь ласка! Вам також гарного дня!"
       },
       "start": 34,
-      "end": 37
+      "end": 37,
+      "voice_type": "female"
     }
   ]
 }

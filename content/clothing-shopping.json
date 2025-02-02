@@ -12,7 +12,8 @@
         "uk": "Добрий день, можу вам допомогти?"
       },
       "start": 0,
-      "end": 2
+      "end": 2,
+      "voice_type": "female2"
     },
     {
       "french": "Oui, je cherche une chemise bleue.",
@@ -21,7 +22,8 @@
         "uk": "Так, я шукаю блакитну сорочку."
       },
       "start": 2,
-      "end": 6
+      "end": 6,
+      "voice_type": "male"
     },
     {
       "french": "Quelle est votre taille?",
@@ -30,7 +32,8 @@
         "uk": "Який у вас розмір?"
       },
       "start": 6,
-      "end": 9
+      "end": 9,
+      "voice_type": "female2"
     },
     {
       "french": "Je fais du M.",
@@ -39,7 +42,8 @@
         "uk": "Я ношу розмір M."
       },
       "start": 9,
-      "end": 11
+      "end": 11,
+      "voice_type": "male"
     },
     {
       "french": "Voilà une chemise bleue en taille M. Vous voulez l'essayer?",
@@ -48,7 +52,8 @@
         "uk": "Ось блакитна сорочка розміру M. Хочете її приміряти?"
       },
       "start": 11,
-      "end": 15
+      "end": 15,
+      "voice_type": "female2"
     },
     {
       "french": "Oui, où sont les cabines d'essayage?",
@@ -57,7 +62,8 @@
         "uk": "Так, де знаходяться примірочні?"
       },
       "start": 15,
-      "end": 19
+      "end": 19,
+      "voice_type": "male"
     },
     {
       "french": "Les cabines sont au fond du magasin, à droite.",
@@ -66,7 +72,8 @@
         "uk": "Примірочні в кінці магазину, праворуч."
       },
       "start": 19,
-      "end": 23
+      "end": 23,
+      "voice_type": "female2"
     },
     {
       "french": "Elle me va très bien. Je vais la prendre.",
@@ -75,7 +82,8 @@
         "uk": "Вона мені дуже пасує. Я її візьму."
       },
       "start": 23,
-      "end": 27
+      "end": 27,
+      "voice_type": "male"
     },
     {
       "french": "Voulez-vous voir d'autres articles?",
@@ -84,7 +92,8 @@
         "uk": "Бажаєте подивитися інші товари?"
       },
       "start": 27,
-      "end": 31
+      "end": 31,
+      "voice_type": "female2"
     },
     {
       "french": "Avez-vous des pantalons assortis?",
@@ -93,7 +102,8 @@
         "uk": "У вас є відповідні штани?"
       },
       "start": 31,
-      "end": 34
+      "end": 34,
+      "voice_type": "male"
     },
     {
       "french": "Oui, nous avons plusieurs modèles. Suivez-moi.",
@@ -102,7 +112,8 @@
         "uk": "Так, у нас є кілька моделей. Слідуйте за мною."
       },
       "start": 34,
-      "end": 40
+      "end": 40,
+      "voice_type": "female2"
     },
     {
       "french": "Ce pantalon noir irait bien avec votre chemise.",
@@ -111,7 +122,8 @@
         "uk": "Ці чорні штани добре пасуватимуть до вашої сорочки."
       },
       "start": 40,
-      "end": 43
+      "end": 43,
+      "voice_type": "female2"
     },
     {
       "french": "D'accord, je vais aussi l'essayer.",
@@ -120,7 +132,8 @@
         "uk": "Добре, я також їх приміряю."
       },
       "start": 43,
-      "end": 46
+      "end": 46,
+      "voice_type": "male"
     },
     {
       "french": "Ils me vont bien. Je les prends aussi.",
@@ -129,7 +142,8 @@
         "uk": "Вони мені добре пасують. Я їх теж візьму."
       },
       "start": 46,
-      "end": 50
+      "end": 50,
+      "voice_type": "male"
     },
     {
       "french": "Très bien. Vous payez par carte ou en espèces?",
@@ -138,7 +152,8 @@
         "uk": "Дуже добре. Ви будете платити карткою чи готівкою?"
       },
       "start": 50,
-      "end": 55
+      "end": 55,
+      "voice_type": "female2"
     },
     {
       "french": "Par carte, s'il vous plaît.",
@@ -147,7 +162,8 @@
         "uk": "Карткою, будь ласка."
       },
       "start": 55,
-      "end": 58
+      "end": 58,
+      "voice_type": "male"
     },
     {
       "french": "Merci pour votre achat! Bonne journée!",
@@ -156,7 +172,8 @@
         "uk": "Дякуємо за покупку! Гарного дня!"
       },
       "start": 58,
-      "end": 62
+      "end": 62,
+      "voice_type": "female2"
     },
     {
       "french": "Merci, à vous aussi!",
@@ -165,7 +182,8 @@
         "uk": "Дякую, вам також!"
       },
       "start": 62,
-      "end": 65
+      "end": 65,
+      "voice_type": "male"
     }
   ]
 }

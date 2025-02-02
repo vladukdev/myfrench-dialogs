@@ -7,31 +7,34 @@
   "audio": "content/audio/morning_routine.mp3",
   "sentences": [
     {
-      "french": "Réveille-toi, mon chéri, il est l’heure de se lever!",
+      "french": "Réveille-toi, mon chéri, il est l'heure de se lever!",
       "translation": {
         "en": "Wake up, my darling, it's time to get up!",
         "uk": "Прокидайся, мій любий, час вставати!"
       },
       "start": 0,
-      "end": 4
+      "end": 4,
+      "voice_type": "female"
     },
     {
       "french": "Maman... encore cinq minutes...",
       "translation": {
         "en": "Mom... five more minutes...",
-        "uk": "Мамо... ще п’ять хвилин..."
+        "uk": "Мамо... ще п'ять хвилин..."
       },
       "start": 4,
-      "end": 7
+      "end": 7,
+      "voice_type": "child"
     },
     {
       "french": "Non, non! Tu vas être en retard. Allez, debout!",
       "translation": {
-        "en": "No, no! You’re going to be late. Come on, get up!",
+        "en": "No, no! You're going to be late. Come on, get up!",
         "uk": "Ні, ні! Ти запізнишся. Давай, вставай!"
       },
       "start": 7,
-      "end": 14
+      "end": 14,
+      "voice_type": "female"
     },
     {
       "french": "D'accord... je me lève...",
@@ -40,7 +43,8 @@
         "uk": "Гаразд... я встаю..."
       },
       "start": 14,
-      "end": 16
+      "end": 16,
+      "voice_type": "child"
     },
     {
       "french": "N'oublie pas de te laver le visage et de te brosser les dents!",
@@ -49,7 +53,8 @@
         "uk": "Не забудь вмитися і почистити зуби!"
       },
       "start": 16,
-      "end": 20
+      "end": 20,
+      "voice_type": "female"
     },
     {
       "french": "Viens à table! Le petit déjeuner est prêt.",
@@ -58,16 +63,18 @@
         "uk": "Йди до столу! Сніданок готовий."
       },
       "start": 20,
-      "end": 25
+      "end": 25,
+      "voice_type": "female"
     },
     {
-      "french": "Qu’est-ce qu’on mange?",
+      "french": "Qu'est-ce qu'on mange?",
       "translation": {
         "en": "What are we eating?",
         "uk": "Що ми їмо?"
       },
       "start": 25,
-      "end": 27
+      "end": 27,
+      "voice_type": "child"
     },
     {
       "french": "Du pain avec du beurre et de la confiture, et un verre de lait.",
@@ -76,25 +83,28 @@
         "uk": "Хліб з маслом і варенням, і склянка молока."
       },
       "start": 27,
-      "end": 31
+      "end": 31,
+      "voice_type": "female"
     },
     {
-      "french": "Miam! J’adore la confiture.",
+      "french": "Miam! J'adore la confiture.",
       "translation": {
         "en": "Yum! I love jam.",
         "uk": "Смакота! Я люблю варення."
       },
       "start": 25,
-      "end": 36
+      "end": 36,
+      "voice_type": "child"
     },
     {
-      "french": "Prêt pour l’école? Mets tes chaussures et prends ton cartable.",
+      "french": "Prêt pour l'école? Mets tes chaussures et prends ton cartable.",
       "translation": {
         "en": "Ready for school? Put on your shoes and take your schoolbag.",
         "uk": "Готовий до школи? Взувайся і бери рюкзак."
       },
       "start": 36,
-      "end": 41
+      "end": 41,
+      "voice_type": "male"
     },
     {
       "french": "Oui, papa!",
@@ -103,7 +113,8 @@
         "uk": "Так, тату!"
       },
       "start": 41,
-      "end": 43
+      "end": 43,
+      "voice_type": "child"
     },
     {
       "french": "À ce soir, maman!",
@@ -112,7 +123,8 @@
         "uk": "До вечора, мамо!"
       },
       "start": 43,
-      "end": 46
+      "end": 46,
+      "voice_type": "child"
     },
     {
       "french": "Bonne journée, mon chéri!",
@@ -121,7 +133,8 @@
         "uk": "Гарного дня, мій любий!"
       },
       "start": 46,
-      "end": 49
+      "end": 49,
+      "voice_type": "female"
     },
     {
       "french": "As-tu tout pris? Ton cartable, ton cahier?",
@@ -130,7 +143,8 @@
         "uk": "Ти все взяв? Рюкзак, зошит?"
       },
       "start": 49,
-      "end": 54
+      "end": 54,
+      "voice_type": "male"
     },
     {
       "french": "Oui, tout est là!",
@@ -139,16 +153,18 @@
         "uk": "Так, все тут!"
       },
       "start": 54,
-      "end": 57
+      "end": 57,
+      "voice_type": "child"
     },
     {
-      "french": "Alors, allons-y. L’école nous attend!",
+      "french": "Alors, allons-y. L'école nous attend!",
       "translation": {
         "en": "Then let's go. School is waiting for us!",
         "uk": "Тоді ходімо. Школа чекає на нас!"
       },
       "start": 57,
-      "end": 61
+      "end": 61,
+      "voice_type": "male"
     },
     {
       "french": "Papa, pourquoi il y a tant de voitures ce matin?",
@@ -157,43 +173,48 @@
         "uk": "Тату, чому сьогодні так багато машин?"
       },
       "start": 61,
-      "end": 65
+      "end": 65,
+      "voice_type": "child"
     },
     {
-      "french": "C’est l’heure de pointe. Tout le monde va au travail ou à l’école.",
+      "french": "C'est l'heure de pointe. Tout le monde va au travail ou à l'école.",
       "translation": {
-        "en": "It’s rush hour. Everyone is going to work or school.",
+        "en": "It's rush hour. Everyone is going to work or school.",
         "uk": "Це година пік. Усі їдуть на роботу або до школи."
       },
       "start": 65,
-      "end": 70
+      "end": 70,
+      "voice_type": "male"
     },
     {
-      "french": "Ah d’accord… On arrive bientôt?",
+      "french": "Ah d'accord… On arrive bientôt?",
       "translation": {
         "en": "Oh, okay… Are we arriving soon?",
         "uk": "О, гаразд… Ми скоро приїдемо?"
       },
       "start": 70,
-      "end": 74
+      "end": 74,
+      "voice_type": "child"
     },
     {
-      "french": "Oui, regarde, l’école est juste là.",
+      "french": "Oui, regarde, l'école est juste là.",
       "translation": {
         "en": "Yes, look, the school is right there.",
         "uk": "Так, дивись, школа прямо там."
       },
       "start": 74,
-      "end": 78
+      "end": 78,
+      "voice_type": "male"
     },
     {
-      "french": "Merci de m’avoir emmené, papa!",
+      "french": "Merci de m'avoir emmené, papa!",
       "translation": {
         "en": "Thanks for taking me, Dad!",
         "uk": "Дякую, що відвіз мене, тату!"
       },
       "start": 78,
-      "end": 81
+      "end": 81,
+      "voice_type": "child"
     },
     {
       "french": "De rien, passe une bonne journée! À ce soir!",
@@ -202,7 +223,8 @@
         "uk": "Будь ласка, гарного дня! До вечора!"
       },
       "start": 81,
-      "end": 86
+      "end": 86,
+      "voice_type": "male"
     }
   ]
 }

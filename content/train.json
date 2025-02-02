@@ -12,7 +12,8 @@
         "uk": "Добрий день, я би хотів квиток до Парижа."
       },
       "start": 0,
-      "end": 4
+      "end": 4,
+      "voice_type": "male"
     },
     {
       "french": "Aller simple ou aller-retour?",
@@ -21,7 +22,8 @@
         "uk": "В один бік чи туди й назад?"
       },
       "start": 4,
-      "end": 7
+      "end": 7,
+      "voice_type": "female2"
     },
     {
       "french": "Aller simple, s'il vous plaît.",
@@ -30,7 +32,8 @@
         "uk": "В один бік, будь ласка."
       },
       "start": 7,
-      "end": 10
+      "end": 10,
+      "voice_type": "male"
     },
     {
       "french": "À quelle heure souhaitez-vous partir?",
@@ -39,7 +42,8 @@
         "uk": "О котрій годині ви хочете виїхати?"
       },
       "start": 10,
-      "end": 14
+      "end": 14,
+      "voice_type": "female2"
     },
     {
       "french": "Quel est le prochain train?",
@@ -48,7 +52,8 @@
         "uk": "Коли наступний потяг?"
       },
       "start": 14,
-      "end": 17
+      "end": 17,
+      "voice_type": "male"
     },
     {
       "french": "Le prochain train part à 14h30 et arrive à 17h.",
@@ -57,7 +62,8 @@
         "uk": "Наступний потяг відправляється о 14:30 і прибуває о 17:00."
       },
       "start": 17,
-      "end": 22
+      "end": 22,
+      "voice_type": "female2"
     },
     {
       "french": "Combien coûte le billet?",
@@ -66,7 +72,8 @@
         "uk": "Скільки коштує квиток?"
       },
       "start": 22,
-      "end": 25
+      "end": 25,
+      "voice_type": "male"
     },
     {
       "french": "C'est 45 euros en seconde classe.",
@@ -75,7 +82,8 @@
         "uk": "45 євро у другому класі."
       },
       "start": 25,
-      "end": 28
+      "end": 28,
+      "voice_type": "female2"
     },
     {
       "french": "Je peux payer par carte?",
@@ -84,7 +92,8 @@
         "uk": "Можна оплатити карткою?"
       },
       "start": 28,
-      "end": 31
+      "end": 31,
+      "voice_type": "male"
     },
     {
       "french": "Oui, bien sûr.",
@@ -93,7 +102,8 @@
         "uk": "Так, звичайно."
       },
       "start": 31,
-      "end": 33
+      "end": 33,
+      "voice_type": "female2"
     },
     {
       "french": "Merci beaucoup!",
@@ -102,7 +112,8 @@
         "uk": "Дякую дуже!"
       },
       "start": 33,
-      "end": 35
+      "end": 35,
+      "voice_type": "male"
     }
   ]
 }

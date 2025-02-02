@@ -12,16 +12,18 @@
         "uk": "Добрий день, я хотів би відкрити банківський рахунок."
       },
       "start": 0,
-      "end": 4
+      "end": 4,
+      "voice_type": "male"
     },
     {
-      "french": "Bien sûr. Avez-vous une pièce d’identité et un justificatif de domicile?",
+      "french": "Bien sûr. Avez-vous une pièce d'identité et un justificatif de domicile?",
       "translation": {
         "en": "Of course. Do you have an ID and proof of address?",
         "uk": "Звичайно. У вас є посвідчення особи та підтвердження адреси?"
       },
       "start": 4,
-      "end": 8
+      "end": 8,
+      "voice_type": "female"
     },
     {
       "french": "Oui, voici mes documents.",
@@ -30,7 +32,8 @@
         "uk": "Так, ось мої документи."
       },
       "start": 8,
-      "end": 10
+      "end": 10,
+      "voice_type": "male"
     },
     {
       "french": "Merci. Quel type de compte souhaitez-vous ouvrir?",
@@ -39,7 +42,8 @@
         "uk": "Дякую. Який тип рахунку ви хочете відкрити?"
       },
       "start": 10,
-      "end": 13
+      "end": 13,
+      "voice_type": "female"
     },
     {
       "french": "Un compte courant, s'il vous plaît.",
@@ -48,7 +52,8 @@
         "uk": "Розрахунковий рахунок, будь ласка."
       },
       "start": 13,
-      "end": 16
+      "end": 16,
+      "voice_type": "male"
     },
     {
       "french": "Très bien. Voulez-vous aussi une carte bancaire?",
@@ -57,7 +62,8 @@
         "uk": "Дуже добре. Вам потрібна банківська картка?"
       },
       "start": 16,
-      "end": 19
+      "end": 19,
+      "voice_type": "female"
     },
     {
       "french": "Oui, s'il vous plaît.",
@@ -66,16 +72,18 @@
         "uk": "Так, будь ласка."
       },
       "start": 19,
-      "end": 21
+      "end": 21,
+      "voice_type": "male"
     },
     {
-      "french": "D'accord. Nous allons finaliser l’ouverture du compte. Avez-vous besoin d’autre chose?",
+      "french": "D'accord. Nous allons finaliser l'ouverture du compte. Avez-vous besoin d'autre chose?",
       "translation": {
         "en": "Alright. We will finalize the account opening. Do you need anything else?",
         "uk": "Добре. Ми завершимо відкриття рахунку. Вам ще щось потрібно?"
       },
       "start": 21,
-      "end": 26
+      "end": 26,
+      "voice_type": "female"
     },
     {
       "french": "Oui, je voudrais savoir si je peux obtenir un crédit pour acheter un appartement.",
@@ -84,7 +92,8 @@
         "uk": "Так, я хотів би дізнатися, чи можу я отримати кредит на купівлю квартири."
       },
       "start": 26,
-      "end": 31
+      "end": 31,
+      "voice_type": "male"
     },
     {
       "french": "Bien sûr. Quel est le montant que vous souhaitez emprunter?",
@@ -93,7 +102,8 @@
         "uk": "Звичайно. Яку суму ви хочете позичити?"
       },
       "start": 31,
-      "end": 34
+      "end": 34,
+      "voice_type": "female"
     },
     {
       "french": "Environ 200 000 euros.",
@@ -102,7 +112,8 @@
         "uk": "Приблизно 200 000 євро."
       },
       "start": 34,
-      "end": 36
+      "end": 36,
+      "voice_type": "male"
     },
     {
       "french": "Très bien. Avez-vous un apport personnel?",
@@ -111,7 +122,8 @@
         "uk": "Дуже добре. У вас є власний внесок?"
       },
       "start": 36,
-      "end": 39
+      "end": 39,
+      "voice_type": "female"
     },
     {
       "french": "Oui, environ 30 000 euros.",
@@ -120,7 +132,8 @@
         "uk": "Так, приблизно 30 000 євро."
       },
       "start": 39,
-      "end": 41
+      "end": 41,
+      "voice_type": "male"
     },
     {
       "french": "D'accord. Nous allons examiner votre situation financière et voir si vous êtes éligible.",
@@ -129,7 +142,8 @@
         "uk": "Добре. Ми розглянемо вашу фінансову ситуацію і визначимо, чи маєте ви право на кредит."
       },
       "start": 41,
-      "end": 46
+      "end": 46,
+      "voice_type": "female"
     },
     {
       "french": "Merci. Quand aurai-je une réponse?",
@@ -138,16 +152,18 @@
         "uk": "Дякую. Коли я отримаю відповідь?"
       },
       "start": 46,
-      "end": 48
+      "end": 48,
+      "voice_type": "male"
     },
     {
       "french": "Sous quelques jours. Nous vous contacterons dès que possible.",
       "translation": {
         "en": "Within a few days. We will contact you as soon as possible.",
-        "uk": "Протягом кількох днів. Ми зв’яжемося з вами якомога швидше."
+        "uk": "Протягом кількох днів. Ми зв'яжемося з вами якомога швидше."
       },
       "start": 48,
-      "end": 51
+      "end": 51,
+      "voice_type": "female"
     },
     {
       "french": "Très bien. Merci beaucoup!",
@@ -156,7 +172,8 @@
         "uk": "Дуже добре. Велике дякую!"
       },
       "start": 51,
-      "end": 53
+      "end": 53,
+      "voice_type": "male"
     },
     {
       "french": "Je vous en prie. Bonne journée!",
@@ -165,7 +182,8 @@
         "uk": "Будь ласка. Гарного дня!"
       },
       "start": 53,
-      "end": 56
+      "end": 56,
+      "voice_type": "female"
     },
     {
       "french": "À vous aussi!",
@@ -174,7 +192,8 @@
         "uk": "Вам також!"
       },
       "start": 56,
-      "end": 58
+      "end": 58,
+      "voice_type": "male"
     }
   ]
 }

@@ -12,7 +12,8 @@
         "uk": "Добрий вечір, ви маєте резервацію?"
       },
       "start": 0,
-      "end": 3
+      "end": 3,
+      "voice_type": "male"
     },
     {
       "french": "Oui, j'ai réservé pour deux personnes au nom de Martin.",
@@ -21,7 +22,8 @@
         "uk": "Так, я зарезервував столик на двох на ім'я Мартін."
       },
       "start": 3,
-      "end": 7
+      "end": 7,
+      "voice_type": "male2"
     },
     {
       "french": "Parfait, suivez-moi s'il vous plaît.",
@@ -30,7 +32,8 @@
         "uk": "Чудово, прошу за мною."
       },
       "start": 7,
-      "end": 10
+      "end": 10,
+      "voice_type": "male"
     },
     {
       "french": "Voici la carte. Je vous laisse choisir.",
@@ -39,7 +42,8 @@
         "uk": "Ось меню. Я дам вам час вибрати."
       },
       "start": 10,
-      "end": 15
+      "end": 15,
+      "voice_type": "male"
     },
     {
       "french": "Qu'est-ce que vous recommandez?",
@@ -48,7 +52,8 @@
         "uk": "Що ви рекомендуєте?"
       },
       "start": 15,
-      "end": 18
+      "end": 18,
+      "voice_type": "male2"
     },
     {
       "french": "Le plat du jour est un steak avec des légumes grillés.",
@@ -57,7 +62,8 @@
         "uk": "Стравою дня є стейк з гриль-овочами."
       },
       "start": 18,
-      "end": 22
+      "end": 22,
+      "voice_type": "male"
     },
     {
       "french": "Très bien, je vais prendre ça.",
@@ -66,7 +72,8 @@
         "uk": "Дуже добре, я візьму це."
       },
       "start": 22,
-      "end": 25
+      "end": 25,
+      "voice_type": "male2"
     },
     {
       "french": "Et pour vous, madame?",
@@ -75,7 +82,8 @@
         "uk": "А для вас, мадам?"
       },
       "start": 25,
-      "end": 27
+      "end": 27,
+      "voice_type": "male"
     },
     {
       "french": "Je prendrai une salade niçoise, s'il vous plaît.",
@@ -84,7 +92,8 @@
         "uk": "Я візьму салат Нісуаз, будь ласка."
       },
       "start": 27,
-      "end": 32
+      "end": 32,
+      "voice_type": "female"
     },
     {
       "french": "Et comme boisson?",
@@ -93,7 +102,8 @@
         "uk": "А що будете пити?"
       },
       "start": 32,
-      "end": 34
+      "end": 34,
+      "voice_type": "male"
     },
     {
       "french": "Une bouteille d'eau minérale et un verre de vin rouge.",
@@ -102,7 +112,8 @@
         "uk": "Пляшку мінеральної води та келих червоного вина."
       },
       "start": 34,
-      "end": 38
+      "end": 38,
+      "voice_type": "male2"
     },
     {
       "french": "Très bien. Vous voulez du pain avec votre repas?",
@@ -111,7 +122,8 @@
         "uk": "Дуже добре. Бажаєте хліб до вашої страви?"
       },
       "start": 38,
-      "end": 43
+      "end": 43,
+      "voice_type": "male"
     },
     {
       "french": "Oui, merci.",
@@ -120,7 +132,8 @@
         "uk": "Так, дякую."
       },
       "start": 43,
-      "end": 45
+      "end": 45,
+      "voice_type": "male2"
     },
     {
       "french": "Voici votre repas. Bon appétit!",
@@ -129,7 +142,8 @@
         "uk": "Ось ваша страва. Смачного!"
       },
       "start": 45,
-      "end": 49
+      "end": 49,
+      "voice_type": "male"
     },
     {
       "french": "Merci beaucoup!",
@@ -138,7 +152,8 @@
         "uk": "Дякую дуже!"
       },
       "start": 49,
-      "end": 52
+      "end": 52,
+      "voice_type": "female"
     },
     {
       "french": "Tout se passe bien?",
@@ -147,7 +162,8 @@
         "uk": "Все добре?"
       },
       "start": 52,
-      "end": 54
+      "end": 54,
+      "voice_type": "male"
     },
     {
       "french": "Oui, c'est délicieux!",
@@ -156,7 +172,8 @@
         "uk": "Так, це дуже смачно!"
       },
       "start": 54,
-      "end": 57
+      "end": 57,
+      "voice_type": "male2"
     },
     {
       "french": "Souhaitez-vous un dessert?",
@@ -165,7 +182,8 @@
         "uk": "Бажаєте десерт?"
       },
       "start": 57,
-      "end": 60
+      "end": 60,
+      "voice_type": "male"
     },
     {
       "french": "Oui, une tarte aux pommes pour moi, s'il vous plaît.",
@@ -174,7 +192,8 @@
         "uk": "Так, яблучний пиріг для мене, будь ласка."
       },
       "start": 60,
-      "end": 64
+      "end": 64,
+      "voice_type": "male2"
     },
     {
       "french": "Et pour vous, madame?",
@@ -183,7 +202,8 @@
         "uk": "А для вас, мадам?"
       },
       "start": 64,
-      "end": 66
+      "end": 66,
+      "voice_type": "male"
     },
     {
       "french": "Un café et une crème brûlée, s'il vous plaît.",
@@ -192,7 +212,8 @@
         "uk": "Каву та крем-брюле, будь ласка."
       },
       "start": 66,
-      "end": 70
+      "end": 70,
+      "voice_type": "female"
     },
     {
       "french": "D'accord. Je vous apporte ça tout de suite.",
@@ -201,7 +222,8 @@
         "uk": "Гаразд. Я зараз принесу."
       },
       "start": 70,
-      "end": 75
+      "end": 75,
+      "voice_type": "male"
     },
     {
       "french": "L'addition, s'il vous plaît.",
@@ -210,7 +232,8 @@
         "uk": "Рахунок, будь ласка."
       },
       "start": 75,
-      "end": 78
+      "end": 78,
+      "voice_type": "male2"
     },
     {
       "french": "Voici votre addition. Cela fait 42 euros.",
@@ -219,16 +242,18 @@
         "uk": "Ось ваш рахунок. З вас 42 євро."
       },
       "start": 78,
-      "end": 83
+      "end": 83,
+      "voice_type": "male"
     },
     {
       "french": "Je paie par carte.",
       "translation": {
-        "en": "I’ll pay by card.",
+        "en": "I'll pay by card.",
         "uk": "Я оплачую карткою."
       },
       "start": 83,
-      "end": 86
+      "end": 86,
+      "voice_type": "male2"
     },
     {
       "french": "Merci beaucoup et bonne soirée!",
@@ -237,7 +262,8 @@
         "uk": "Дуже дякую і гарного вечора!"
       },
       "start": 86,
-      "end": 89
+      "end": 89,
+      "voice_type": "male"
     }
   ]
 }
