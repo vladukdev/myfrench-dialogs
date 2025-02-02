@@ -12,7 +12,7 @@
         "uk": "Вибачте, ви могли б мені допомогти? Я шукаю вокзал."
       },
       "start": 0,
-      "end": 4,
+      "end": 5,
       "voice_type": "male"
     },
     {
@@ -21,8 +21,8 @@
         "en": "Of course! Are you looking for Perrache or Part-Dieu station?",
         "uk": "Звичайно! Ви шукаєте вокзал Перраш чи Парт-Дьє?"
       },
-      "start": 4,
-      "end": 8,
+      "start": 5,
+      "end": 10,
       "voice_type": "female"
     },
     {
@@ -31,8 +31,8 @@
         "en": "I'm going to Part-Dieu.",
         "uk": "Я йду на Парт-Дьє."
       },
-      "start": 8,
-      "end": 10,
+      "start": 10,
+      "end": 12,
       "voice_type": "male"
     },
     {
@@ -41,8 +41,8 @@
         "en": "Alright! Take this street, the Rue de la République, straight ahead until the intersection.",
         "uk": "Добре! Йдіть цією вулицею, вулицею Республіки, прямо до перехрестя."
       },
-      "start": 10,
-      "end": 14,
+      "start": 12,
+      "end": 19,
       "voice_type": "female"
     },
     {
@@ -51,8 +51,8 @@
         "en": "Then, turn left onto Rue Garibaldi and continue until Avenue Thiers.",
         "uk": "Потім поверніть ліворуч на вулицю Гарібальді і йдіть до авеню Тієр."
       },
-      "start": 14,
-      "end": 18,
+      "start": 19,
+      "end": 25,
       "voice_type": "female"
     },
     {
@@ -61,8 +61,8 @@
         "en": "You'll see a large square with a fountain. The Part-Dieu station is just after the shopping center.",
         "uk": "Ви побачите велику площу з фонтаном. Вокзал Парт-Дьє знаходиться відразу після торгового центру."
       },
-      "start": 18,
-      "end": 23,
+      "start": 25,
+      "end": 32,
       "voice_type": "female"
     },
     {
@@ -71,8 +71,8 @@
         "en": "Is it far from here?",
         "uk": "Це далеко звідси?"
       },
-      "start": 23,
-      "end": 25,
+      "start": 32,
+      "end": 35,
       "voice_type": "male"
     },
     {
@@ -81,8 +81,8 @@
         "en": "No, about fifteen minutes on foot.",
         "uk": "Ні, це приблизно п'ятнадцять хвилин пішки."
       },
-      "start": 25,
-      "end": 28,
+      "start": 35,
+      "end": 38,
       "voice_type": "female"
     },
     {
@@ -91,8 +91,8 @@
         "en": "You can also take tram T1, the stop is just there.",
         "uk": "Ви також можете сісти на трамвай Т1, зупинка ось там."
       },
-      "start": 28,
-      "end": 31,
+      "start": 38,
+      "end": 43,
       "voice_type": "female"
     },
     {
@@ -101,8 +101,8 @@
         "en": "Thank you very much! Have a nice day!",
         "uk": "Дуже дякую! Гарного дня!"
       },
-      "start": 31,
-      "end": 34,
+      "start": 43,
+      "end": 47,
       "voice_type": "male"
     },
     {
@@ -111,8 +111,8 @@
         "en": "You're welcome! Have a nice day too!",
         "uk": "Будь ласка! Вам також гарного дня!"
       },
-      "start": 34,
-      "end": 37,
+      "start": 47,
+      "end": 52,
       "voice_type": "female"
     }
   ]

@@ -12,7 +12,7 @@
         "uk": "Добрий день, я би хотів квиток до Парижа."
       },
       "start": 0,
-      "end": 4,
+      "end": 3,
       "voice_type": "male"
     },
     {
@@ -21,9 +21,9 @@
         "en": "One-way or round trip?",
         "uk": "В один бік чи туди й назад?"
       },
-      "start": 4,
-      "end": 7,
-      "voice_type": "female2"
+      "start": 3,
+      "end": 6,
+      "voice_type": "female"
     },
     {
       "french": "Aller simple, s'il vous plaît.",
@@ -32,7 +32,7 @@
         "uk": "В один бік, будь ласка."
       },
       "start": 7,
-      "end": 10,
+      "end": 9,
       "voice_type": "male"
     },
     {
@@ -41,9 +41,9 @@
         "en": "At what time would you like to leave?",
         "uk": "О котрій годині ви хочете виїхати?"
       },
-      "start": 10,
-      "end": 14,
-      "voice_type": "female2"
+      "start": 9,
+      "end": 12,
+      "voice_type": "female"
     },
     {
       "french": "Quel est le prochain train?",
@@ -51,8 +51,8 @@
         "en": "When is the next train?",
         "uk": "Коли наступний потяг?"
       },
-      "start": 14,
-      "end": 17,
+      "start": 12,
+      "end": 15,
       "voice_type": "male"
     },
     {
@@ -61,9 +61,9 @@
         "en": "The next train leaves at 2:30 PM and arrives at 5 PM.",
         "uk": "Наступний потяг відправляється о 14:30 і прибуває о 17:00."
       },
-      "start": 17,
-      "end": 22,
-      "voice_type": "female2"
+      "start": 15,
+      "end": 19,
+      "voice_type": "female"
     },
     {
       "french": "Combien coûte le billet?",
@@ -71,8 +71,8 @@
         "en": "How much is the ticket?",
         "uk": "Скільки коштує квиток?"
       },
-      "start": 22,
-      "end": 25,
+      "start": 19,
+      "end": 22,
       "voice_type": "male"
     },
     {
@@ -81,9 +81,9 @@
         "en": "It's 45 euros in second class.",
         "uk": "45 євро у другому класі."
       },
-      "start": 25,
-      "end": 28,
-      "voice_type": "female2"
+      "start": 22,
+      "end": 26,
+      "voice_type": "female"
     },
     {
       "french": "Je peux payer par carte?",
@@ -91,8 +91,8 @@
         "en": "Can I pay by card?",
         "uk": "Можна оплатити карткою?"
       },
-      "start": 28,
-      "end": 31,
+      "start": 26,
+      "end": 28,
       "voice_type": "male"
     },
     {
@@ -101,9 +101,9 @@
         "en": "Yes, of course.",
         "uk": "Так, звичайно."
       },
-      "start": 31,
-      "end": 33,
-      "voice_type": "female2"
+      "start": 28,
+      "end": 31,
+      "voice_type": "female"
     },
     {
       "french": "Merci beaucoup!",
@@ -111,8 +111,8 @@
         "en": "Thank you very much!",
         "uk": "Дякую дуже!"
       },
-      "start": 33,
-      "end": 35,
+      "start": 31,
+      "end": 34,
       "voice_type": "male"
     }
   ]

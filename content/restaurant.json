@@ -12,7 +12,7 @@
         "uk": "Добрий вечір, ви маєте резервацію?"
       },
       "start": 0,
-      "end": 3,
+      "end": 2,
       "voice_type": "male"
     },
     {
@@ -21,7 +21,7 @@
         "en": "Yes, I have a reservation for two people under the name Martin.",
         "uk": "Так, я зарезервував столик на двох на ім'я Мартін."
       },
-      "start": 3,
+      "start": 2,
       "end": 7,
       "voice_type": "male2"
     },
@@ -62,7 +62,7 @@
         "uk": "Стравою дня є стейк з гриль-овочами."
       },
       "start": 18,
-      "end": 22,
+      "end": 21,
       "voice_type": "male"
     },
     {
@@ -71,8 +71,8 @@
         "en": "Very well, I'll have that.",
         "uk": "Дуже добре, я візьму це."
       },
-      "start": 22,
-      "end": 25,
+      "start": 21,
+      "end": 24,
       "voice_type": "male2"
     },
     {
@@ -81,8 +81,8 @@
         "en": "And for you, madam?",
         "uk": "А для вас, мадам?"
       },
-      "start": 25,
-      "end": 27,
+      "start": 24,
+      "end": 26,
       "voice_type": "male"
     },
     {
@@ -92,7 +92,7 @@
         "uk": "Я візьму салат Нісуаз, будь ласка."
       },
       "start": 27,
-      "end": 32,
+      "end": 30,
       "voice_type": "female"
     },
     {
@@ -101,8 +101,8 @@
         "en": "And for drinks?",
         "uk": "А що будете пити?"
       },
-      "start": 32,
-      "end": 34,
+      "start": 30,
+      "end": 33,
       "voice_type": "male"
     },
     {
@@ -111,8 +111,8 @@
         "en": "A bottle of mineral water and a glass of red wine.",
         "uk": "Пляшку мінеральної води та келих червоного вина."
       },
-      "start": 34,
-      "end": 38,
+      "start": 33,
+      "end": 37,
       "voice_type": "male2"
     },
     {
@@ -121,8 +121,8 @@
         "en": "Very well. Would you like some bread with your meal?",
         "uk": "Дуже добре. Бажаєте хліб до вашої страви?"
       },
-      "start": 38,
-      "end": 43,
+      "start": 37,
+      "end": 41,
       "voice_type": "male"
     },
     {
@@ -131,8 +131,8 @@
         "en": "Yes, thank you.",
         "uk": "Так, дякую."
       },
-      "start": 43,
-      "end": 45,
+      "start": 41,
+      "end": 43,
       "voice_type": "male2"
     },
     {
@@ -141,8 +141,8 @@
         "en": "Here is your meal. Enjoy your meal!",
         "uk": "Ось ваша страва. Смачного!"
       },
-      "start": 45,
-      "end": 49,
+      "start": 43,
+      "end": 48,
       "voice_type": "male"
     },
     {
@@ -151,8 +151,8 @@
         "en": "Thank you very much!",
         "uk": "Дякую дуже!"
       },
-      "start": 49,
-      "end": 52,
+      "start": 48,
+      "end": 50,
       "voice_type": "female"
     },
     {
@@ -161,8 +161,8 @@
         "en": "Is everything going well?",
         "uk": "Все добре?"
       },
-      "start": 52,
-      "end": 54,
+      "start": 50,
+      "end": 52,
       "voice_type": "male"
     },
     {
@@ -171,8 +171,8 @@
         "en": "Yes, it's delicious!",
         "uk": "Так, це дуже смачно!"
       },
-      "start": 54,
-      "end": 57,
+      "start": 52,
+      "end": 54,
       "voice_type": "male2"
     },
     {
@@ -181,8 +181,8 @@
         "en": "Would you like a dessert?",
         "uk": "Бажаєте десерт?"
       },
-      "start": 57,
-      "end": 60,
+      "start": 54,
+      "end": 58,
       "voice_type": "male"
     },
     {
@@ -191,8 +191,8 @@
         "en": "Yes, an apple tart for me, please.",
         "uk": "Так, яблучний пиріг для мене, будь ласка."
       },
-      "start": 60,
-      "end": 64,
+      "start": 58,
+      "end": 61,
       "voice_type": "male2"
     },
     {
@@ -201,8 +201,8 @@
         "en": "And for you, madam?",
         "uk": "А для вас, мадам?"
       },
-      "start": 64,
-      "end": 66,
+      "start": 61,
+      "end": 63,
       "voice_type": "male"
     },
     {
@@ -211,8 +211,8 @@
         "en": "A coffee and a crème brûlée, please.",
         "uk": "Каву та крем-брюле, будь ласка."
       },
-      "start": 66,
-      "end": 70,
+      "start": 63,
+      "end": 67,
       "voice_type": "female"
     },
     {
@@ -221,8 +221,8 @@
         "en": "Alright. I'll bring that right away.",
         "uk": "Гаразд. Я зараз принесу."
       },
-      "start": 70,
-      "end": 75,
+      "start": 67,
+      "end": 72,
       "voice_type": "male"
     },
     {
@@ -231,8 +231,8 @@
         "en": "The check, please.",
         "uk": "Рахунок, будь ласка."
       },
-      "start": 75,
-      "end": 78,
+      "start": 72,
+      "end": 75,
       "voice_type": "male2"
     },
     {
@@ -241,8 +241,8 @@
         "en": "Here is your bill. That will be 42 euros.",
         "uk": "Ось ваш рахунок. З вас 42 євро."
       },
-      "start": 78,
-      "end": 83,
+      "start": 75,
+      "end": 79,
       "voice_type": "male"
     },
     {
@@ -251,8 +251,8 @@
         "en": "I'll pay by card.",
         "uk": "Я оплачую карткою."
       },
-      "start": 83,
-      "end": 86,
+      "start": 79,
+      "end": 81,
       "voice_type": "male2"
     },
     {
@@ -261,8 +261,8 @@
         "en": "Thank you very much and have a nice evening!",
         "uk": "Дуже дякую і гарного вечора!"
       },
-      "start": 86,
-      "end": 89,
+      "start": 81,
+      "end": 85,
       "voice_type": "male"
     }
   ]

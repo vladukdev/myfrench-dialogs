@@ -72,7 +72,7 @@
         "uk": "Чи включено сніданок?"
       },
       "start": 20,
-      "end": 23,
+      "end": 24,
       "voice_type": "male"
     },
     {
@@ -81,8 +81,8 @@
         "en": "Yes, it is served from 7 AM to 10 AM.",
         "uk": "Так, його подають з 7:00 до 10:00."
       },
-      "start": 23,
-      "end": 27,
+      "start": 24,
+      "end": 28,
       "voice_type": "female"
     },
     {
@@ -91,7 +91,7 @@
         "en": "How much is it per night?",
         "uk": "Скільки це коштує за ніч?"
       },
-      "start": 27,
+      "start": 28,
       "end": 30,
       "voice_type": "male"
     },
@@ -122,7 +122,7 @@
         "uk": "Так, звичайно."
       },
       "start": 36,
-      "end": 38,
+      "end": 39,
       "voice_type": "female"
     },
     {
@@ -131,8 +131,8 @@
         "en": "Thank you very much!",
         "uk": "Дякую дуже!"
       },
-      "start": 38,
-      "end": 40,
+      "start": 39,
+      "end": 42,
       "voice_type": "male"
     }
   ]

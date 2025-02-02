@@ -22,7 +22,7 @@
         "uk": "Звичайно. У вас є посвідчення особи та підтвердження адреси?"
       },
       "start": 4,
-      "end": 8,
+      "end": 10,
       "voice_type": "female"
     },
     {
@@ -31,8 +31,8 @@
         "en": "Yes, here are my documents.",
         "uk": "Так, ось мої документи."
       },
-      "start": 8,
-      "end": 10,
+      "start": 10,
+      "end": 13,
       "voice_type": "male"
     },
     {
@@ -41,8 +41,8 @@
         "en": "Thank you. What type of account would you like to open?",
         "uk": "Дякую. Який тип рахунку ви хочете відкрити?"
       },
-      "start": 10,
-      "end": 13,
+      "start": 13,
+      "end": 18,
       "voice_type": "female"
     },
     {
@@ -51,8 +51,8 @@
         "en": "A checking account, please.",
         "uk": "Розрахунковий рахунок, будь ласка."
       },
-      "start": 13,
-      "end": 16,
+      "start": 18,
+      "end": 21,
       "voice_type": "male"
     },
     {
@@ -61,8 +61,8 @@
         "en": "Very well. Would you also like a bank card?",
         "uk": "Дуже добре. Вам потрібна банківська картка?"
       },
-      "start": 16,
-      "end": 19,
+      "start": 21,
+      "end": 26,
       "voice_type": "female"
     },
     {
@@ -71,8 +71,8 @@
         "en": "Yes, please.",
         "uk": "Так, будь ласка."
       },
-      "start": 19,
-      "end": 21,
+      "start": 26,
+      "end": 29,
       "voice_type": "male"
     },
     {
@@ -81,8 +81,8 @@
         "en": "Alright. We will finalize the account opening. Do you need anything else?",
         "uk": "Добре. Ми завершимо відкриття рахунку. Вам ще щось потрібно?"
       },
-      "start": 21,
-      "end": 26,
+      "start": 29,
+      "end": 37,
       "voice_type": "female"
     },
     {
@@ -91,8 +91,8 @@
         "en": "Yes, I would like to know if I can get a loan to buy an apartment.",
         "uk": "Так, я хотів би дізнатися, чи можу я отримати кредит на купівлю квартири."
       },
-      "start": 26,
-      "end": 31,
+      "start": 37,
+      "end": 42,
       "voice_type": "male"
     },
     {
@@ -101,8 +101,8 @@
         "en": "Of course. How much would you like to borrow?",
         "uk": "Звичайно. Яку суму ви хочете позичити?"
       },
-      "start": 31,
-      "end": 34,
+      "start": 42,
+      "end": 48,
       "voice_type": "female"
     },
     {
@@ -111,8 +111,8 @@
         "en": "Around 200,000 euros.",
         "uk": "Приблизно 200 000 євро."
       },
-      "start": 34,
-      "end": 36,
+      "start": 48,
+      "end": 50,
       "voice_type": "male"
     },
     {
@@ -121,8 +121,8 @@
         "en": "Very well. Do you have a personal contribution?",
         "uk": "Дуже добре. У вас є власний внесок?"
       },
-      "start": 36,
-      "end": 39,
+      "start": 50,
+      "end": 55,
       "voice_type": "female"
     },
     {
@@ -131,8 +131,8 @@
         "en": "Yes, around 30,000 euros.",
         "uk": "Так, приблизно 30 000 євро."
       },
-      "start": 39,
-      "end": 41,
+      "start": 55,
+      "end": 58,
       "voice_type": "male"
     },
     {
@@ -141,8 +141,8 @@
         "en": "Alright. We will review your financial situation and see if you are eligible.",
         "uk": "Добре. Ми розглянемо вашу фінансову ситуацію і визначимо, чи маєте ви право на кредит."
       },
-      "start": 41,
-      "end": 46,
+      "start": 58,
+      "end": 65,
       "voice_type": "female"
     },
     {
@@ -151,8 +151,8 @@
         "en": "Thank you. When will I get an answer?",
         "uk": "Дякую. Коли я отримаю відповідь?"
       },
-      "start": 46,
-      "end": 48,
+      "start": 65,
+      "end": 69,
       "voice_type": "male"
     },
     {
@@ -161,8 +161,8 @@
         "en": "Within a few days. We will contact you as soon as possible.",
         "uk": "Протягом кількох днів. Ми зв'яжемося з вами якомога швидше."
       },
-      "start": 48,
-      "end": 51,
+      "start": 69,
+      "end": 74,
       "voice_type": "female"
     },
     {
@@ -171,8 +171,8 @@
         "en": "Very well. Thank you very much!",
         "uk": "Дуже добре. Велике дякую!"
       },
-      "start": 51,
-      "end": 53,
+      "start": 74,
+      "end": 78,
       "voice_type": "male"
     },
     {
@@ -181,8 +181,8 @@
         "en": "You're welcome. Have a nice day!",
         "uk": "Будь ласка. Гарного дня!"
       },
-      "start": 53,
-      "end": 56,
+      "start": 78,
+      "end": 82,
       "voice_type": "female"
     },
     {
@@ -191,8 +191,8 @@
         "en": "You too!",
         "uk": "Вам також!"
       },
-      "start": 56,
-      "end": 58,
+      "start": 82,
+      "end": 85,
       "voice_type": "male"
     }
   ]

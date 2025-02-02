@@ -83,7 +83,7 @@
         "uk": "Хліб з маслом і варенням, і склянка молока."
       },
       "start": 27,
-      "end": 31,
+      "end": 32,
       "voice_type": "female"
     },
     {
@@ -92,8 +92,8 @@
         "en": "Yum! I love jam.",
         "uk": "Смакота! Я люблю варення."
       },
-      "start": 25,
-      "end": 36,
+      "start": 32,
+      "end": 37,
       "voice_type": "child"
     },
     {
@@ -102,7 +102,7 @@
         "en": "Ready for school? Put on your shoes and take your schoolbag.",
         "uk": "Готовий до школи? Взувайся і бери рюкзак."
       },
-      "start": 36,
+      "start": 37,
       "end": 41,
       "voice_type": "male2"
     },
@@ -113,7 +113,7 @@
         "uk": "Так, тату!"
       },
       "start": 41,
-      "end": 43,
+      "end": 44,
       "voice_type": "child"
     },
     {
@@ -122,8 +122,8 @@
         "en": "See you this evening, Mom!",
         "uk": "До вечора, мамо!"
       },
-      "start": 43,
-      "end": 46,
+      "start": 44,
+      "end": 47,
       "voice_type": "child"
     },
     {
@@ -132,8 +132,8 @@
         "en": "Have a great day, my dear!",
         "uk": "Гарного дня, мій любий!"
       },
-      "start": 46,
-      "end": 49,
+      "start": 47,
+      "end": 50,
       "voice_type": "female"
     },
     {
@@ -142,7 +142,7 @@
         "en": "Did you take everything? Your schoolbag, your notebook?",
         "uk": "Ти все взяв? Рюкзак, зошит?"
       },
-      "start": 49,
+      "start": 50,
       "end": 54,
       "voice_type": "male2"
     },
@@ -193,7 +193,7 @@
         "uk": "О, гаразд… Ми скоро приїдемо?"
       },
       "start": 70,
-      "end": 74,
+      "end": 73,
       "voice_type": "child"
     },
     {
@@ -202,8 +202,8 @@
         "en": "Yes, look, the school is right there.",
         "uk": "Так, дивись, школа прямо там."
       },
-      "start": 74,
-      "end": 78,
+      "start": 73,
+      "end": 76,
       "voice_type": "male2"
     },
     {
@@ -212,8 +212,8 @@
         "en": "Thanks for taking me, Dad!",
         "uk": "Дякую, що відвіз мене, тату!"
       },
-      "start": 78,
-      "end": 81,
+      "start": 76,
+      "end": 79,
       "voice_type": "child"
     },
     {
@@ -222,8 +222,8 @@
         "en": "You're welcome, have a great day! See you this evening!",
         "uk": "Будь ласка, гарного дня! До вечора!"
       },
-      "start": 81,
-      "end": 86,
+      "start": 79,
+      "end": 84,
       "voice_type": "male2"
     }
   ]
