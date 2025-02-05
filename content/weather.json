@@ -1,0 +1,149 @@
+{
+  "title": {
+    "en": "Talking about the weather and planning activities",
+    "uk": "Розмова про погоду та планування заходів"
+  },
+  "audio": "content/audio/weather.mp3",
+  "sentences": [
+    {
+      "french": "Quel temps fait-il aujourd'hui?",
+      "translation": {
+        "en": "What's the weather like today?",
+        "uk": "Яка сьогодні погода?"
+      },
+      "start": 0,
+      "end": 2,
+      "voice_type": "male"
+    },
+    {
+      "french": "Il fait très beau! Le ciel est dégagé et il fait 25 degrés.",
+      "translation": {
+        "en": "It's beautiful! The sky is clear and it's 25 degrees.",
+        "uk": "Дуже гарна! Небо чисте і 25 градусів."
+      },
+      "start": 2,
+      "end": 8,
+      "voice_type": "female"
+    },
+    {
+      "french": "Parfait! Que prévoit la météo pour ce week-end?",
+      "translation": {
+        "en": "Perfect! What's the forecast for this weekend?",
+        "uk": "Чудово! Який прогноз на вихідні?"
+      },
+      "start": 8,
+      "end": 13,
+      "voice_type": "male"
+    },
+    {
+      "french": "Samedi sera ensoleillé, mais dimanche il y a un risque de pluie l'après-midi.",
+      "translation": {
+        "en": "Saturday will be sunny, but there's a chance of rain on Sunday afternoon.",
+        "uk": "В суботу буде сонячно, але в неділю після обіду можливий дощ."
+      },
+      "start": 13,
+      "end": 18,
+      "voice_type": "female"
+    },
+    {
+      "french": "On pourrait organiser un pique-nique samedi alors?",
+      "translation": {
+        "en": "Could we organize a picnic on Saturday then?",
+        "uk": "Тоді може організуємо пікнік у суботу?"
+      },
+      "start": 18,
+      "end": 22,
+      "voice_type": "male"
+    },
+    {
+      "french": "Oui, mais il fera assez chaud. Il faut prévoir de l'eau et de la crème solaire.",
+      "translation": {
+        "en": "Yes, but it will be quite hot. We should bring water and sunscreen.",
+        "uk": "Так, але буде досить спекотно. Треба взяти воду і сонцезахисний крем."
+      },
+      "start": 22,
+      "end": 28,
+      "voice_type": "female"
+    },
+    {
+      "french": "À quelle température montera-t-il?",
+      "translation": {
+        "en": "How high will the temperature get?",
+        "uk": "До якої температури підніметься?"
+      },
+      "start": 28,
+      "end": 32,
+      "voice_type": "male"
+    },
+    {
+      "french": "Les prévisions annoncent 30 degrés vers midi, avec une légère brise.",
+      "translation": {
+        "en": "The forecast shows 30 degrees around noon, with a light breeze.",
+        "uk": "Прогноз показує 30 градусів близько полудня, з легким вітерцем."
+      },
+      "start": 32,
+      "end": 37,
+      "voice_type": "female"
+    },
+    {
+      "french": "Et pour dimanche? On pourrait aller au musée s'il pleut?",
+      "translation": {
+        "en": "And for Sunday? We could go to the museum if it rains?",
+        "uk": "А щодо неділі? Можемо піти в музей, якщо буде дощ?"
+      },
+      "start": 37,
+      "end": 42,
+      "voice_type": "male"
+    },
+    {
+      "french": "Bonne idée! Il y a 80% de chance de pluie à partir de 14 heures.",
+      "translation": {
+        "en": "Good idea! There's an 80% chance of rain from 2 PM.",
+        "uk": "Гарна ідея! Ймовірність дощу 80% після 14 години."
+      },
+      "start": 42,
+      "end": 48,
+      "voice_type": "female"
+    },
+    {
+      "french": "Y aura-t-il du vent aussi?",
+      "translation": {
+        "en": "Will it be windy too?",
+        "uk": "Чи буде також вітряно?"
+      },
+      "start": 48,
+      "end": 51,
+      "voice_type": "male"
+    },
+    {
+      "french": "Oui, des rafales jusqu'à 40 kilomètres par heure sont prévues.",
+      "translation": {
+        "en": "Yes, gusts up to 40 kilometers per hour are expected.",
+        "uk": "Так, очікуються пориви вітру до 40 кілометрів на годину."
+      },
+      "start": 51,
+      "end": 56,
+      "voice_type": "female"
+    },
+    {
+      "french": "On devrait peut-être prévoir un plan B pour le pique-nique aussi?",
+      "translation": {
+        "en": "Should we maybe have a backup plan for the picnic too?",
+        "uk": "Можливо, нам варто мати запасний план і для пікніка?"
+      },
+      "start": 56,
+      "end": 60,
+      "voice_type": "male"
+    },
+    {
+      "french": "C'est prudent. Je connais un bon café avec une terrasse couverte.",
+      "translation": {
+        "en": "That's wise. I know a nice café with a covered terrace.",
+        "uk": "Це розумно. Я знаю гарне кафе з критою терасою."
+      },
+      "start": 60,
+      "end": 67,
+      "voice_type": "female"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "title": {
+    "en": "Dealing with emergencies and asking for help",
+    "uk": "Надзвичайні ситуації та прохання про допомогу"
+  },
+  "audio": "content/audio/emergency.mp3",
+  "sentences": [
+    {
+      "french": "Au secours! Il y a eu un accident de voiture!",
+      "translation": {
+        "en": "Help! There's been a car accident!",
+        "uk": "Допоможіть! Сталася автомобільна аварія!"
+      },
+      "start": 0,
+      "end": 4,
+      "voice_type": "male"
+    },
+    {
+      "french": "Ne paniquez pas. Je suis secouriste. Y a-t-il des blessés?",
+      "translation": {
+        "en": "Don't panic. I'm a first responder. Are there any injured people?",
+        "uk": "Не панікуйте. Я рятувальник. Чи є постраждалі?"
+      },
+      "start": 4,
+      "end": 11,
+      "voice_type": "female"
+    },
+    {
+      "french": "Oui, le conducteur est conscient mais il saigne à la tête.",
+      "translation": {
+        "en": "Yes, the driver is conscious but has a head injury.",
+        "uk": "Так, водій притомний, але в нього травма голови."
+      },
+      "start": 11,
+      "end": 15,
+      "voice_type": "male"
+    },
+    {
+      "french": "J'ai appelé les secours. Quel est le numéro d'urgence ici?",
+      "translation": {
+        "en": "I've called for help. What's the emergency number here?",
+        "uk": "Я викликав допомогу. Який тут номер екстреної допомоги?"
+      },
+      "start": 15,
+      "end": 20,
+      "voice_type": "male"
+    },
+    {
+      "french": "C'est le 112 pour toute urgence. Pouvez-vous me dire exactement où nous sommes?",
+      "translation": {
+        "en": "It's 112 for any emergency. Can you tell me exactly where we are?",
+        "uk": "112 для будь-якої екстреної ситуації. Можете сказати точно, де ми знаходимося?"
+      },
+      "start": 20,
+      "end": 26,
+      "voice_type": "female"
+    },
+    {
+      "french": "Nous sommes sur l'avenue Victor Hugo, près du supermarché.",
+      "translation": {
+        "en": "We're on Victor Hugo Avenue, near the supermarket.",
+        "uk": "Ми на проспекті Віктора Гюго, біля супермаркету."
+      },
+      "start": 26,
+      "end": 31,
+      "voice_type": "male"
+    },
+    {
+      "french": "Y a-t-il une pharmacie ou un défibrillateur à proximité?",
+      "translation": {
+        "en": "Is there a pharmacy or defibrillator nearby?",
+        "uk": "Чи є поблизу аптека або дефібрилятор?"
+      },
+      "start": 31,
+      "end": 36,
+      "voice_type": "female"
+    },
+    {
+      "french": "Oui, il y a une pharmacie au coin de la rue. Je vais y courir.",
+      "translation": {
+        "en": "Yes, there's a pharmacy on the corner. I'll run there.",
+        "uk": "Так, на розі є аптека. Я побіжу туди."
+      },
+      "start": 36,
+      "end": 41,
+      "voice_type": "male"
+    },
+    {
+      "french": "Les pompiers et l'ambulance arrivent dans cinq minutes. Restez calme.",
+      "translation": {
+        "en": "The fire brigade and ambulance will be here in five minutes. Stay calm.",
+        "uk": "Пожежники та швидка допомога прибудуть через п'ять хвилин. Зберігайте спокій."
+      },
+      "start": 41,
+      "end": 47,
+      "voice_type": "female"
+    },
+    {
+      "french": "Que dois-je faire en attendant?",
+      "translation": {
+        "en": "What should I do while waiting?",
+        "uk": "Що мені робити поки чекаємо?"
+      },
+      "start": 47,
+      "end": 50,
+      "voice_type": "male"
+    },
+    {
+      "french": "Assurez-vous que la victime ne bouge pas. Parlez-lui pour la garder consciente.",
+      "translation": {
+        "en": "Make sure the victim doesn't move. Talk to them to keep them conscious.",
+        "uk": "Переконайтеся, що потерпілий не рухається. Говоріть з ним, щоб він залишався притомним."
+      },
+      "start": 50,
+      "end": 55,
+      "voice_type": "female"
+    },
+    {
+      "french": "J'entends les sirènes! Les secours arrivent!",
+      "translation": {
+        "en": "I hear the sirens! Help is coming!",
+        "uk": "Я чую сирени! Допомога наближається!"
+      },
+      "start": 55,
+      "end": 59,
+      "voice_type": "male"
+    },
+    {
+      "french": "Écartez-vous pour laisser passer les équipes de secours. Vous avez très bien réagi.",
+      "translation": {
+        "en": "Step aside to let the emergency teams through. You handled this very well.",
+        "uk": "Відійдіть, щоб пропустити рятувальні команди. Ви дуже добре впорались."
+      },
+      "start": 59,
+      "end": 67,
+      "voice_type": "female"
+    }
+  ]
+}

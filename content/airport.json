@@ -1,0 +1,139 @@
+{
+  "title": {
+    "en": "Checking in at the airport and boarding the plane",
+    "uk": "Реєстрація в аеропорту та посадка на літак"
+  },
+  "audio": "content/audio/airport.mp3",
+  "sentences": [
+    {
+      "french": "Bonjour, je voudrais m'enregistrer pour le vol AF832 pour Paris.",
+      "translation": {
+        "en": "Hello, I'd like to check in for flight AF832 to Paris.",
+        "uk": "Добрий день, я хотів би зареєструватися на рейс AF832 до Парижа."
+      },
+      "start": 0,
+      "end": 5,
+      "voice_type": "male"
+    },
+    {
+      "french": "Bonjour monsieur. Puis-je voir votre passeport et votre réservation, s'il vous plaît?",
+      "translation": {
+        "en": "Hello sir. May I see your passport and booking confirmation, please?",
+        "uk": "Добрий день, пане. Можна ваш паспорт та підтвердження бронювання, будь ласка?"
+      },
+      "start": 5,
+      "end": 11,
+      "voice_type": "female"
+    },
+    {
+      "french": "Oui, les voici. J'ai aussi fait l'enregistrement en ligne hier.",
+      "translation": {
+        "en": "Yes, here they are. I also did the online check-in yesterday.",
+        "uk": "Так, ось вони. Я також зробив онлайн-реєстрацію вчора."
+      },
+      "start": 11,
+      "end": 17,
+      "voice_type": "male"
+    },
+    {
+      "french": "Parfait. Avez-vous des bagages à enregistrer?",
+      "translation": {
+        "en": "Perfect. Do you have any luggage to check in?",
+        "uk": "Чудово. У вас є багаж для реєстрації?"
+      },
+      "start": 17,
+      "end": 21,
+      "voice_type": "female"
+    },
+    {
+      "french": "Oui, j'ai une valise. Est-ce que je peux prendre mon sac à dos comme bagage à main?",
+      "translation": {
+        "en": "Yes, I have one suitcase. Can I take my backpack as hand luggage?",
+        "uk": "Так, у мене є валіза. Чи можу я взяти рюкзак як ручну поклажу?"
+      },
+      "start": 21,
+      "end": 28,
+      "voice_type": "male"
+    },
+    {
+      "french": "Bien sûr, mais je dois vérifier son poids. Pouvez-vous le placer sur la balance?",
+      "translation": {
+        "en": "Of course, but I need to check its weight. Could you place it on the scale?",
+        "uk": "Звичайно, але я маю перевірити його вагу. Можете поставити його на ваги?"
+      },
+      "start": 28,
+      "end": 34,
+      "voice_type": "female"
+    },
+    {
+      "french": "À quelle heure est l'embarquement?",
+      "translation": {
+        "en": "What time is boarding?",
+        "uk": "О котрій годині посадка?"
+      },
+      "start": 34,
+      "end": 37,
+      "voice_type": "male"
+    },
+    {
+      "french": "L'embarquement commence à 10h30 à la porte B15. Voici votre carte d'embarquement.",
+      "translation": {
+        "en": "Boarding starts at 10:30 at gate B15. Here's your boarding pass.",
+        "uk": "Посадка починається о 10:30 біля виходу B15. Ось ваш посадковий талон."
+      },
+      "start": 37,
+      "end": 44,
+      "voice_type": "female"
+    },
+    {
+      "french": "Je dois passer par où pour le contrôle de sécurité?",
+      "translation": {
+        "en": "Which way should I go for security control?",
+        "uk": "Куди мені йти на контроль безпеки?"
+      },
+      "start": 44,
+      "end": 48,
+      "voice_type": "male"
+    },
+    {
+      "french": "Suivez les panneaux vers la zone de sécurité au premier étage. N'oubliez pas de sortir vos liquides et votre ordinateur.",
+      "translation": {
+        "en": "Follow the signs to the security area on the first floor. Don't forget to take out your liquids and laptop.",
+        "uk": "Слідуйте за вказівниками до зони безпеки на першому поверсі. Не забудьте дістати рідини та ноутбук."
+      },
+      "start": 48,
+      "end": 57,
+      "voice_type": "female"
+    },
+    {
+      "french": "Mesdames et messieurs, nous commençons l'embarquement du vol AF832 à destination de Paris.",
+      "translation": {
+        "en": "Ladies and gentlemen, we are now beginning boarding for flight AF832 to Paris.",
+        "uk": "Пані та панове, ми починаємо посадку на рейс AF832 до Парижа."
+      },
+      "start": 57,
+      "end": 63,
+      "voice_type": "female"
+    },
+    {
+      "french": "Dois-je présenter mon passeport à nouveau?",
+      "translation": {
+        "en": "Do I need to show my passport again?",
+        "uk": "Чи потрібно мені знову показувати паспорт?"
+      },
+      "start": 63,
+      "end": 66,
+      "voice_type": "male"
+    },
+    {
+      "french": "Oui, s'il vous plaît. Votre carte d'embarquement et votre passeport. Bon voyage!",
+      "translation": {
+        "en": "Yes, please. Your boarding pass and passport. Have a good flight!",
+        "uk": "Так, будь ласка. Ваш посадковий талон і паспорт. Гарного польоту!"
+      },
+      "start": 66,
+      "end": 75,
+      "voice_type": "female"
+    }
+  ]
+}

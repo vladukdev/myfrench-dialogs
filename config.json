@@ -102,6 +102,42 @@
         "en": "Buying a postcard and sending a greeting to a friend",
         "uk": "Придбання листівки та надсилання привітання другу"
       }
+    },
+    {
+      "id": "airport",
+      "title": "At the Airport",
+      "file": "content/airport.json",
+      "description": {
+        "en": "Checking in at the airport and boarding the plane",
+        "uk": "Реєстрація в аеропорту та посадка на літак"
+      }
+    },
+    {
+      "id": "emergency",
+      "title": "Emergency",
+      "file": "content/emergency.json",
+      "description": {
+        "en": "Dealing with emergencies and asking for help",
+        "uk": "Реагування на надзвичайні ситуації та запит допомоги"
+      }
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "file": "content/weather.json",
+      "description": {
+        "en": "Talking about the weather and planning activities",
+        "uk": "Розмова про погоду та планування активностей"
+      }
+    },
+    {
+      "id": "sightseeing",
+      "title": "Sightseeing in Lyon",
+      "file": "content/sightseeing.json",
+      "description": {
+        "en": "Exploring Lyon’s landmarks and attractions",
+        "uk": "Ознайомлення з пам'ятками та визначними місцями Ліона"
+      }
     }
   ]
 }

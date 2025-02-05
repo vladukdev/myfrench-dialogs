@@ -1,0 +1,219 @@
+{
+  "title": {
+    "en": "Sightseeing in Lyon",
+    "uk": "Екскурсія в Ліоні"
+  },
+  "audio": "content/audio/sightseeing.mp3",
+  "sentences": [
+    {
+      "french": "Bonjour, où se trouve la Basilique de Fourvière?",
+      "translation": {
+        "en": "Hello, where is the Basilica of Fourvière?",
+        "uk": "Добрий день, де знаходиться базиліка Фурв'єр?"
+      },
+      "start": 0,
+      "end": 3,
+      "voice_type": "male"
+    },
+    {
+      "french": "Elle est située sur la colline de Fourvière, offrant une vue magnifique sur Lyon.",
+      "translation": {
+        "en": "It is located on Fourvière hill, offering a magnificent view of Lyon.",
+        "uk": "Вона розташована на пагорбі Фурв'єр, звідки відкривається чудовий вид на Ліон."
+      },
+      "start": 3,
+      "end": 9,
+      "voice_type": "female"
+    },
+    {
+      "french": "Comment peut-on y aller?",
+      "translation": {
+        "en": "How can we get there?",
+        "uk": "Як туди дістатися?"
+      },
+      "start": 9,
+      "end": 11,
+      "voice_type": "male"
+    },
+    {
+      "french": "Vous pouvez prendre le funiculaire depuis le Vieux Lyon jusqu'à la colline de Fourvière.",
+      "translation": {
+        "en": "You can take the funicular from Old Lyon up to Fourvière hill.",
+        "uk": "Ви можете сісти на фунікулер з Старого Ліона до пагорба Фурв'єр."
+      },
+      "start": 11,
+      "end": 17,
+      "voice_type": "female"
+    },
+    {
+      "french": "Que peut-on voir à l'intérieur?",
+      "translation": {
+        "en": "What can be seen inside?",
+        "uk": "Що можна побачити всередині?"
+      },
+      "start": 17,
+      "end": 20,
+      "voice_type": "male"
+    },
+    {
+      "french": "L'intérieur est décoré avec de magnifiques mosaïques dorées, représentant des scènes bibliques et historiques.",
+      "translation": {
+        "en": "The interior is decorated with magnificent golden mosaics depicting biblical and historical scenes.",
+        "uk": "Інтер'єр прикрашений чудовими золотими мозаїками, що зображують біблійні та історичні сцени."
+      },
+      "start": 20,
+      "end": 27,
+      "voice_type": "female"
+    },
+    {
+      "french": "Combien de mosaïques y a-t-il?",
+      "translation": {
+        "en": "How many mosaics are there?",
+        "uk": "Скільки там мозаїк?"
+      },
+      "start": 27,
+      "end": 30,
+      "voice_type": "male"
+    },
+    {
+      "french": "Il y a six grandes mosaïques principales, chacune représentant un événement religieux important, avec des couleurs éclatantes et des détails impressionnants.",
+      "translation": {
+        "en": "There are six main mosaics, each depicting an important religious event, with vibrant colors and impressive details.",
+        "uk": "Є шість основних мозаїк, кожна з яких зображує важливу релігійну подію, з яскравими кольорами та вражаючими деталями."
+      },
+      "start": 30,
+      "end": 39,
+      "voice_type": "female"
+    },
+    {
+      "french": "C'est magnifique! Je peux prendre des photos?",
+      "translation": {
+        "en": "It's magnificent! Can I take photos?",
+        "uk": "Це чудово! Чи можна фотографувати?"
+      },
+      "start": 39,
+      "end": 44,
+      "voice_type": "male"
+    },
+    {
+      "french": "Oui, mais sans flash pour préserver les œuvres d'art.",
+      "translation": {
+        "en": "Yes, but without flash to preserve the artwork.",
+        "uk": "Так, але без спалаху, щоб зберегти твори мистецтва."
+      },
+      "start": 44,
+      "end": 48,
+      "voice_type": "female"
+    },
+    {
+      "french": "Y a-t-il une plateforme pour admirer la vue?",
+      "translation": {
+        "en": "Is there a platform to admire the view?",
+        "uk": "Чи є платформа для милування видом?"
+      },
+      "start": 48,
+      "end": 51,
+      "voice_type": "male"
+    },
+    {
+      "french": "Oui, depuis l'esplanade de la Basilique, on peut voir tout Lyon, la Saône et le Rhône. On peut aussi monter à la tour pour une vue encore plus spectaculaire.",
+      "translation": {
+        "en": "Yes, from the Basilica's esplanade, you can see all of Lyon, the Saône, and the Rhône. You can also climb the tower for an even more spectacular view.",
+        "uk": "Так, з еспланади базиліки відкривається вид на весь Ліон, Саону та Рону. Ви також можете піднятися на вежу, щоб насолодитися ще кращим краєвидом."
+      },
+      "start": 51,
+      "end": 62,
+      "voice_type": "female"
+    },
+    {
+      "french": "Y a-t-il autre chose à voir près de la Basilique ?",
+      "translation": {
+        "en": "Is there anything else to see near the Basilica?",
+        "uk": "Чи є ще щось цікаве поблизу базиліки?"
+      },
+      "start": 62,
+      "end": 66,
+      "voice_type": "male"
+    },
+    {
+      "french": "Oui, juste à quelques minutes à pied de la Basilique, il y a le théâtre gallo-romain. C'est un site historique fascinant qui remonte à plus de 2000 ans.",
+      "translation": {
+        "en": "Yes, just a few minutes' walk from the Basilica, there's the Gallo-Roman theater. It's a fascinating historical site that dates back more than 2,000 years.",
+        "uk": "Так, всього за кілька хвилин ходьби від базиліки знаходиться галло-римський театр. Це захоплююче історичне місце, якому понад 2000 років."
+      },
+      "start": 66,
+      "end": 76,
+      "voice_type": "female"
+    },
+    {
+      "french": "Oh, intéressant ! Que sait-on de sa construction ?",
+      "translation": {
+        "en": "Oh, interesting! What do we know about its construction?",
+        "uk": "О, цікаво! Що відомо про його будівництво?"
+      },
+      "start": 76,
+      "end": 80,
+      "voice_type": "male"
+    },
+    {
+      "french": "Il a été construit au Ier siècle avant J.-C. sous l'empereur Auguste. À l'époque, il pouvait accueillir environ 10 000 spectateurs.",
+      "translation": {
+        "en": "It was built in the 1st century BC under Emperor Augustus. At the time, it could accommodate around 10,000 spectators.",
+        "uk": "Його було збудовано у I столітті до н. е. за імператора Августа. Тоді він міг вмістити близько 10 000 глядачів."
+      },
+      "start": 80,
+      "end": 90,
+      "voice_type": "female"
+    },
+    {
+      "french": "Et quels types de spectacles y avaient lieu ?",
+      "translation": {
+        "en": "And what kinds of performances took place there?",
+        "uk": "А які вистави там проводилися?"
+      },
+      "start": 90,
+      "end": 93,
+      "voice_type": "male"
+    },
+    {
+      "french": "Il y avait des pièces de théâtre, des tragédies, des comédies, mais aussi des combats de gladiateurs.",
+      "translation": {
+        "en": "There were theater plays, tragedies, comedies, but also gladiator fights.",
+        "uk": "Там ставили театральні вистави, трагедії, комедії, а також проводили бої гладіаторів."
+      },
+      "start": 93,
+      "end": 100,
+      "voice_type": "female"
+    },
+    {
+      "french": "Ça devait être impressionnant à voir !",
+      "translation": {
+        "en": "That must have been impressive to see!",
+        "uk": "Це мало бути вражаюче видовище!"
+      },
+      "start": 100,
+      "end": 104,
+      "voice_type": "male"
+    },
+    {
+      "french": "Oui, et aujourd’hui encore, il est utilisé pour des festivals comme les Nuits de Fourvière. C’est un lieu magique pour des concerts et des spectacles en plein air.",
+      "translation": {
+        "en": "Yes, and even today, it is used for festivals like the Nuits de Fourvière. It’s a magical place for concerts and outdoor performances.",
+        "uk": "Так, і навіть сьогодні він використовується для фестивалів, таких як Nuits de Fourvière. Це чарівне місце для концертів та вистав просто неба."
+      },
+      "start": 104,
+      "end": 114,
+      "voice_type": "female"
+    },
+    {
+      "french": "Merci pour toutes ces informations !",
+      "translation": {
+        "en": "Thank you for all this information!",
+        "uk": "Дякую за всю цю інформацію!"
+      },
+      "start": 114,
+      "end": 118,
+      "voice_type": "male"
+    }
+  ]
+}
