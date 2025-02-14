@@ -1,0 +1,189 @@
+{
+  "title": {
+    "en": "Taxi Ride in Lyon",
+    "uk": "Поїздка на таксі у Ліоні"
+  },
+  "audio": "content/audio/taxi.mp3",
+  "sentences": [
+    {
+      "french": "Bonjour, Taxi Lyon, où puis-je vous prendre ?",
+      "translation": {
+        "en": "Hello, Taxi Lyon, where can I pick you up?",
+        "uk": "Добрий день, Таксі Ліон, де вас забрати?"
+      },
+      "start": 0,
+      "end": 3,
+      "voice_type": "male2"
+    },
+    {
+      "french": "Bonjour, pouvez-vous m’envoyer un taxi devant le bureau de Douanes ?",
+      "translation": {
+        "en": "Hello, can you send a taxi in front of the customs office?",
+        "uk": "Добрий день, можете надіслати таксі перед митним офісом?"
+      },
+      "start": 3,
+      "end": 8,
+      "voice_type": "male"
+    },
+    {
+      "french": "Bien sûr, un taxi arrivera dans cinq minutes.",
+      "translation": {
+        "en": "Of course, a taxi will arrive in five minutes.",
+        "uk": "Звичайно, таксі буде через п’ять хвилин."
+      },
+      "start": 8,
+      "end": 13,
+      "voice_type": "male2"
+    },
+    {
+      "french": "Merci !",
+      "translation": {
+        "en": "Thank you!",
+        "uk": "Дякую!"
+      },
+      "start": 13,
+      "end": 14,
+      "voice_type": "male"
+    },
+    {
+      "french": "Bonjour, vous avez commandé un taxi ?",
+      "translation": {
+        "en": "Hello, did you order a taxi?",
+        "uk": "Добрий день, ви викликали таксі?"
+      },
+      "start": 14,
+      "end": 18,
+      "voice_type": "male2"
+    },
+    {
+      "french": "Oui, je vais à mon hôtel près de la place Bellecour.",
+      "translation": {
+        "en": "Yes, I’m going to my hotel near Place Bellecour.",
+        "uk": "Так, я їду до свого готелю біля площі Белькур."
+      },
+      "start": 14,
+      "end": 22,
+      "voice_type": "male"
+    },
+    {
+      "french": "D'accord, montez. Vous êtes ici depuis combien de temps ?",
+      "translation": {
+        "en": "Alright, hop in. How long have you been here?",
+        "uk": "Добре, сідайте. Як довго ви тут?"
+      },
+      "start": 22,
+      "end": 27,
+      "voice_type": "male2"
+    },
+    {
+      "french": "Je suis arrivé il y a trois jours.",
+      "translation": {
+        "en": "I arrived three days ago.",
+        "uk": "Я приїхав три дні тому."
+      },
+      "start": 27,
+      "end": 29,
+      "voice_type": "male"
+    },
+    {
+      "french": "Et vous restez encore combien de temps à Lyon ?",
+      "translation": {
+        "en": "And how much longer are you staying in Lyon?",
+        "uk": "А як довго ви ще залишатиметесь у Ліоні?"
+      },
+      "start": 29,
+      "end": 33,
+      "voice_type": "male2"
+    },
+    {
+      "french": "Encore deux jours, jusqu’à vendredi matin.",
+      "translation": {
+        "en": "Two more days, until Friday morning.",
+        "uk": "Ще два дні, до п’ятниці вранці."
+      },
+      "start": 33,
+      "end": 36,
+      "voice_type": "male"
+    },
+    {
+      "french": "Très bien ! Et vous venez d’où ?",
+      "translation": {
+        "en": "Very nice! And where are you from?",
+        "uk": "Чудово! А звідки ви?"
+      },
+      "start": 36,
+      "end": 39,
+      "voice_type": "male2"
+    },
+    {
+      "french": "Je viens de Montréal.",
+      "translation": {
+        "en": "I’m from Montreal.",
+        "uk": "Я з Монреаля."
+      },
+      "start": 39,
+      "end": 42,
+      "voice_type": "male"
+    },
+    {
+      "french": "J’aimerais goûter une bonne cuisine française. Vous avez une recommandation ?",
+      "translation": {
+        "en": "I’d like to try some good French cuisine. Do you have a recommendation?",
+        "uk": "Я хотів би скуштувати гарну французьку кухню. У вас є рекомендація?"
+      },
+      "start": 42,
+      "end": 48,
+      "voice_type": "male"
+    },
+    {
+      "french": "Oui ! Dans deux minutes, nous allons passer devant Coco. Regardez à droite.",
+      "translation": {
+        "en": "Yes! In two minutes, we will be passing by Coco. Look to the right.",
+        "uk": "Так! Через дві хвилини ми проїдемо повз Coco. Подивіться праворуч."
+      },
+      "start": 48,
+      "end": 54,
+      "voice_type": "male2"
+    },
+    {
+      "french": "C'est un restaurant installé dans l’ancienne gare, maintenant un lieu très connu.",
+      "translation": {
+        "en": "It’s a restaurant located in the old train station, now a well-known place.",
+        "uk": "Це ресторан, розташований у старому вокзалі, зараз дуже популярне місце."
+      },
+      "start": 54,
+      "end": 59,
+      "voice_type": "male2"
+    },
+    {
+      "french": "Ils servent une cuisine française moderne, avec une ambiance superbe.",
+      "translation": {
+        "en": "They serve modern French cuisine, with a great atmosphere.",
+        "uk": "Вони подають сучасну французьку кухню, з чудовою атмосферою."
+      },
+      "start": 59,
+      "end": 64,
+      "voice_type": "male2"
+    },
+    {
+      "french": "Ça a l’air très bien ! Merci pour la suggestion !",
+      "translation": {
+        "en": "That sounds great! Thanks for the suggestion!",
+        "uk": "Звучить чудово! Дякую за пораду!"
+      },
+      "start": 64,
+      "end": 68,
+      "voice_type": "male"
+    },
+    {
+      "french": "Avec plaisir ! Profitez bien de votre séjour à Lyon !",
+      "translation": {
+        "en": "My pleasure! Enjoy your stay in Lyon!",
+        "uk": "Будь ласка! Гарного перебування у Ліоні!"
+      },
+      "start": 68,
+      "end": 72,
+      "voice_type": "male2"
+    }
+  ]
+}

@@ -138,6 +138,24 @@
         "en": "Exploring Lyon’s landmarks and attractions",
         "uk": "Ознайомлення з пам'ятками та визначними місцями Ліона"
       }
+    },
+    {
+      "id": "apartment_rental",
+      "title": "Apartment Rental",
+      "file": "content/apartment-rental.json",
+      "description": {
+        "en": "Phrases for renting an apartment",
+        "uk": "Фрази для оренди квартири"
+      }
+    },
+    {
+      "id": "taxi",
+      "title": "Taxi Ride",
+      "file": "content/taxi.json",
+      "description": {
+        "en": "Conversations during a taxi ride",
+        "uk": "Розмови під час поїздки на таксі"
+      }
     }
   ]
 }

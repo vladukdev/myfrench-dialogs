@@ -1,0 +1,109 @@
+{
+  "title": {
+    "en": "Apartment Rental Inquiry",
+    "uk": "Оренда квартири"
+  },
+  "audio": "content/audio/apartment_rental.mp3",
+  "sentences": [
+    {
+      "french": "Bonjour, je vous appelle au sujet de l'appartement en location.",
+      "translation": {
+        "en": "Hello, I am calling about the apartment for rent.",
+        "uk": "Добрий день, я телефоную щодо оренди квартири."
+      },
+      "start": 0,
+      "end": 4,
+      "voice_type": "female"
+    },
+    {
+      "french": "Bonjour! Oui, bien sûr. Vous souhaitez fixer une visite?",
+      "translation": {
+        "en": "Hello! Yes, of course. Would you like to schedule a visit?",
+        "uk": "Добрий день! Так, звичайно. Ви хочете домовитися про перегляд?"
+      },
+      "start": 4,
+      "end": 11,
+      "voice_type": "male"
+    },
+    {
+      "french": "Oui, quand serait-il possible de la visiter?",
+      "translation": {
+        "en": "Yes, when would it be possible to visit?",
+        "uk": "Так, коли можна було б її оглянути?"
+      },
+      "start": 11,
+      "end": 15,
+      "voice_type": "female"
+    },
+    {
+      "french": "Demain à 15 heures serait-il convenable pour vous?",
+      "translation": {
+        "en": "Would tomorrow at 3 PM be convenient for you?",
+        "uk": "Чи підходить вам завтра о 15:00?"
+      },
+      "start": 15,
+      "end": 18,
+      "voice_type": "male"
+    },
+    {
+      "french": "Oui, parfait! Les charges sont-elles incluses dans le loyer?",
+      "translation": {
+        "en": "Yes, perfect! Are the utilities included in the rent?",
+        "uk": "Так, чудово! Чи включені комунальні послуги в орендну плату?"
+      },
+      "start": 18,
+      "end": 24,
+      "voice_type": "female"
+    },
+    {
+      "french": "Non, elles sont à part. Il faut prévoir environ 120 euros par mois.",
+      "translation": {
+        "en": "No, they are separate. You should expect about 120 euros per month.",
+        "uk": "Ні, вони оплачуються окремо. Це приблизно 120 євро на місяць."
+      },
+      "start": 24,
+      "end": 30,
+      "voice_type": "male"
+    },
+    {
+      "french": "Y a-t-il une place de parking incluse?",
+      "translation": {
+        "en": "Is there a parking space included?",
+        "uk": "Чи включено паркувальне місце?"
+      },
+      "start": 30,
+      "end": 34,
+      "voice_type": "female"
+    },
+    {
+      "french": "Oui, une place dans le garage souterrain est incluse.",
+      "translation": {
+        "en": "Yes, a space in the underground garage is included.",
+        "uk": "Так, місце в підземному гаражі включено."
+      },
+      "start": 34,
+      "end": 38,
+      "voice_type": "male"
+    },
+    {
+      "french": "Merci pour les informations. À demain!",
+      "translation": {
+        "en": "Thank you for the information. See you tomorrow!",
+        "uk": "Дякую за інформацію. До завтра!"
+      },
+      "start": 38,
+      "end": 42,
+      "voice_type": "female"
+    },
+    {
+      "french": "Avec plaisir! À demain!",
+      "translation": {
+        "en": "You're welcome! See you tomorrow!",
+        "uk": "Будь ласка! До завтра!"
+      },
+      "start": 42,
+      "end": 48,
+      "voice_type": "male"
+    }
+  ]
+}
