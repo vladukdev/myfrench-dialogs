@@ -1,0 +1,109 @@
+{
+  "title": {
+    "en": "Apartment Renovation Consultation",
+    "uk": "Консультація з ремонту квартири"
+  },
+  "audio": "content/audio/apartment_renovation.mp3",
+  "sentences": [
+    {
+      "french": "Bonjour, je vous appelle pour une consultation sur la rénovation de mon appartement.",
+      "translation": {
+        "en": "Hello, I am calling for a consultation about renovating my apartment.",
+        "uk": "Добрий день, я телефоную для консультації щодо ремонту моєї квартири."
+      },
+      "start": 0,
+      "end": 5,
+      "voice_type": "female"
+    },
+    {
+      "french": "Bonjour madame! Je serais ravi de vous donner quelques astuces pour améliorer votre espace.",
+      "translation": {
+        "en": "Hello ma'am! I would be happy to give you some tips to improve your space.",
+        "uk": "Добрий день, пані! Я був би радий дати вам кілька порад, щоб покращити ваш простір."
+      },
+      "start": 5,
+      "end": 12,
+      "voice_type": "male"
+    },
+    {
+      "french": "Merci. Je voudrais agrandir mon salon en détruisant un mur non porteur.",
+      "translation": {
+        "en": "Thank you. I would like to enlarge my living room by removing a non-load-bearing wall.",
+        "uk": "Дякую. Я хотіла б збільшити мою вітальню, знісши ненесучу стіну."
+      },
+      "start": 12,
+      "end": 18,
+      "voice_type": "female"
+    },
+    {
+      "french": "C'est une excellente idée. Nous pouvons aussi enlever les vieux revêtements pour moderniser l'espace.",
+      "translation": {
+        "en": "That's an excellent idea. We can also remove the old coverings to modernize the space.",
+        "uk": "Це чудова ідея. Ми також можемо видалити старі покриття, щоб модернізувати простір."
+      },
+      "start": 18,
+      "end": 26,
+      "voice_type": "male"
+    },
+    {
+      "french": "Et pour la cuisine, je souhaite l'aménager différemment. Elle doit être refaite à neuf.",
+      "translation": {
+        "en": "And for the kitchen, I want to arrange it differently. It needs to be completely renovated.",
+        "uk": "А для кухні я хочу інше планування. Її потрібно повністю відремонтувати."
+      },
+      "start": 26,
+      "end": 32,
+      "voice_type": "female"
+    },
+    {
+      "french": "Nous pourrions inverser l'emplacement de l'évier et des plaques de cuisson pour optimiser l'espace.",
+      "translation": {
+        "en": "We could reverse the placement of the sink and stovetop to optimize the space.",
+        "uk": "Ми могли б поміняти місцями розташування раковини та плити, щоб оптимізувати простір."
+      },
+      "start": 32,
+      "end": 38,
+      "voice_type": "male"
+    },
+    {
+      "french": "Combien de temps faudra-t-il s'acharner sur ces travaux pour tout terminer?",
+      "translation": {
+        "en": "How long will we need to work hard on these renovations to finish everything?",
+        "uk": "Скільки часу потрібно буде наполегливо працювати над цим ремонтом, щоб все завершити?"
+      },
+      "start": 38,
+      "end": 43,
+      "voice_type": "female"
+    },
+    {
+      "french": "Pour un appartement de cette taille, comptez environ trois mois si nous travaillons efficacement.",
+      "translation": {
+        "en": "For an apartment this size, expect about three months if we work efficiently.",
+        "uk": "Для квартири такого розміру, очікуйте близько трьох місяців, якщо ми працюватимемо ефективно."
+      },
+      "start": 43,
+      "end": 48,
+      "voice_type": "male"
+    },
+    {
+      "french": "Parfait. Pouvez-vous me préparer un devis détaillé pour tous ces changements?",
+      "translation": {
+        "en": "Perfect. Can you prepare a detailed quote for all these changes?",
+        "uk": "Чудово. Чи можете ви підготувати детальний кошторис для всіх цих змін?"
+      },
+      "start": 48,
+      "end": 55,
+      "voice_type": "female"
+    },
+    {
+      "french": "Bien sûr. Je vous l'enverrai d'ici la fin de la semaine après avoir visité votre appartement.",
+      "translation": {
+        "en": "Of course. I will send it to you by the end of the week after visiting your apartment.",
+        "uk": "Звичайно. Я надішлю його вам до кінця тижня після відвідування вашої квартири."
+      },
+      "start": 55,
+      "end": 61,
+      "voice_type": "male"
+    }
+  ]
+}

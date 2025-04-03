@@ -156,6 +156,24 @@
         "en": "Conversations during a taxi ride",
         "uk": "Розмови під час поїздки на таксі"
       }
+    },
+    {
+      "id": "apartment_rental2",
+      "title": "Apartment Rental 2",
+      "file": "content/apartment-rental2.json",
+      "description": {
+        "en": "Phrases for renting an apartment 2",
+        "uk": "Фрази для оренди квартири 2"
+      }
+    },
+    {
+      "id": "apartment_renovation",
+      "title": "Apartment Renovation",
+      "file": "content/apartment-renovation.json",
+      "description": {
+        "en": "Apartment Renovation Dialog",
+        "uk": "Діалог планування ремонту квартири"
+      }
     }
   ]
 }

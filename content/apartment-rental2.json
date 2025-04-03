@@ -1,0 +1,130 @@
+{
+  "title": {
+    "en": "Long-Term Apartment Rental Consultation",
+    "uk": "Консультація щодо довгострокової оренди квартири"
+  },
+  "audio": "content/audio/apartment_rental_consultation.mp3",
+  "sentences": [
+    {
+      "french": "Bonjour, je cherche un appartement à louer pour une durée d'au moins deux ans. Quelles sont vos offres?",
+      "translation": {
+        "en": "Hello, I'm looking for an apartment to rent for at least two years. What are your offers?",
+        "uk": "Добрий день, я шукаю квартиру для оренди щонайменше на два роки. Які у вас є пропозиції?"
+      },
+      "start": 0,
+      "end": 6,
+      "voice_type": "male"
+    },
+    {
+      "french": "Bonjour monsieur! J'ai justement un appartement meublé qui pourrait vous intéresser. Quels sont vos critères?",
+      "translation": {
+        "en": "Hello sir! I happen to have a furnished apartment that might interest you. What are your criteria?",
+        "uk": "Добрий день, пане! У мене якраз є мебльована квартира, яка може вас зацікавити. Які ваші критерії?"
+      },
+      "start": 6,
+      "end": 15,
+      "voice_type": "female"
+    },
+    {
+      "french": "Je recherche un logement avec 3 chambres et 2 salles de bains pour ma famille. L'emplacement est important aussi.",
+      "translation": {
+        "en": "I'm looking for a home with 3 bedrooms and 2 bathrooms for my family. Location is also important.",
+        "uk": "Я шукаю житло з 3 спальнями та 2 ванними кімнатами для моєї родини. Розташування також важливе."
+      },
+      "start": 15,
+      "end": 22,
+      "voice_type": "male"
+    },
+    {
+      "french": "J'ai exactement ce qu'il vous faut! Un appartement situé à seulement 10 minutes de Lyon en voiture, dans un quartier calme.",
+      "translation": {
+        "en": "I have exactly what you need! An apartment located just 10 minutes from Lyon by car, in a quiet neighborhood.",
+        "uk": "У мене є саме те, що вам потрібно! Квартира, розташована лише за 10 хвилин від Ліона на автомобілі, у тихому районі."
+      },
+      "start": 22,
+      "end": 31,
+      "voice_type": "female"
+    },
+    {
+      "french": "Ça semble intéressant. Est-ce qu'il y a un espace extérieur? Ma femme aime jardiner.",
+      "translation": {
+        "en": "That sounds interesting. Is there an outdoor space? My wife likes gardening.",
+        "uk": "Це звучить цікаво. Чи є там зовнішній простір? Моя дружина любить садівництво."
+      },
+      "start": 31,
+      "end": 38,
+      "voice_type": "male"
+    },
+    {
+      "french": "Oui, il y a un petit jardin derrière l'immeuble, réservé aux occupants de l'appartement. C'est parfait pour cultiver des herbes aromatiques.",
+      "translation": {
+        "en": "Yes, there's a small garden behind the building, reserved for the apartment occupants. It's perfect for growing aromatic herbs.",
+        "uk": "Так, позаду будинку є невеликий сад, зарезервований для мешканців квартири. Це ідеально підходить для вирощування ароматичних трав."
+      },
+      "start": 38,
+      "end": 48,
+      "voice_type": "female"
+    },
+    {
+      "french": "Et comment est l'appartement en termes de lumière naturelle? C'est important pour nous.",
+      "translation": {
+        "en": "And how is the apartment in terms of natural light? That's important for us.",
+        "uk": "А як щодо природного освітлення квартири? Це важливо для нас."
+      },
+      "start": 48,
+      "end": 53,
+      "voice_type": "male"
+    },
+    {
+      "french": "Il est très lumineux avec beaucoup de grandes fenêtres orientées sud, ce qui offre une excellente planification pour la conservation de la chaleur en hiver.",
+      "translation": {
+        "en": "It's very bright with many large south-facing windows, which offers excellent planning for heat conservation in winter.",
+        "uk": "Вона дуже світла з багатьма великими вікнами, орієнтованими на південь, що забезпечує відмінне планування для збереження тепла взимку."
+      },
+      "start": 53,
+      "end": 63,
+      "voice_type": "female"
+    },
+    {
+      "french": "C'est parfait! Quand pourrions-nous visiter l'appartement? Et quel est le loyer mensuel?",
+      "translation": {
+        "en": "That's perfect! When could we visit the apartment? And what is the monthly rent?",
+        "uk": "Це ідеально! Коли ми могли б оглянути квартиру? І яка щомісячна орендна плата?"
+      },
+      "start": 63,
+      "end": 70,
+      "voice_type": "male"
+    },
+    {
+      "french": "Nous pouvons organiser une visite dès demain. Le loyer est de 1450 euros par mois, charges comprises. Un dépôt de garantie équivalent à deux mois de loyer sera demandé.",
+      "translation": {
+        "en": "We can arrange a visit as early as tomorrow. The rent is 1450 euros per month, utilities included. A security deposit equivalent to two months' rent will be required.",
+        "uk": "Ми можемо організувати огляд уже завтра. Орендна плата становить 1450 євро на місяць, включаючи комунальні послуги. Потрібна застава, еквівалентна двом місяцям оренди."
+      },
+      "start": 70,
+      "end": 83,
+      "voice_type": "female"
+    },
+    {
+      "french": "Très bien. Prenons rendez-vous pour demain à 14h, si c'est possible?",
+      "translation": {
+        "en": "Very well. Let's make an appointment for tomorrow at 2 PM, if that's possible?",
+        "uk": "Дуже добре. Домовимося на завтра о 14:00, якщо це можливо?"
+      },
+      "start": 83,
+      "end": 89,
+      "voice_type": "male"
+    },
+    {
+      "french": "C'est parfait. Je note votre visite pour demain à 14h. Apportez une pièce d'identité et vos trois derniers bulletins de salaire, s'il vous plaît.",
+      "translation": {
+        "en": "That's perfect. I'll note your visit for tomorrow at 2 PM. Please bring an ID and your last three pay stubs.",
+        "uk": "Це ідеально. Я запишу ваш візит на завтра о 14:00. Будь ласка, візьміть із собою посвідчення особи та три останні розрахункові листи."
+      },
+      "start": 89,
+      "end": 100,
+      "voice_type": "female"
+    }
+  ]
+}
+
